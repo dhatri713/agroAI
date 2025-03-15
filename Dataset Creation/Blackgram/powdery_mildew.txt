@@ -1,0 +1,113 @@
+﻿Core Information
+Field
+	Details
+	Disease Name
+	Powdery Mildew
+	Scientific Name
+	Erysiphe polygoni
+	Category
+	Fungal Disease
+	Severity Index
+	3/5 (Moderate Economic Impact)
+	Seasonal Patterns
+	Peak infection during late Rabi (Winter) and early summer seasons, especially under dry conditions.
+	Environmental Factors
+	Prefers cool temperatures (15-25°C), high humidity (70-90%), and spreads rapidly under dry weather with moderate dew formation.
+	Region
+	Andhra Pradesh, Telangana
+	Region-Specific Info
+	Andhra Pradesh: High occurrences in Krishna, Guntur, Prakasam. Telangana: Frequently reported in Warangal, Nizamabad, Karimnagar, especially in areas with dense crop planting.
+	Symptoms & Visual Indicators
+Early Stage (Initial Infection)
+* Symptoms: White powdery fungal patches on the upper surface of leaves.
+* Visual Indicator: Fine, white dusty spots appearing on young leaves and stems.
+Mid-Stage (Fungal Spread)
+* Symptoms: Fungal patches expand, covering the entire leaf surface and reducing photosynthesis.
+* Visual Indicator: Dense, white powdery growth on leaves, petioles, and young pods.
+Advanced Stage (Severe Infection)
+* Symptoms: Leaves turn yellow, curl, and dry out, leading to yield loss (30-50%).
+* Visual Indicator: Leaves appear completely covered with white fungal growth, followed by drying and falling off.
+Prevention & Control
+Cultural Practices
+1. Use Disease-Resistant Varieties: Resistant varieties like LBG-17 have shown high resistance to Powdery Mildew12.
+2. Avoid Excessive Nitrogen Fertilization: High nitrogen levels promote fungal growth.
+3. Ensure Proper Spacing: Avoid dense planting to increase air circulation and reduce humidity.
+4. Timely Sowing: Avoid late sowing to escape peak disease periods2.
+Biological Controls
+1. Spray Trichoderma viride (5g/L water): Suppresses fungal spores effectively1.
+2. Apply Neem Oil Extracts (2%): Reduces fungal spread naturally2.
+3. Encourage Natural Antagonistic Fungi like Bacillus subtilis: Provides biological suppression of fungal growth1.
+Chemical Controls
+⚠️ Apply fungicides only when infection exceeds 10-15% of the field.
+Fungicide
+	Dosage
+	Mode of Action
+	Hexaconazole 5% EC
+	2 ml/L water
+	Systemic fungicide; prevents spore formation34
+	Wettable Sulphur 80 WP
+	3g/L water
+	Contact fungicide; reduces fungal growth34
+	Carbendazim 50 WP
+	1g/L water
+	Systemic fungicide; inhibits fungal growth35
+	Propiconazole + Difenoconazole (Taspa 300 SC)
+	0.2% concentration
+	Highly effective against spore germination24.
+	Queries & Responses
+1️⃣ Direct Queries & Follow-Up Queries
+Direct Query
+	Response
+	Follow-Up Query 1
+	Response 1
+	Follow-Up Query 2
+	Response 2
+	Follow-Up Query 3
+	Response 3
+	What is Powdery Mildew in Black Gram?
+	Powdery Mildew (Erysiphe polygoni) is a fungal disease that forms white powdery patches on leaves and stems, reducing crop yield.
+	How does Powdery Mildew spread?
+	It spreads through airborne spores and survives on crop residues.
+	Can Powdery Mildew affect other crops?
+	Yes, it also infects Pigeon Pea, Green Gram, and Chickpea.
+	Does the fungus survive in soil?
+	No, it mainly survives on infected plant debris and weed hosts.
+	What are the symptoms of Powdery Mildew?
+	Symptoms include white powdery fungal patches on leaves, petioles, and young pods, leading to leaf yellowing and drying.
+	How do I identify Powdery Mildew early?
+	Look for tiny white powdery spots on young leaves and stems.
+	Can bacterial diseases cause similar symptoms?
+	No, bacterial diseases cause water-soaked lesions rather than powdery patches.
+	What happens if Powdery Mildew is left untreated?
+	Severe infections cause 30-50% yield loss due to poor pod development and defoliation.
+	When does Powdery Mildew occur?
+	It is most common in late winter and early summer under dry conditions with moderate dew formation.
+	Does rain reduce Powdery Mildew infection?
+	Yes, high rainfall washes off fungal spores, slowing their spread.
+	Can hot weather stop Powdery Mildew?
+	No, dry and cool conditions (15-25°C) favor its growth.
+	Which months are most at risk for Powdery Mildew?
+	January-March during Rabi season is the peak infection period for this disease.
+	2️⃣ Scenario-Based Queries
+Scenario Query
+	Response
+	What diseases affect Black Gram during winter?
+	Major diseases include Powdery Mildew, Rust, and Bacterial Leaf Blight.
+	How to manage Powdery Mildew organically?
+	Use Neem oil sprays, Trichoderma treatments, and reduce excessive nitrogen application.
+	Which environmental conditions favor Powdery Mildew?
+	Dry weather (15-25°C) with moderate humidity (70-90%) increases infection risk significantly.
+	What are early warning signs of Powdery Mildew?
+	Fine white powdery spots on young leaves and stems indicate early infection stages.
+	Can mulching reduce Powdery Mildew infection?
+	No, mulching increases humidity which can worsen the disease under favorable conditions.
+	3️⃣ Visual Indicator Queries
+Query
+	Response
+	What does Powdery Mildew look like?
+	The disease appears as white powdery patches on leaves, stems, and pods under dry conditions3.
+	How do I identify Powdery Mildew early?
+	Look for fine white powder on young leaves and petioles in cool, dry conditions4.
+	Why are my Black Gram leaves covered in white dust?
+	This is likely due to Powdery Mildew infection where fungal spores spread rapidly in dry weather with moderate dew formation5.
+	

@@ -1,0 +1,100 @@
+﻿Core Information
+Field
+	Details
+	Pest Name
+	Spotted Pod Borer
+	Scientific Name
+	Maruca vitrata (previously known as Maruca testulalis)
+	Category
+	Pest
+	Severity Index
+	3.5/5 (Moderate to High Economic Impact)
+	Seasonal Patterns
+	Peak infestation during Kharif (Monsoon) and Rabi (Winter) seasons, especially under humid conditions.
+	Environmental Factors
+	Prefers high humidity (75-85%), moderate temperatures (22-28°C), and is more active during cloudy, wet conditions.
+	Region
+	Andhra Pradesh, Telangana
+	Region-Specific Info
+	Andhra Pradesh: Major infestations in Krishna, East Godavari, Guntur. Telangana: Frequent in Nizamabad, Warangal, Khammam due to continuous Black Gram cultivation.
+	Symptoms & Visual Indicators
+Early Stage (Eggs & Neonate Larvae)
+* Symptoms: Small, translucent yellow eggs on flower buds and leaves.
+* Visual Indicator: Tiny white eggs in clusters near flowers.
+Mid-Stage (Growing Larvae)
+* Symptoms: Larvae bore into flowers and pods, causing premature pod drop.
+* Visual Indicator: White larvae with dark spots seen feeding on flowers.
+Advanced Stage (Severe Infestation)
+* Symptoms: Silken webbing of flowers and pods, severe seed loss, and yield reduction.
+* Visual Indicator: Webbed flowers and pods, hollowed pods with exit holes.
+Prevention & Control
+Cultural Practices
+* Timely Sowing: Sow in June-July to reduce pest population exposure.
+* Intercropping: Intercrop with Millets or Sorghum to disrupt pest cycles.
+* Deep Ploughing: Perform deep ploughing post-harvest to eliminate larvae and pupae in soil.
+Biological Controls
+* Trichogramma chilonis: Release to parasitize Maruca vitrata eggs.
+* Neem-based Sprays: Use Azadirachtin 1% to reduce larval feeding.
+* Bacillus thuringiensis (Bt): Spray for natural control of larvae.
+Chemical Controls
+* Apply chemicals only when infestation exceeds ETL (2 larvae per meter row length).
+* Pesticide Dosage and Mode of Action:
+   * Spinosad 45 SC: 0.3 ml/L water, neurotoxic effect on larvae.
+   * Emamectin Benzoate 5 SG: 0.5 g/L water, disrupts larval nervous system.
+   * Chlorantraniliprole 18.5 SC: 0.3 ml/L water, highly effective on larvae.
+Queries & Responses (English)
+1️⃣ Direct Queries & Follow-up Queries
+Direct Query
+	Response
+	Follow-Up Query 1
+	Response 1
+	Follow-Up Query 2
+	Response 2
+	Follow-Up Query 3
+	Response 3
+	What is Spotted Pod Borer?
+	Spotted Pod Borer (Maruca vitrata) is a major pest affecting Black Gram by feeding on flowers and pods, leading to yield loss.
+	How does Spotted Pod Borer impact Black Gram yield?
+	Severe infestations cause 30-50% yield loss due to webbed flowers and empty pods.
+	Can Spotted Pod Borer attack other crops?
+	Yes, it also infests Pigeon Pea, Cowpea, and Soybean.
+	How is Spotted Pod Borer different from Gram Pod Borer?
+	Spotted Pod Borer larvae are white with dark spots, while Gram Pod Borer larvae are greenish-brown.
+	What are the symptoms of Spotted Pod Borer?
+	Symptoms include silken webbing of flowers and pods, premature pod drop, and seed loss.
+	How do I identify Spotted Pod Borer early?
+	Look for webbing of flowers and small white larvae inside pods.
+	Can other factors cause webbing on flowers?
+	Yes, certain fungal infections and mites can also cause webbing.
+	What is the best way to inspect my crop?
+	Check flowers and pods in the morning, when larvae are most active.
+	When does Spotted Pod Borer attack Black Gram?
+	Infestation peaks in monsoon (Kharif) and winter (Rabi), especially during high humidity.
+	Is infestation worse in wet conditions?
+	Yes, cloudy and humid weather increases larval survival.
+	Can extreme heat reduce Spotted Pod Borer populations?
+	Yes, hot and dry conditions reduce egg hatching and larval survival.
+	Which month has the highest risk of infestation?
+	August-October is the peak period.
+	2️⃣ Scenario-Based Queries
+Scenario Query
+	Response
+	What pests affect Black Gram during Monsoon?
+	Major pests include Spotted Pod Borer, Gram Pod Borer, Whiteflies, and Aphids.
+	How to prevent pest outbreaks in organic Black Gram farming?
+	Use Neem oil sprays, intercropping, and release of beneficial insects like Trichogramma.
+	Which crops should not be grown near Black Gram?
+	Avoid Cowpea and Pigeon Pea, as they are alternate hosts for Maruca vitrata.
+	What are the early warning signs of Spotted Pod Borer?
+	Webbed flowers, small white larvae inside pods, and sudden pod drop are key signs.
+	Does late sowing increase pod borer infestation?
+	Yes, late-sown crops are at higher risk as Maruca vitrata populations peak mid-season.
+	3️⃣ Visual Indicator Queries
+Query
+	Response
+	What does Spotted Pod Borer larvae look like?
+	The larvae are white with dark spots, growing up to 2-3 cm.
+	How do I identify Spotted Pod Borer at early stages?
+	Look for tiny translucent yellow eggs on flower buds and leaves.
+	Why are my Black Gram pods empty inside?
+	This could be due to Spotted Pod Borer, as larvae bore into pods and eat the seeds.

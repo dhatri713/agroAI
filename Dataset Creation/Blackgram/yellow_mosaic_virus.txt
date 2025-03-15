@@ -1,0 +1,111 @@
+﻿Core Information
+Field
+	Details
+	Disease Name
+	Yellow Mosaic Virus (YMV)
+	Scientific Name
+	Mungbean Yellow Mosaic Virus (MYMV) / Mungbean Yellow Mosaic India Virus (MYMIV)
+	Category
+	Viral Disease (Begomovirus, Family: Geminiviridae)
+	Severity Index
+	5/5 (Severe Economic Impact)
+	Seasonal Patterns
+	Peak infection during Kharif (Monsoon) and early Rabi (Winter) seasons, correlating with high whitefly populations.
+	Environmental Factors
+	Prefers warm temperatures (25-35°C), moderate humidity (60-80%), and spreads via whitefly (Bemisia tabaci) vectors. Also survives in seeds (seed-borne) and plant debris.
+	Region
+	Andhra Pradesh, Telangana
+	Region-Specific Info
+	Andhra Pradesh: High occurrences in Krishna, Guntur, Prakasam. Telangana: Warangal, Nizamabad, Karimnagar face severe outbreaks due to continuous cropping.
+	Symptoms & Visual Indicators
+Early Stage (Initial Infection)
+* Symptoms: Small yellow specks along leaf veins, progressing to irregular chlorotic patches.
+* Visual Indicator: "Yellow mottle" (generalized yellowing) or "necrotic mottle" (yellow spots with necrosis) on leaves16.
+Mid-Stage (Leaf Yellowing)
+* Symptoms: Bright yellow mosaic patterns with green islands, downward leaf curling, and stunted growth.
+* Visual Indicator: Leaves show alternating yellow-green patches resembling a chessboard47.
+Advanced Stage (Severe Infection)
+* Symptoms: Complete leaf yellowing, brittle leaves, malformed pods, and 50-80% yield loss.
+* Visual Indicator: Internode shortening, wrinkled leaves, and shriveled seeds in pods25.
+Prevention & Control
+Cultural Practices
+1. Use Certified YMV-Resistant Varieties: LBG-752 (Andhra Pradesh) and LBG-20 (Telangana) show partial resistance.
+2. Seed Treatment: Hot water treatment (55°C for 30 mins) to eliminate seed-borne viruses5.
+3. Rogue Infected Plants: Uproot and burn symptomatic plants immediately.
+4. Avoid Adjacent Host Crops: Remove alternate hosts like Green Gram and Soybean near fields.
+Biological Controls
+1. Whitefly Management:
+   * Release Encarsia formosa (parasitizes whitefly nymphs).
+   * Spray 5% NSKE (Neem Seed Kernel Extract) to deter whiteflies.
+2. Barrier Cropping: Plant maize/sorghum around fields to block whitefly migration.
+Chemical Controls
+⚠️ Apply insecticides only when whitefly populations exceed 5 adults per leaf (ETL).
+Insecticide
+	Dosage
+	Mode of Action
+	Thiamethoxam 25 WG (Actara)
+	0.3 g/L water
+	Systemic control of whiteflies
+	Acetamiprid 20 SP (Pride)
+	40 g/acre
+	Reduces viral transmission by targeting nymphs
+	Spiromesifen 22.9 SC (Oberon)
+	0.5 ml/L water
+	Disrupts whitefly reproduction
+	Queries & Responses
+1️⃣ Direct Queries & Follow-Up Queries
+Direct Query
+	Response
+	Follow-Up Query 1
+	Response 1
+	Follow-Up Query 2
+	Response 2
+	Follow-Up Query 3
+	Response 3
+	What is Yellow Mosaic Virus (YMV)?
+	YMV is a whitefly-transmitted begomovirus causing mosaic yellowing and severe yield loss.
+	How does YMV spread?
+	Primarily via whiteflies (Bemisia tabaci), but also through infected seeds5.
+	Can YMV affect other crops?
+	Yes, it infects Green Gram, Cowpea, and Soybean. MYMIV is more virulent in South India67.
+	Does YMV survive in soil?
+	No, but it persists in seeds and plant debris for months.
+	What are YMV symptoms?
+	Symptoms include yellow mosaic patterns, leaf curling, and malformed pods.
+	How to distinguish YMV from nutrient deficiencies?
+	YMV causes irregular yellow patches, while deficiencies show uniform discoloration.
+	Can YMV be seed-borne?
+	Yes, MYMV DNA is detected in seed coats and embryos5.
+	What if YMV is untreated?
+	50-80% yield loss; pods become unmarketable due to shriveled seeds24.
+	When does YMV occur?
+	Peak outbreaks in July-October (monsoon) when whitefly populations surge.
+	Does rain reduce YMV?
+	Heavy rain temporarily reduces whiteflies but doesn’t eliminate seed-borne virus5.
+	Can neem oil control YMV?
+	Neem oil reduces whiteflies by 60-70%, slowing viral spread7.
+	Which crops increase YMV risk?
+	Growing Soybean or Green Gram nearby raises infection risk due to shared whitefly vectors.
+	2️⃣ Scenario-Based Queries
+Scenario Query
+	Response
+	What diseases affect Black Gram during monsoon?
+	Major threats: YMV, Cercospora Leaf Spot, and Bacterial Leaf Blight.
+	How to manage YMV in organic farming?
+	Use NSKE sprays, YMV-resistant varieties, and maize barrier crops.
+	Which conditions favor YMV?
+	Warm (25-35°C), dry weather with moderate humidity (60-80%)47.
+	Early signs of YMV?
+	Yellow specks on young leaves + whiteflies on leaf undersides.
+	Does reflective mulching help?
+	Yes, silver plastic mulch repels whiteflies, reducing YMV spread by 40-50%4.
+	3️⃣ Visual Indicator Queries
+Query
+	Response
+	What does YMV look like?
+	Bright yellow mosaic patterns with green islands; leaves curl downward.
+	How to confirm YMV early?
+	Test seeds/leaves via PCR or ELISA; field kits are available for farmers57.
+	Why are pods shriveled?
+	YMV disrupts nutrient flow to pods, causing seed abortion and deformation24.
+	

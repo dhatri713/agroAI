@@ -1,0 +1,109 @@
+﻿Core Information
+Field
+	Details
+	Pest Name
+	Gram Pod Borer
+	Scientific Name
+	Helicoverpa armigera
+	Category
+	Pest
+	Severity Index
+	4/5 (High Economic Impact)
+	Seasonal Patterns
+	Peak infestation during Kharif (Monsoon) and Rabi (Winter) seasons.
+	Environmental Factors
+	Prefers warm temperatures (25-30°C) and moderate to high humidity (50-80%).
+	Region
+	Andhra Pradesh, Telangana
+	Region-Specific Info
+	Andhra Pradesh: Major outbreaks in Krishna, Guntur, Prakasam districts. Telangana: Frequent infestations in Karimnagar, Nizamabad, Warangal due to continuous Black Gram cultivation.
+	Symptoms & Visual Indicators
+Early Stage (Eggs & Neonate Larvae)
+* Symptoms: Small yellowish-white eggs laid on leaves and flowers; tiny green larvae start feeding on buds.
+* Visual Indicator: Tiny yellow eggs clustered on flower buds.
+Mid-Stage (Growing Larvae)
+* Symptoms: Larvae bore into pods, leaving circular holes; visible defoliation.
+* Visual Indicator: Green-brown larvae with dark lateral stripes, seen inside pods.
+Advanced Stage (Mature Larvae & Severe Infestation)
+* Symptoms: Hollowed-out pods, shriveled seeds, high pod damage (yield loss 40-50%).
+* Visual Indicator: Large brownish caterpillars with visible black stripes.
+Prevention & Control
+Cultural Practices
+1. Crop Rotation: Rotate with cereals like Maize or Sorghum to reduce larval populations.
+2. Early Sowing (June-July): Helps crops escape peak infestation periods.
+3. Deep Ploughing After Harvest: Kills pupae in the soil by exposing them to sunlight.
+Biological Controls
+1. Release of Trichogramma chilonis: Parasitizes Helicoverpa eggs.
+2. Neem-Based Sprays (Azadirachtin 1%): Reduces larval feeding.
+3. Spray Bacillus thuringiensis (Bt): Effective for natural larval control.
+4. Use of NPV (Nucleopolyhedrovirus): Targets Helicoverpa larvae specifically.
+Chemical Controls
+⚠️ Apply only when infestation exceeds Economic Threshold Level (ETL = 2-3 larvae per meter row length).
+Pesticide
+	Dosage
+	Mode of Action
+	Spinosad 45 SC
+	0.3 ml/L water
+	Neurotoxic effect on larvae
+	Emamectin Benzoate 5 SG
+	0.5 g/L water
+	Disrupts larval nervous system
+	Chlorantraniliprole 18.5 SC
+	0.3 ml/L water
+	Highly effective on Helicoverpa larvae
+	Queries & Responses
+1️⃣ Direct Queries & Follow-Up Queries
+Direct Query
+	Response
+	Follow-Up Query 1
+	Response 1
+	Follow-Up Query 2
+	Response 2
+	Follow-Up Query 3
+	Response 3
+	What is Gram Pod Borer?
+	Gram Pod Borer (Helicoverpa armigera) is a major pest in Black Gram that damages pods by feeding on developing seeds.
+	How does Gram Pod Borer affect Black Gram yield?
+	Severe infestations can reduce yield by 40-50% due to pod damage.
+	Can Gram Pod Borer infest other crops?
+	Yes, it also attacks Red Gram, Chickpea, and Cotton.
+	Is Gram Pod Borer the same as Spotted Pod Borer?
+	No, Spotted Pod Borer larvae are white with dark spots, while Gram Pod Borer is greenish-brown with stripes.
+	What are the symptoms of Gram Pod Borer?
+	Symptoms include holes in pods, shriveled seeds, and visible larvae inside pods.
+	How do I identify Gram Pod Borer early?
+	Look for small holes in flower buds and green larvae on pods early morning.
+	Are holes in Black Gram pods always due to this pest?
+	No, thrips and fungal diseases can also cause pod damage.
+	What is the best way to inspect my crop for early infestation?
+	Check flowers and pods early morning using a magnifying lens to detect eggs or larvae.
+	When does Gram Pod Borer attack Black Gram?
+	Peak infestations occur during monsoon (Kharif) and winter (Rabi) seasons.
+	Is pod borer infestation worse during droughts?
+	No, high humidity and cloudy weather favor infestation more than drought conditions.
+	Can weather changes reduce pod borer damage?
+	Yes, dry and hot conditions reduce larval survival significantly.
+	Which month is the highest risk for this pest?
+	August-October is the most vulnerable period for Black Gram crops.
+	2️⃣ Scenario-Based Queries
+Scenario Query
+	Response
+	What pests affect Black Gram during Monsoon?
+	Major pests include Gram Pod Borer, Whiteflies, and Aphids which thrive under high humidity conditions.
+	How to prevent pest outbreaks in organic Black Gram farming?
+	Use Neem oil sprays, intercropping with trap crops like Marigold, and release beneficial insects like Trichogramma.
+	Which crops should not be grown near Black Gram?
+	Avoid Red Gram and Chickpea as they host Helicoverpa larvae which can migrate to Black Gram fields.
+	What are the early warning signs of Gram Pod Borer?
+	Small holes in flower buds, light-green larvae on pods, and dropping frass near pod entry points indicate early infestation stages.
+	Does late sowing increase pod borer infestation?
+	Yes, late-sown crops face higher infestations as Helicoverpa populations peak mid-season during crop growth stages.
+	3️⃣ Visual Indicator Queries
+Query
+	Response
+	What does Gram Pod Borer larvae look like?
+	The larvae are greenish-brown with dark lateral stripes and grow up to 3-4 cm long under favorable conditions.
+	How do I identify Gram Pod Borer at early stages?
+	Look for tiny yellowish-white eggs on leaves and flower buds; early-stage larvae are light green in color.
+	Why are my Black Gram pods empty inside?
+	This is likely due to Gram Pod Borer infestation; larvae bore into pods and eat seeds causing hollowed-out pods.

@@ -1,0 +1,110 @@
+﻿Core Information
+Field
+	Details
+	Disease Name
+	Collar Rot
+	Scientific Name
+	Sclerotium rolfsii
+	Category
+	Fungal Disease
+	Severity Index
+	4/5 (High Economic Impact)
+	Seasonal Patterns
+	Peak infection during Kharif (Monsoon) and early Rabi (Winter) seasons, especially in poorly drained fields.
+	Environmental Factors
+	Prefers high temperatures (25-35°C), high humidity (80-100%), and spreads rapidly in wet soil conditions.
+	Region
+	Andhra Pradesh, Telangana
+	Region-Specific Info
+	Andhra Pradesh: High occurrences in Krishna, Guntur, Prakasam. Telangana: Frequently reported in Warangal, Karimnagar, Nizamabad, especially in fields with poor drainage and excessive organic debris.
+	Symptoms & Visual Indicators
+Early Stage (Initial Infection)
+* Symptoms: Water-soaked lesions form at the base of the stem (collar region).
+* Visual Indicator: Small, circular, brownish spots at the stem base near the soil line.
+Mid-Stage (Fungal Spread)
+* Symptoms: Cottony white fungal growth appears at the base of the stem, leading to plant wilting.
+* Visual Indicator: White fungal mycelium covering the collar region and surrounding soil.
+Advanced Stage (Severe Infection)
+* Symptoms: Roots rot, plants collapse, and hard, mustard-sized fungal sclerotia form at the base.
+* Visual Indicator: Brown, dried-out stems with hard, white-to-brown fungal sclerotia near the base.
+Prevention & Control
+Cultural Practices
+1. Use Disease-Free Seeds: Avoid using seeds from infected fields to prevent initial inoculum.
+2. Improve Field Drainage: Ensure proper drainage to avoid standing water near the plant base.
+3. Crop Rotation: Rotate with non-host crops like cereals (Maize, Sorghum) to reduce fungal buildup.
+4. Remove Plant Debris: Burn or bury infected residues to limit fungal survival.
+Biological Controls
+1. Seed Treatment with Trichoderma viride (5g/kg seeds): Suppresses fungal growth during germination.
+2. Soil Drenching with Pseudomonas fluorescens (2%): Inhibits Sclerotium rolfsii activity in soil.
+3. Neem Cake Application (250 kg/ha): Reduces fungal spore load in the soil.
+Chemical Controls
+⚠️ Apply fungicides only when infection exceeds 10-15% of the field.
+Fungicide
+	Dosage
+	Mode of Action
+	Copper Oxychloride 50 WP
+	3g/L water
+	Contact fungicide; prevents further spread
+	Carbendazim 50 WP
+	1g/L water
+	Systemic fungicide; inhibits fungal growth
+	Thiram 75 WP
+	2.5g/L water
+	Protects seedling base from fungal attack
+	Queries & Responses
+1️⃣ Direct Queries & Follow-Up Queries
+Direct Query
+	Response
+	Follow-Up Query 1
+	Response 1
+	Follow-Up Query 2
+	Response 2
+	Follow-Up Query 3
+	Response 3
+	What is Collar Rot in Black Gram?
+	Collar Rot (Sclerotium rolfsii) is a fungal disease that attacks the base of the stem, causing plant wilting and death.
+	How does Collar Rot spread?
+	It spreads through contaminated soil, crop residues, and excessive moisture.
+	Can Collar Rot affect other crops?
+	Yes, it also infects Groundnut, Soybean, and Chickpea.
+	Does Collar Rot survive in soil?
+	Yes, it remains in infected soil and plant debris for years as sclerotia.
+	What are the symptoms of Collar Rot?
+	Symptoms include water-soaked lesions at the stem base, white fungal mycelium, and plant collapse.
+	How do I identify Collar Rot early?
+	Look for brown spots and a cottony white fungal layer at the base of seedlings.
+	Can bacterial diseases cause similar symptoms?
+	No, bacterial infections cause soft wet rotting; Collar Rot causes dry hardened decay.
+	What happens if Collar Rot is left untreated?
+	It leads to 50-70% yield loss due to complete plant collapse and root decay.
+	When does Collar Rot occur?
+	It is most common in monsoon and early winter seasons under high humidity conditions (80-100%).
+	Does rain affect Collar Rot spread?
+	Yes, continuous wet conditions encourage fungal growth and spread through splashing water.
+	Can high temperatures reduce Collar Rot infection?
+	No, it thrives in warm conditions (25-35°C), especially in moist fields.
+	Which months are most at risk for Collar Rot?
+	July-October during monsoon is the peak infection period for this disease.
+	2️⃣ Scenario-Based Queries
+Scenario Query
+	Response
+	What diseases affect Black Gram during high humidity?
+	Major diseases include Collar Rot, Web Blight, and Root Rot under humid conditions.
+	How to manage Collar Rot organically?
+	Use Neem Cake application to soil, Trichoderma seed treatment, and improve field drainage practices.
+	Which environmental conditions favor Collar Rot spread?
+	High humidity (80-100%) combined with warm temperatures (25-35°C) increases infection risk significantly.
+	What are early warning signs of Collar Rot?
+	Tiny brown spots at the stem base near soil line and white fungal growth indicate early infection stages.
+	Can deep ploughing reduce Collar Rot infection?
+	Yes, deep ploughing exposes soil fungi to sunlight which reduces their viability significantly.
+	3️⃣ Visual Indicator Queries
+Query
+	Response
+	What does Collar Rot look like in Black Gram?
+	The disease appears as brown spots at the stem base with white cottony fungal growth followed by plant wilting under humid conditions.
+	How do I identify Collar Rot early?
+	Look for water-soaked lesions at the soil line with cottony fungal strands spreading on the surface near the collar region of seedlings.
+	Why are my Black Gram seedlings dying after germination?
+	This is likely due to Collar Rot; it weakens the stem base causing plants to fall over and die rapidly under moist conditions.
+	

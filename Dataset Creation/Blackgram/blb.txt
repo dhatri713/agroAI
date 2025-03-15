@@ -1,0 +1,110 @@
+﻿Core Information
+Field
+	Details
+	Disease Name
+	Bacterial Leaf Blight (BLB)
+	Scientific Name
+	Xanthomonas axonopodis pv. phaseoli
+	Category
+	Bacterial Disease
+	Severity Index
+	4/5 (High Economic Impact)
+	Seasonal Patterns
+	Peak infection during Kharif (Monsoon) and early Rabi (Winter) seasons, especially in high humidity conditions.
+	Environmental Factors
+	Prefers warm temperatures (25-35°C), high humidity (75-90%), and spreads rapidly in wet conditions or after heavy rainfall.
+	Region
+	Andhra Pradesh, Telangana
+	Region-Specific Info
+	Andhra Pradesh: High occurrences in Krishna, Guntur, Nellore. Telangana: Frequently reported in Warangal, Nizamabad, Karimnagar, especially in fields with excessive nitrogen fertilization.
+	Symptoms & Visual Indicators
+Early Stage (Initial Infection)
+* Symptoms: Water-soaked spots on leaves, which later turn yellow.
+* Visual Indicator: Small, irregular dark-green patches with yellow halos on young leaves.
+Mid-Stage (Lesion Expansion)
+* Symptoms: Spots enlarge into V-shaped lesions along leaf margins.
+* Visual Indicator: Brown, necrotic lesions with a yellow border, leading to curling and drying of leaves.
+Advanced Stage (Severe Infection)
+* Symptoms: Leaves fall off, pods show bacterial oozing, and plant growth is stunted.
+* Visual Indicator: Sticky bacterial exudates on stems and pod surfaces, turning black in humid conditions.
+Prevention & Control
+Cultural Practices
+1. Use Disease-Free Seeds: Avoid planting seeds from infected crops.
+2. Avoid Overhead Irrigation: Bacterial spread increases with splashing water.
+3. Crop Rotation: Avoid continuous planting of Black Gram in infected fields.
+4. Field Sanitation: Remove infected crop residues to reduce bacterial survival.
+Biological Controls
+1. Spray Pseudomonas fluorescens (5g/L water): Suppresses bacterial activity.
+2. Apply Neem Oil Extracts (2%): Acts as a preventive measure.
+3. Encourage Natural Antagonistic Bacteria like Bacillus subtilis: Reduces bacterial spread.
+Chemical Controls
+⚠️ Apply bactericides only when infection exceeds 10-15% of the field.
+Bactericide/Fungicide
+	Dosage
+	Mode of Action
+	Copper Oxychloride 50 WP
+	3g/L water
+	Contact bactericide; prevents bacterial spread
+	Streptocycline + Copper Oxychloride
+	200 mg + 3g/L water
+	Systemic action; inhibits bacterial multiplication
+	Bordeaux Mixture (1%)
+	Spray twice at 10-day intervals
+	Protects healthy leaves from infection
+	Queries & Responses
+1️⃣ Direct Queries & Follow-Up Queries
+Direct Query
+	Response
+	Follow-Up Query 1
+	Response 1
+	Follow-Up Query 2
+	Response 2
+	Follow-Up Query 3
+	Response 3
+	What is Bacterial Leaf Blight?
+	Bacterial Leaf Blight (Xanthomonas axonopodis pv. phaseoli) is a bacterial disease that causes leaf lesions, defoliation, and pod infections in Black Gram.
+	How does Bacterial Leaf Blight spread?
+	It spreads through rain splashes, infected seeds, and overhead irrigation.
+	Can Bacterial Leaf Blight affect other crops?
+	Yes, it also affects Green Gram, Soybean, and Cowpea.
+	Does the bacteria survive in soil?
+	Yes, it can persist in infected crop residues and contaminated seeds for several seasons.
+	What are the symptoms of Bacterial Leaf Blight?
+	Symptoms include water-soaked spots on leaves, V-shaped necrotic lesions, and bacterial oozing on pods.
+	How do I identify Bacterial Leaf Blight early?
+	Look for tiny dark-green spots with yellow halos on young leaves.
+	Can fungal diseases cause similar symptoms?
+	Yes, Cercospora Leaf Spot also causes leaf spots but its lesions have gray centers instead of bacterial exudates.
+	What happens if Bacterial Leaf Blight is left untreated?
+	Severe infections can cause 40-50% yield loss due to leaf drop and poor pod formation.
+	When does Bacterial Leaf Blight occur?
+	It is most common in monsoon and early winter seasons, especially in humid conditions (75-90% RH).
+	Does rain increase Bacterial Leaf Blight?
+	Yes, heavy rainfall promotes bacterial spread through splashing water droplets.
+	Can dry weather stop Bacterial Leaf Blight?
+	Yes, the disease slows down in hot, dry conditions but remains dormant until favorable conditions return.
+	Which months are most at risk for Bacterial Leaf Blight?
+	July-October during monsoon is the peak infection period for this disease.
+	2️⃣ Scenario-Based Queries
+Scenario Query
+	Response
+	What diseases affect Black Gram during monsoon?
+	Major diseases include Bacterial Leaf Blight, Cercospora Leaf Spot, and Yellow Mosaic Virus (YMV).
+	How to manage Bacterial Leaf Blight organically?
+	Use Neem oil sprays, Pseudomonas fluorescens treatments, and avoid overhead irrigation.
+	Which environmental conditions favor Bacterial Leaf Blight?
+	High humidity (75-90%) and warm temperatures (25-35°C) increase infection risk significantly.
+	What are early warning signs of Bacterial Leaf Blight?
+	Tiny dark-green spots with yellow halos on lower leaves indicate early infection stages.
+	Can mulching reduce Bacterial Leaf Blight infection?
+	Yes, organic mulching reduces soil-to-leaf bacterial spread effectively.
+	3️⃣ Visual Indicator Queries
+Query
+	Response
+	What do Bacterial Leaf Blight lesions look like?
+	The lesions are V-shaped brown necrotic patches with yellow margins along leaf edges.
+	How do I identify Bacterial Leaf Blight early?
+	Look for tiny dark-green water-soaked spots with yellow halos on young leaves during wet conditions.
+	Why are my Black Gram leaves turning yellow and falling off?
+	Likely due to Bacterial Leaf Blight killing leaf tissue and causing premature defoliation under humid conditions.
+	

@@ -1,0 +1,111 @@
+﻿Core Information
+Field
+	Details
+	Pest Name
+	Blue Butterfly (Pea Blue Butterfly)
+	Scientific Name
+	Lampides boeticus
+	Category
+	Pest (Pod Borer)
+	Severity Index
+	3/5 (Moderate Economic Impact)
+	Seasonal Patterns
+	Peak infestation during Kharif (Monsoon) and late Rabi (Winter) seasons, especially in humid conditions.
+	Environmental Factors
+	Prefers warm temperatures (22-30°C), moderate humidity (60-80%), and thrives during flowering and pod formation stages.
+	Region
+	Andhra Pradesh, Telangana
+	Region-Specific Info
+	Andhra Pradesh: Major infestations in Guntur, Krishna, Prakasam. Telangana: Frequent in Nizamabad, Warangal, Medak due to continuous Black Gram cultivation.
+	Symptoms & Visual Indicators
+Early Stage (Eggs & Neonate Larvae)
+* Symptoms: Eggs laid on flower buds and young pods.
+* Visual Indicator: Small round white eggs attached to flower buds.
+Mid-Stage (Growing Larvae)
+* Symptoms: Larvae bore into pods and eat developing seeds, causing pod deformation.
+* Visual Indicator: Greenish caterpillars with a flattened body, hiding inside pods.
+Advanced Stage (Severe Infestation)
+* Symptoms: Empty pods, seed damage, and pod drop, leading to 30-40% yield loss.
+* Visual Indicator: Damaged pods with exit holes where mature larvae have left.
+Prevention & Control
+Cultural Practices
+1. Early Sowing (June-July): Avoids peak Blue Butterfly activity.
+2. Intercropping with Mustard or Sorghum: Reduces larval survival rates.
+3. Deep Ploughing Post-Harvest: Kills pupae in the soil, reducing future infestations.
+4. Crop Sanitation: Remove weeds and crop residues to eliminate breeding grounds.
+Biological Controls
+1. Release of Trichogramma chilonis: Egg parasitoids that prevent hatching.
+2. Neem-Based Sprays (Azadirachtin 1%): Reduces larval feeding.
+3. Predatory Wasps (Telenomus spp.): Effective against larvae inside pods.
+4. Biopesticides like Bacillus thuringiensis (Bt): Applied as a foliar spray to control larvae.
+Chemical Controls
+⚠️ Use only when infestation exceeds ETL (Economic Threshold Level = 2 larvae per meter row length).
+Pesticide
+	Dosage
+	Mode of Action
+	Emamectin Benzoate 5 SG
+	0.5 g/L water
+	Disrupts larval nervous system
+	Chlorantraniliprole 18.5 SC
+	0.3 ml/L water
+	Kills larvae inside pods
+	Lambda Cyhalothrin 5 EC
+	1 ml/L water
+	Contact insecticide; repels adult butterflies
+	Queries & Responses
+1️⃣ Direct Queries & Follow-Up Queries
+Direct Query
+	Response
+	Follow-Up Query 1
+	Response 1
+	Follow-Up Query 2
+	Response 2
+	Follow-Up Query 3
+	Response 3
+	What is Blue Butterfly in Black Gram?
+	The Blue Butterfly (Lampides boeticus), also called Pea Blue Butterfly, is a pod borer that damages Black Gram by feeding on developing seeds inside pods.
+	How does the Blue Butterfly damage crops?
+	The larvae bore into pods, eat the seeds, and cause pod drop.
+	Can Blue Butterfly attack other crops?
+	Yes, it also infests Pigeon Pea, Green Gram, and Chickpea.
+	Are adult butterflies harmful to crops?
+	No, only the larvae (caterpillars) damage the pods.
+	What are the symptoms of infestation?
+	Symptoms include small boreholes in pods, deformed pods, and premature pod drop.
+	How do I identify larvae inside pods?
+	Cut open an infested pod; you will see a small green caterpillar inside.
+	Can fungal infections cause similar damage?
+	No, fungal infections cause pod rot but do not create boreholes.
+	What happens if infestation is not controlled?
+	Yield loss can reach 30-40%, and damaged pods become unmarketable.
+	When does Blue Butterfly attack crops?
+	The highest risk is during flowering and pod formation stages in monsoon and winter seasons.
+	Does high humidity increase infestation?
+	Yes, humid weather during pod formation favors larval survival.
+	Can late sowing increase pest population?
+	Yes, late sowing exposes crops to peak butterfly activity.
+	What weather conditions favor infestation?
+	Moderate temperatures (22-30°C) with occasional rains promote infestation.
+	2️⃣ Scenario-Based Queries
+Scenario Query
+	Response
+	What pests attack Black Gram during flowering and pod formation?
+	Major pests include Blue Butterfly, Gram Pod Borer, and Spotted Pod Borer.
+	How to control Blue Butterfly infestation without using chemicals?
+	Use Neem oil sprays, intercropping, and release of egg parasitoids like Trichogramma chilonis.
+	Which crops should not be grown near Black Gram to prevent attacks?
+	Avoid planting Pigeon Pea and Chickpea as they serve as alternate hosts for the pest.
+	What are early warning signs of infestation?
+	Small white eggs on flowers, green caterpillars inside pods, and premature pod drop are early signs.
+	Can mulching reduce infestation?
+	Yes, applying organic mulch discourages adult butterflies from laying eggs on plants.
+	3️⃣ Visual Indicator Queries
+Query
+	Response
+	What does the Blue Butterfly caterpillar look like?
+	The larvae are small, greenish with a flattened body that hides inside pods while feeding on seeds.
+	How do I identify Blue Butterfly eggs?
+	Look for tiny white eggs laid singly on flower buds or young pods.
+	Why are my Black Gram pods empty inside?
+	Likely due to Blue Butterfly larvae boring into the pods and eating the seeds inside.
+	

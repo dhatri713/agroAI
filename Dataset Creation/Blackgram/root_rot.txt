@@ -1,0 +1,110 @@
+﻿Core Information
+Field
+	Details
+	Disease Name
+	Root Rot
+	Scientific Name
+	Macrophomina phaseolina
+	Category
+	Fungal Disease
+	Severity Index
+	4/5 (High Economic Impact)
+	Seasonal Patterns
+	Peak infection during Rabi (Winter) and summer seasons, especially in drought conditions.
+	Environmental Factors
+	Prefers high temperatures (30-35°C), low soil moisture, and spreads rapidly in sandy, poorly fertilized soils.
+	Region
+	Andhra Pradesh, Telangana
+	Region-Specific Info
+	Andhra Pradesh: High occurrences in Krishna, Guntur, Prakasam. Telangana: Frequently reported in Warangal, Nizamabad, Karimnagar, especially in drought-prone areas.
+	Symptoms & Visual Indicators
+Early Stage (Initial Infection)
+* Symptoms: Wilting of lower leaves and yellowing of plants.
+* Visual Indicator: Slight browning at the base of the stem and roots.
+Mid-Stage (Fungal Spread)
+* Symptoms: Drying of the plant, stem turning dark brown, and root decay.
+* Visual Indicator: Black fungal threads (sclerotia) visible inside split stems and roots.
+Advanced Stage (Severe Infection)
+* Symptoms: Complete plant collapse, shriveled roots, and yield loss (50-70%).
+* Visual Indicator: Plants easily pulled from the soil, with dry, rotten roots.
+Prevention & Control
+Cultural Practices
+1. Use Disease-Resistant Varieties: Some Black Gram varieties show resistance.
+2. Avoid Water Stress: Irrigate fields at critical growth stages to reduce plant stress.
+3. Improve Soil Health: Incorporate organic matter like compost or farmyard manure to boost beneficial soil microbes.
+4. Deep Ploughing Post-Harvest: Exposes fungal spores to sunlight, reducing their viability.
+Biological Controls
+1. Seed Treatment with Trichoderma viride (5g/kg seeds): Prevents fungal growth on seeds.
+2. Soil Application of Pseudomonas fluorescens (2.5 kg/ha): Suppresses fungal activity in soil.
+3. Neem Cake Application (250 kg/ha): Reduces fungal load in the soil.
+Chemical Controls
+⚠️ Apply fungicides only when infection exceeds 10-15% of the field.
+Fungicide
+	Dosage
+	Mode of Action
+	Copper Oxychloride 50 WP
+	3g/L water
+	Contact fungicide; prevents further spread
+	Carbendazim 50 WP
+	1g/L water
+	Systemic fungicide; inhibits fungal growth
+	Flusilazole 12.5% + Carbendazim 25% SE
+	1 ml/L water
+	Dual-action systemic fungicide for root protection
+	Queries & Responses
+1️⃣ Direct Queries & Follow-Up Queries
+Direct Query
+	Response
+	Follow-Up Query 1
+	Response 1
+	Follow-Up Query 2
+	Response 2
+	Follow-Up Query 3
+	Response 3
+	What is Root Rot in Black Gram?
+	Root Rot (Macrophomina phaseolina) is a fungal disease causing root decay, plant wilting, and severe yield loss.
+	How does Root Rot spread?
+	It spreads through infected soil, seeds, and drought stress conditions.
+	Can Root Rot affect other crops?
+	Yes, it also infects Soybean, Chickpea, and Pigeon Pea.
+	Does the fungus remain in soil?
+	Yes, it persists in soil and crop residues for years as sclerotia.
+	What are the symptoms of Root Rot?
+	Symptoms include wilting, yellowing leaves, root decay, and black fungal threads inside stems.
+	How do I identify Root Rot early?
+	Look for slight browning at the stem base and drying of lower leaves.
+	Can bacterial diseases cause similar symptoms?
+	No, bacterial infections cause wet/slimy rotting; Macrophomina causes dry rot.
+	What happens if Root Rot is left untreated?
+	It leads to 50-70% yield loss due to complete plant collapse and root decay.
+	When does Root Rot occur?
+	It is most common in dry sandy soils during Rabi and summer seasons under drought stress.
+	Does rain affect Root Rot spread?
+	No, dry weather increases infection; however, excessive moisture can cause stem rot instead.
+	Can irrigation reduce Root Rot?
+	Yes, proper irrigation at critical growth stages reduces stress and prevents infection.
+	Which months are most at risk for Root Rot?
+	February-May during late Rabi and summer is the peak infection period for this disease.
+	2️⃣ Scenario-Based Queries
+Scenario Query
+	Response
+	What diseases affect Black Gram during dry weather?
+	Major diseases include Root Rot, Wilt, and Charcoal Rot caused by similar fungi under drought stress conditions.
+	How to manage Root Rot organically?
+	Use Trichoderma seed treatment, Neem Cake application to soil, and organic mulching to improve moisture retention.
+	Which environmental conditions favor Root Rot spread?
+	High temperatures (30-35°C), low soil moisture levels, and sandy soils increase infection risk significantly.
+	What are early warning signs of Root Rot?
+	Browning of stem base near soil line, yellowing lower leaves, and dry roots indicate early stages of infection.
+	Can deep ploughing reduce Root Rot infection?
+	Yes, deep ploughing exposes fungal spores to sunlight which reduces their viability in the soil significantly.
+	3️⃣ Visual Indicator Queries
+Query
+	Response
+	What does Root Rot look like in Black Gram?
+	The disease appears as dark brown shriveled roots with black fungal threads inside stems under severe infection conditions.
+	How do I identify Root Rot early?
+	Look for wilting lower leaves with slight browning at the stem base; roots may feel dry or weak when pulled from the soil.
+	Why are my Black Gram plants drying up despite irrigation?
+	This is likely due to Root Rot; the fungus blocks water uptake by destroying root tissues even if irrigation is adequate.
+	

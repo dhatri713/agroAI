@@ -1,0 +1,109 @@
+﻿Core Information
+Field
+	Details
+	Disease Name
+	Alternaria Leaf Spot
+	Scientific Name
+	Alternaria alternata
+	Category
+	Fungal Disease
+	Severity Index
+	3/5 (Moderate Economic Impact)
+	Seasonal Patterns
+	Peak infection during Kharif (Monsoon) and early Rabi (Winter) seasons, especially in humid conditions.
+	Environmental Factors
+	Prefers moderate temperatures (20-30°C), high humidity (75-90%), and spreads rapidly through wind-borne spores.
+	Region
+	Andhra Pradesh, Telangana
+	Region-Specific Info
+	Andhra Pradesh: High occurrences in Krishna, Guntur, Prakasam. Telangana: Frequently reported in Warangal, Nizamabad, Karimnagar, especially in fields with continuous Black Gram cultivation.
+	Symptoms & Visual Indicators
+Early Stage (Initial Infection)
+* Symptoms: Small, circular, brownish-black spots on older leaves.
+* Visual Indicator: Tiny dark-brown lesions with concentric rings appearing on lower leaves.
+Mid-Stage (Lesion Expansion)
+* Symptoms: Lesions enlarge, coalesce, and cause premature leaf yellowing.
+* Visual Indicator: Dark brown to black circular spots with a yellow halo, giving a "target board" appearance.
+Advanced Stage (Severe Infection)
+* Symptoms: Severe leaf blighting, premature defoliation, reduced photosynthesis, and poor pod development.
+* Visual Indicator: Leaves dry up completely, turn brittle, and fall off, reducing overall yield.
+Prevention & Control
+Cultural Practices
+1. Use Disease-Free Seeds: Avoid planting seeds from infected crops to prevent initial inoculum.
+2. Crop Rotation: Rotate with non-host crops like cereals (Maize, Sorghum) to reduce fungal buildup.
+3. Avoid Overhead Irrigation: Excess moisture on leaves promotes fungal spread.
+Biological Controls
+1. Seed Treatment with Trichoderma viride (5g/kg seeds): Suppresses fungal growth during germination.
+2. Foliar Spray of Bacillus subtilis (2%): Prevents Alternaria infections effectively.
+3. Neem Cake Application (250 kg/ha): Reduces fungal spore load in the soil.
+Chemical Controls
+⚠️ Based on farmer queries and expert recommendations, the following fungicides are effective:
+Fungicide
+	Dosage
+	Mode of Action
+	Carbendazim 50 WP
+	1g/L water
+	Systemic fungicide; inhibits fungal growth
+	Mancozeb 75 WP
+	2.5g/L water
+	Protects leaf surfaces from fungal spores
+	Propiconazole 25 EC
+	1 ml/L water
+	Systemic fungicide; prevents spore germination
+	Queries & Responses
+1️⃣ Direct Queries & Follow-Up Queries
+Direct Query
+	Response
+	Follow-Up Query 1
+	Response 1
+	Follow-Up Query 2
+	Response 2
+	Follow-Up Query 3
+	Response 3
+	What is Alternaria Leaf Spot in Black Gram?
+	Alternaria Leaf Spot (Alternaria alternata) is a fungal disease that causes circular brown spots on leaves, leading to defoliation and reduced yield.
+	How does Alternaria Leaf Spot spread?
+	It spreads through wind-borne spores, infected seeds, and plant residues.
+	Can Alternaria Leaf Spot affect other crops?
+	Yes, it also infects Pigeon Pea, Green Gram, and Chickpea.
+	Does Alternaria remain in soil?
+	Yes, it survives in infected plant debris and spreads through spores.
+	What are the symptoms of Alternaria Leaf Spot?
+	Symptoms include brown circular spots with yellow halos on leaves, premature leaf drop, and reduced photosynthesis.
+	How do I identify Alternaria Leaf Spot early?
+	Look for small brownish-black spots with concentric rings on lower leaves.
+	Can bacterial or viral infections cause similar symptoms?
+	No, bacterial diseases cause wet lesions; viral diseases cause leaf crinkling; fungal spots are distinct.
+	What happens if Alternaria Leaf Spot is left untreated?
+	It leads to 30-50% yield loss due to severe defoliation and poor pod formation.
+	When does Alternaria Leaf Spot occur?
+	It is most common in monsoon and early winter seasons under high humidity conditions (75-90%).
+	Does rain affect Alternaria spread?
+	Yes, continuous wet conditions promote spore germination and leaf infection.
+	Can hot weather reduce Alternaria infection?
+	No, it thrives in warm conditions (20-30°C), especially with high humidity levels.
+	Which months are most at risk for Alternaria Leaf Spot?
+	July-October during monsoon is the peak infection period for this disease.
+	2️⃣ Scenario-Based Queries
+Scenario Query
+	Response
+	What diseases affect Black Gram during high humidity?
+	Major diseases include Alternaria Leaf Spot, Cercospora Leaf Spot, and Web Blight under humid conditions.
+	How to manage Alternaria Leaf Spot organically?
+	Use Neem oil sprays to suppress fungal spread; apply Trichoderma seed treatment; improve soil drainage practices.
+	Which environmental conditions favor Alternaria spread?
+	High humidity (75-90%) combined with moderate temperatures (20-30°C) increases infection risk significantly.
+	What are early warning signs of Alternaria Leaf Spot?
+	Tiny brown circular spots with yellow halos on older leaves indicate early infection stages caused by wind-borne spores.
+	Can deep ploughing reduce Alternaria infection?
+	Yes, deep ploughing exposes soil fungi to sunlight which reduces their viability significantly.
+	3️⃣ Visual Indicator Queries
+Query
+	Response
+	What does Alternaria Leaf Spot look like in Black Gram?
+	The disease appears as brown circular spots with yellow halos resembling a target board under humid conditions.
+	How do I identify Alternaria Leaf Spot early?
+	Look for tiny brown lesions with concentric rings on the lower leaves during early stages of infection.
+	Why are my Black Gram leaves turning yellow and falling off?
+	This is likely due to Alternaria Leaf Spot causing severe leaf blighting and premature defoliation under favorable conditions.
+	

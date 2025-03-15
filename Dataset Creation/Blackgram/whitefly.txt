@@ -1,0 +1,102 @@
+﻿Core Information
+Field
+	Details
+	Pest Name
+	Whitefly
+	Scientific Name
+	Bemisia tabaci
+	Category
+	Pest (Sap-Sucking Insect, Virus Vector)
+	Severity Index
+	4/5 (High Economic Impact)
+	Seasonal Patterns
+	Peak infestation during Kharif (Monsoon) and Rabi (Winter) seasons, especially in warm and dry conditions. However, Whiteflies can thrive in various environmental conditions, including hot and dry weather.
+	Environmental Factors
+	Prefers warm temperatures (25-35°C), dry weather, and thrives in drought-like conditions. Whiteflies are also influenced by factors like plant nutrition and crop density.
+	Region
+	Andhra Pradesh, Telangana
+	Region-Specific Info
+	Andhra Pradesh: Major outbreaks in Guntur, Nellore, Prakasam. Telangana: Frequent infestations in Karimnagar, Warangal, Nizamabad due to continuous Black Gram cultivation.
+	Symptoms & Visual Indicators
+Early Stage (Eggs & Nymphs)
+* Symptoms: Tiny yellowish eggs laid on the underside of leaves.
+* Visual Indicator: Small white nymphs clustered on the underside of young leaves.
+Mid-Stage (Adult Whiteflies)
+* Symptoms: Sticky honeydew secretion, leading to black sooty mold on leaves.
+* Visual Indicator: Small white flies flying around when disturbed.
+Advanced Stage (Severe Infestation)
+* Symptoms: Severe yellowing, leaf curling, stunted growth, and virus transmission (Yellow Mosaic Virus - YMV).
+* Visual Indicator: Leaves turn pale yellow, covered with black fungal mold.
+Prevention & Control
+Cultural Practices
+* Avoid Excess Fertilization: Too much nitrogen promotes Whitefly growth.
+* Intercropping with Maize or Sorghum: Reduces Whitefly attraction to Black Gram.
+* Timely Sowing (June-July): Prevents peak Whitefly infestation periods.
+* Crop Sanitation: Regularly remove weeds and debris to reduce Whitefly habitats.
+Biological Controls
+* Release of Encarsia formosa (Parasitic Wasps): Natural predators of Whitefly nymphs.
+* Neem-Based Sprays (Azadirachtin 1%): Reduces Whitefly populations.
+* Encouraging Spiders and Ladybird Beetles to feed on Whiteflies.
+Chemical Controls
+* Use only when infestation exceeds ETL (Economic Threshold Level = 5-10 adults per leaf).
+* Pesticide Dosage and Mode of Action:
+   * Imidacloprid 17.8 SL: 0.3 ml/L water, systemic insecticide, disrupts nerve signals.
+   * Thiamethoxam 25 WG: 0.3 g/L water, inhibits feeding and kills Whiteflies.
+   * Spiromesifen 22.9 SC: 1 ml/L water, targets nymphs and adult Whiteflies.
+Queries & Responses (English)
+1️⃣ Direct Queries & Follow-up Queries
+Direct Query
+	Response
+	Follow-Up Query 1
+	Response 1
+	Follow-Up Query 2
+	Response 2
+	Follow-Up Query 3
+	Response 3
+	What are Whiteflies?
+	Whiteflies (Bemisia tabaci) are tiny sap-sucking insects that damage Black Gram by removing plant juices and spreading viruses.
+	How do Whiteflies spread in the field?
+	Whiteflies spread through wind and plant-to-plant movement.
+	Can Whiteflies affect other crops?
+	Yes, they also attack Cotton, Tomato, and Chilli plants.
+	Are all Whiteflies harmful?
+	Some species are less damaging, but Bemisia tabaci is a major agricultural pest.
+	What are the symptoms of Whitefly infestation?
+	Symptoms include yellowing leaves, curling, honeydew secretion, and black sooty mold.
+	How do I identify Whiteflies early?
+	Look for tiny yellow eggs under leaves and white flying insects when shaking plants.
+	What is the impact of honeydew secretion?
+	Honeydew attracts fungal infections (black mold) and reduces photosynthesis.
+	Can Whiteflies cause complete crop failure?
+	In severe cases, Whiteflies can spread Yellow Mosaic Virus (YMV), leading to heavy yield loss.
+	When do Whiteflies attack Black Gram?
+	Infestation is highest in hot, dry weather during Kharif and Rabi seasons.
+	Does rain affect Whiteflies?
+	Yes, rain washes off Whiteflies and reduces their population.
+	Can excessive irrigation reduce Whitefly infestation?
+	Yes, frequent overhead irrigation discourages Whiteflies.
+	Which month is the highest risk for Whiteflies?
+	August-October sees the most Whitefly outbreaks.
+	2️⃣ Scenario-Based Queries
+Scenario Query
+	Response
+	What pests affect Black Gram during hot weather?
+	Major pests include Whiteflies, Thrips, and Leafhoppers, which thrive in dry, warm conditions.
+	How to control Whiteflies organically?
+	Use Neem oil sprays, intercropping with Marigold, and release of parasitic wasps like Encarsia formosa.
+	Which plants attract more Whiteflies near Black Gram?
+	Cotton, Tomato, and Chilli are highly attractive to Whiteflies.
+	What are early warning signs of Whitefly infestation?
+	Small white insects flying when plants are disturbed, sticky honeydew secretion, and yellowing leaves.
+	Can mulching reduce Whitefly infestation?
+	Yes, silver-colored plastic mulching repels Whiteflies and reduces their movement.
+	3️⃣ Visual Indicator Queries
+Query
+	Response
+	What do Whiteflies look like?
+	Whiteflies are tiny white-winged insects that gather under leaves and fly when disturbed.
+	How do I identify Whitefly infestation early?
+	Look for yellow eggs under leaves, white insects on shaking, and sticky honeydew deposits.
+	Why are my Black Gram leaves turning yellow and curling?
+	Likely due to Whitefly infestation, removing sap and spreading Yellow Mosaic Virus (YMV).
+	

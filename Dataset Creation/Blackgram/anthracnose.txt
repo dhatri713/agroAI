@@ -1,0 +1,110 @@
+﻿Core Information
+Field
+	Details
+	Disease Name
+	Anthracnose
+	Scientific Name
+	Colletotrichum truncatum
+	Category
+	Fungal Disease
+	Severity Index
+	4/5 (High Economic Impact)
+	Seasonal Patterns
+	Peak infection during Kharif (Monsoon) and late Rabi (Winter) seasons, especially in humid conditions.
+	Environmental Factors
+	Prefers moderate temperatures (20-30°C), high humidity (80-90%), and spreads rapidly in wet conditions or after heavy rainfall.
+	Region
+	Andhra Pradesh, Telangana
+	Region-Specific Info
+	Andhra Pradesh: High occurrences in Krishna, Guntur, Nellore. Telangana: Frequently reported in Warangal, Nizamabad, Karimnagar, especially in fields with poor drainage.
+	Symptoms & Visual Indicators
+Early Stage (Initial Infection)
+* Symptoms: Small, sunken, circular brown spots on leaves, stems, and pods.
+* Visual Indicator: Tiny reddish-brown lesions appearing mainly on older leaves and stems.
+Mid-Stage (Lesion Expansion)
+* Symptoms: Lesions expand, turn dark brown to black, and coalesce, leading to blighting.
+* Visual Indicator: Dark sunken spots on stems and pods with concentric ring patterns.
+Advanced Stage (Severe Infection)
+* Symptoms: Leaves curl, dry, and fall off; pods become deformed and shriveled, leading to 40-50% yield loss.
+* Visual Indicator: Severe defoliation with black irregular spots on all plant parts. Under humid conditions, pinkish fungal spore masses appear on lesions.
+Prevention & Control
+Cultural Practices
+1. Use Disease-Free Seeds: Anthracnose is seed-borne; always use treated seeds.
+2. Avoid Water Logging: Ensure proper field drainage to reduce fungal spread.
+3. Crop Rotation: Avoid planting Black Gram in the same field every season.
+4. Sanitation Practices: Remove infected crop residues to reduce fungal spore survival.
+Biological Controls
+1. Spray Trichoderma viride (5g/L water): Suppresses fungal spores.
+2. Apply Neem Oil Extracts (2%): Slows fungal growth naturally.
+3. Encourage Natural Antagonistic Fungi like Bacillus subtilis: Prevents fungal spread.
+Chemical Controls
+⚠️ Apply fungicides only when infection exceeds 10-15% of the field.
+Fungicide
+	Dosage
+	Mode of Action
+	Carbendazim 50 WP
+	1g/L water
+	Systemic fungicide; inhibits fungal growth
+	Mancozeb 75 WP
+	2.5g/L water
+	Protects leaf surfaces from fungal spores
+	Hexaconazole 5% EC
+	2ml/L water
+	Inhibits fungal spread under high humidity
+	Queries & Responses
+1️⃣ Direct Queries & Follow-Up Queries
+Direct Query
+	Response
+	Follow-Up Query 1
+	Response 1
+	Follow-Up Query 2
+	Response 2
+	Follow-Up Query 3
+	Response 3
+	What is Anthracnose in Black Gram?
+	Anthracnose (Colletotrichum truncatum) is a fungal disease causing leaf blight, pod deformation, and yield loss in Black Gram.
+	How does Anthracnose spread?
+	It spreads through infected seeds, rain splashes, and high humidity.
+	Can Anthracnose affect other crops?
+	Yes, it also infects Green Gram, Soybean, and Cowpea.
+	Does the fungus survive in soil?
+	Yes, it can persist in infected crop residues and contaminated seeds for several seasons.
+	What are the symptoms of Anthracnose?
+	Symptoms include sunken brown lesions on leaves, stems, and pods leading to blighting.
+	How do I identify Anthracnose early?
+	Look for tiny reddish-brown spots on older leaves and stems.
+	Can bacterial diseases cause similar symptoms?
+	Yes, Bacterial Leaf Blight also causes leaf spots but bacterial infections produce yellow halos instead of concentric rings.
+	What happens if Anthracnose is left untreated?
+	Severe infections can cause 40-50% yield loss due to pod deformation and leaf drop.
+	When does Anthracnose occur?
+	It is most common in monsoon and early winter seasons under humid conditions (80-90% RH).
+	Does rain increase Anthracnose?
+	Yes, prolonged leaf wetness and splashing water spread spores rapidly.
+	Can dry weather stop Anthracnose?
+	Yes, the disease slows down in hot, dry conditions but remains dormant until favorable conditions return.
+	Which months are most at risk for Anthracnose?
+	July-October during monsoon is the peak infection period for this disease.
+	2️⃣ Scenario-Based Queries
+Scenario Query
+	Response
+	What diseases affect Black Gram during monsoon?
+	Major diseases include Anthracnose, Cercospora Leaf Spot, and Yellow Mosaic Virus (YMV).
+	How to manage Anthracnose organically?
+	Use Neem oil sprays, Trichoderma treatments, and avoid water-logged fields.
+	Which environmental conditions favor Anthracnose?
+	High humidity (80-90%) and moderate temperatures (20-30°C) increase infection risk significantly.
+	What are early warning signs of Anthracnose?
+	Tiny reddish-brown spots on older leaves and sunken lesions on pods indicate early infection stages.
+	Can mulching reduce Anthracnose infection?
+	Yes, organic mulching reduces soil-to-leaf fungal transmission effectively.
+	3️⃣ Visual Indicator Queries
+Query
+	Response
+	What do Anthracnose lesions look like?
+	The lesions are sunken dark brown with concentric ring patterns appearing on stems and pods under humid conditions.
+	How do I identify Anthracnose early?
+	Look for tiny reddish-brown spots on older leaves and sunken lesions on young pods during wet conditions.
+	Why are my Black Gram pods shriveled and deformed?
+	Likely due to Anthracnose weakening pod development and causing seed loss under high humidity conditions.
+	

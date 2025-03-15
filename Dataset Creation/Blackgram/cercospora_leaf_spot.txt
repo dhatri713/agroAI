@@ -1,0 +1,110 @@
+﻿Core Information
+Field
+	Details
+	Disease Name
+	Cercospora Leaf Spot
+	Scientific Name
+	Cercospora canescens
+	Category
+	Fungal Disease
+	Severity Index
+	3/5 (Moderate Economic Impact)
+	Seasonal Patterns
+	Peak infection during Kharif (Monsoon) and Rabi (Winter) seasons, especially after prolonged leaf wetness.
+	Environmental Factors
+	Prefers moderate temperatures (22-30°C), high humidity (75-90%), and spreads rapidly under rainy or wet conditions.
+	Region
+	Andhra Pradesh, Telangana
+	Region-Specific Info
+	Andhra Pradesh: High occurrences in Guntur, Krishna, Nellore. Telangana: Frequently reported in Nizamabad, Warangal, Medak, especially in areas with continuous Black Gram cultivation.
+	Symptoms & Visual Indicators
+Early Stage (Initial Infection)
+* Symptoms: Small, circular, water-soaked spots appear on lower leaves.
+* Visual Indicator: Tiny reddish-brown spots with yellow halos on leaf surfaces.
+Mid-Stage (Lesion Expansion)
+* Symptoms: Lesions enlarge, turn dark brown to gray, and spread across the leaf surface.
+* Visual Indicator: Irregular grayish patches with dark brown edges, leading to reduced photosynthesis.
+Advanced Stage (Severe Infection)
+* Symptoms: Leaves dry out, curl, and drop prematurely, leading to 30-40% yield loss.
+* Visual Indicator: Leaves appear scorched with multiple overlapping lesions; fungal spores may be visible under humid conditions.
+Prevention & Control
+Cultural Practices
+1. Use Disease-Resistant Varieties: Growing resistant varieties reduces Cercospora infections.
+2. Avoid Overhead Irrigation: Water on leaves promotes fungal spread.
+3. Crop Rotation: Avoid continuous planting of Black Gram in the same field.
+4. Sanitation Practices: Remove infected crop residues to reduce fungal spore survival.
+Biological Controls
+1. Spray Trichoderma viride (5g/L): Suppresses fungal spores.
+2. Apply Neem Oil Extracts (2%): Acts as a natural fungicide.
+3. Encourage Natural Antagonistic Fungi like Bacillus subtilis: Inhibits Cercospora growth.
+Chemical Controls
+⚠️ Apply fungicides only when infection spreads beyond 10-15% of the field.
+Fungicide
+	Dosage
+	Mode of Action
+	Mancozeb 75 WP
+	2.5g/L water
+	Protects leaf surfaces from fungal spores
+	Carbendazim 50 WP
+	1g/L water
+	Systemic fungicide that inhibits fungal growth
+	Copper Oxychloride 50 WP
+	3g/L water
+	Contact fungicide that prevents further spread
+	Queries & Responses
+1️⃣ Direct Queries & Follow-Up Queries
+Direct Query
+	Response
+	Follow-Up Query 1
+	Response 1
+	Follow-Up Query 2
+	Response 2
+	Follow-Up Query 3
+	Response 3
+	What is Cercospora Leaf Spot?
+	Cercospora Leaf Spot is a fungal disease caused by Cercospora canescens, leading to leaf lesions and reduced yield in Black Gram.
+	How does Cercospora Leaf Spot affect yield?
+	Severe infections cause 30-40% yield loss due to premature leaf drop.
+	Can Cercospora Leaf Spot spread to other crops?
+	Yes, it also affects Green Gram and Cowpea.
+	Does Cercospora remain in the soil?
+	Yes, fungal spores can survive in infected crop residues for years.
+	What are the symptoms of Cercospora Leaf Spot?
+	Symptoms include small brown spots on leaves that grow into large gray lesions, leading to leaf drying and falling.
+	How do I identify Cercospora early?
+	Look for tiny reddish-brown spots with yellow halos on young leaves.
+	Can other diseases cause similar spots?
+	Yes, Bacterial Leaf Blight and Powdery Mildew also cause leaf spots but differ in lesion characteristics.
+	What happens if Cercospora is left untreated?
+	It spreads rapidly, causing severe defoliation and poor pod formation.
+	When does Cercospora Leaf Spot occur?
+	It is most common in monsoon and winter seasons, especially in humid conditions (75-90% RH).
+	Does rain increase Cercospora infection?
+	Yes, prolonged leaf wetness promotes fungal spore germination.
+	Can Cercospora infect drought-stressed plants?
+	No, it requires high humidity and moisture for infection.
+	Which months are most at risk for Cercospora?
+	July-October during monsoon is the peak infection period.
+	2️⃣ Scenario-Based Queries
+Scenario Query
+	Response
+	What diseases affect Black Gram during monsoon?
+	Major diseases include Cercospora Leaf Spot, Yellow Mosaic Virus (YMV), and Powdery Mildew.
+	How to manage Cercospora Leaf Spot organically?
+	Use Neem oil sprays, Trichoderma treatments, and avoid overhead irrigation.
+	Which environmental conditions favor Cercospora Leaf Spot?
+	High humidity (75-90%) and warm temperatures (22-30°C) increase infection risk.
+	What are early warning signs of Cercospora Leaf Spot?
+	Tiny reddish-brown spots with yellow halos on lower leaves indicate early infection.
+	Can mulching reduce Cercospora infection?
+	Yes, straw or plastic mulching reduces soil-to-leaf spore transmission.
+	3️⃣ Visual Indicator Queries
+Query
+	Response
+	What do Cercospora Leaf Spot lesions look like?
+	The lesions are small, round reddish-brown spots that expand into large grayish areas with dark brown edges.
+	How do I identify Cercospora early?
+	Look for tiny reddish spots with yellow halos, especially on lower leaves during wet conditions.
+	Why are my Black Gram leaves turning gray with brown edges?
+	Likely due to Cercospora infection where lesions expand and kill leaf tissue under high humidity conditions.
+	

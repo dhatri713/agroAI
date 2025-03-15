@@ -1,0 +1,109 @@
+﻿Core Information
+Field
+	Details
+	Pest Name
+	Jassids (Leafhoppers)
+	Scientific Name
+	Amrasca biguttula biguttula
+	Category
+	Pest (Sap-Sucking Insect)
+	Severity Index
+	3/5 (Moderate Economic Impact)
+	Seasonal Patterns
+	Peak infestation during Kharif (Monsoon) and early Rabi (Winter) seasons, especially in humid conditions.
+	Environmental Factors
+	Prefers moderate temperatures (22-30°C), high humidity (60-80%), and thrives in overcrowded crops with high nitrogen content.
+	Region
+	Andhra Pradesh, Telangana
+	Region-Specific Info
+	Andhra Pradesh: Major infestations in Guntur, Krishna, Prakasam. Telangana: Frequent in Warangal, Nizamabad, Medak due to continuous Black Gram cultivation.
+	Symptoms & Visual Indicators
+Early Stage (Eggs & Nymphs)
+* Symptoms: Eggs laid inside leaf veins; nymphs start feeding on leaf sap.
+* Visual Indicator: Yellowish-green nymphs visible on the underside of leaves.
+Mid-Stage (Heavy Feeding)
+* Symptoms: Leaves turn yellow, edges curl upwards, and plants show stunted growth.
+* Visual Indicator: Jumping green insects seen when plants are disturbed.
+Advanced Stage (Severe Infestation)
+* Symptoms: Leaves turn reddish-brown, dry, and drop prematurely, leading to yield loss (30-40%).
+* Visual Indicator: Leaves appear scorched (“hopper burn”) and plants stop growing.
+Prevention & Control
+Cultural Practices
+1. Avoid Overcrowding: Maintain proper spacing to reduce humidity buildup.
+2. Intercropping with Mustard or Sorghum: Reduces Jassid infestation rates.
+3. Timely Sowing (June-July): Avoids peak Jassid population.
+4. Crop Sanitation: Regularly remove weeds and debris to reduce Jassid habitats.
+Biological Controls
+1. Release of Chrysoperla carnea (Green Lacewing): A natural predator of Jassids.
+2. Use of Neem Oil Sprays (2% solution): Repels and controls Jassid populations.
+3. Encouraging Spiders & Ladybird Beetles to feed on Jassids.
+Chemical Controls
+⚠️ Apply chemicals only when infestation exceeds ETL (Economic Threshold Level = 2-3 nymphs per leaf).
+Pesticide
+	Dosage
+	Mode of Action
+	Imidacloprid 17.8 SL
+	0.3 ml/L water
+	Systemic insecticide, disrupts nerve signals
+	Dimethoate 30 EC
+	1.5 ml/L water
+	Contact & systemic action
+	Acetamiprid 20 SP
+	0.2 g/L water
+	Kills Jassids by interfering with feeding
+	Queries & Responses
+1️⃣ Direct Queries & Follow-up Queries
+Direct Query
+	Response
+	Follow-Up Query 1
+	Response 1
+	Follow-Up Query 2
+	Response 2
+	Follow-Up Query 3
+	Response 3
+	What are Jassids?
+	Jassids (Amrasca biguttula biguttula) are tiny sap-sucking insects that damage Black Gram by removing plant juices, causing leaf curling and yellowing.
+	How do Jassids spread in the field?
+	Jassids spread through flight and wind, rapidly infesting nearby crops.
+	Can Jassids affect other crops?
+	Yes, they also attack Cotton, Okra, and Brinjal.
+	Are all Jassids harmful?
+	No, some Jassid species are not pests, but Amrasca biguttula biguttula is a major agricultural threat.
+	What are the symptoms of Jassid infestation?
+	Symptoms include yellowing leaves, curling at the edges, and reddish-brown patches (“hopper burn”).
+	How do I identify Jassids early?
+	Look for small green insects on leaf undersides and upward curling leaf edges.
+	What happens if Jassids are not controlled?
+	Severe infestations can reduce yield by 30-40% and cause early defoliation.
+	Can Jassids cause viral diseases?
+	No, Jassids do not transmit viruses, but they weaken the plant, making it susceptible to infections.
+	When do Jassids attack Black Gram?
+	Jassids are most active in Kharif (Monsoon) and early Rabi (Winter) seasons, especially in humid conditions.
+	Does high humidity favor Jassid infestation?
+	Yes, high humidity and warm temperatures (22-30°C) encourage rapid multiplication.
+	Can strong rains reduce Jassid populations?
+	Yes, heavy rain can wash off Jassids, reducing infestation.
+	Which month has the highest risk for Jassids?
+	July-September sees the most Jassid outbreaks.
+	2️⃣ Scenario-Based Queries
+Scenario Query
+	Response
+	What pests attack Black Gram during monsoon?
+	Major pests include Jassids, Whiteflies, and Aphids, which thrive in humid conditions.
+	How to control Jassids organically?
+	Use Neem oil sprays, intercropping with Mustard, and releasing Lacewing insects.
+	Which plants attract more Jassids near Black Gram?
+	Cotton, Okra, and Brinjal often attract Jassids, increasing risk.
+	What are early warning signs of Jassid infestation?
+	Leaves curling at the edges, yellowing, and tiny green insects on leaf undersides.
+	Can mulching help reduce Jassid infestation?
+	Yes, reflective plastic mulching discourages Jassid movement.
+	3️⃣ Visual Indicator Queries
+Query
+	Response
+	What do Jassids look like?
+	Jassids are small green insects, often found on the undersides of leaves.
+	How do I identify Jassid infestation early?
+	Look for leaves curling upwards, yellow patches, and green insects jumping when plants are disturbed.
+	Why are my Black Gram leaves turning reddish-brown?
+	Likely due to Jassid infestation, which causes “hopper burn”.

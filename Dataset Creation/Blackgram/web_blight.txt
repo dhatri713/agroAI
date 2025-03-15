@@ -1,0 +1,110 @@
+﻿Core Information
+Field
+	Details
+	Disease Name
+	Web Blight
+	Scientific Name
+	Rhizoctonia solani
+	Category
+	Fungal Disease
+	Severity Index
+	4/5 (High Economic Impact)
+	Seasonal Patterns
+	Peak infection during Kharif (Monsoon) and early Rabi (Winter) seasons, especially in fields with excessive moisture.
+	Environmental Factors
+	Prefers warm temperatures (25-30°C), high humidity (80-100%), and spreads rapidly in crowded plantings with excessive vegetative growth.
+	Region
+	Andhra Pradesh, Telangana
+	Region-Specific Info
+	Andhra Pradesh: High occurrences in Krishna, Guntur, East Godavari. Telangana: Frequently reported in Warangal, Karimnagar, Nizamabad, especially in waterlogged or poorly drained fields.
+	Symptoms & Visual Indicators
+Early Stage (Initial Infection)
+* Symptoms: Small, water-soaked spots on lower leaves and stems that enlarge over time.
+* Visual Indicator: Circular, grayish-green patches with moist edges on leaves.
+Mid-Stage (Fungal Spread)
+* Symptoms: Formation of white fungal web-like growth between stems and leaves.
+* Visual Indicator: Thin fungal strands (mycelium) spreading across leaves and stems, forming web-like structures.
+Advanced Stage (Severe Infection)
+* Symptoms: Complete leaf drying, stem rot, and rapid plant wilting, leading to 50-70% yield loss.
+* Visual Indicator: Leaves appear burned with large brown necrotic patches; plants collapse due to stem rot.
+Prevention & Control
+Cultural Practices
+1. Avoid Dense Planting: Maintain proper spacing to improve air circulation and reduce humidity.
+2. Ensure Proper Drainage: Avoid excessive irrigation and water stagnation.
+3. Crop Rotation: Rotate with non-host crops like cereals (Maize, Sorghum) to reduce fungal buildup.
+4. Remove Infected Debris: Burn or bury infected plant debris to prevent fungal survival.
+Biological Controls
+1. Seed Treatment with Trichoderma viride (5g/kg seeds): Prevents fungal infection at germination.
+2. Foliar Spray of Pseudomonas fluorescens (2%): Inhibits Rhizoctonia solani growth.
+3. Neem Cake Application (250 kg/ha): Suppresses fungal spores in the soil.
+Chemical Controls
+⚠️ Apply fungicides only when infection exceeds 10-15% of the field.
+Fungicide
+	Dosage
+	Mode of Action
+	Hexaconazole 5% EC
+	2 ml/L water
+	Systemic fungicide; prevents spore formation
+	Carbendazim 50 WP
+	1g/L water
+	Inhibits fungal growth in stems and leaves
+	Mancozeb 75 WP
+	2.5g/L water
+	Protects leaf surfaces from fungal attack
+	Queries & Responses
+1️⃣ Direct Queries & Follow-Up Queries
+Direct Query
+	Response
+	Follow-Up Query 1
+	Response 1
+	Follow-Up Query 2
+	Response 2
+	Follow-Up Query 3
+	Response 3
+	What is Web Blight in Black Gram?
+	Web Blight (Rhizoctonia solani) is a fungal disease that forms web-like fungal growth on leaves, leading to leaf drying and plant collapse.
+	How does Web Blight spread?
+	It spreads through contaminated soil, water splashes, and excessive moisture.
+	Can Web Blight affect other crops?
+	Yes, it also infects Soybean, Green Gram, and Pigeon Pea.
+	Does Web Blight survive in soil?
+	Yes, it remains in infected crop residues and soil for years as sclerotia.
+	What are the symptoms of Web Blight?
+	Symptoms include water-soaked lesions, white fungal webbing on stems and leaves, and rapid plant wilting.
+	How do I identify Web Blight early?
+	Look for small grayish water-soaked patches on lower leaves and stems.
+	Can bacterial diseases cause similar symptoms?
+	No, bacterial infections cause slimy wet rotting; Web Blight shows dry fungal webbing.
+	What happens if Web Blight is left untreated?
+	It leads to 50-70% yield loss due to rapid leaf and stem decay.
+	When does Web Blight occur?
+	It is most common in monsoon and early winter seasons under high humidity conditions (80-100%).
+	Does rain affect Web Blight spread?
+	Yes, continuous wet conditions encourage fungal growth and spread through splashing water.
+	Can high temperatures reduce Web Blight infection?
+	No, it thrives in warm conditions (25-30°C), especially in moist fields.
+	Which months are most at risk for Web Blight?
+	July-October during monsoon is the peak infection period for this disease.
+	2️⃣ Scenario-Based Queries
+Scenario Query
+	Response
+	What diseases affect Black Gram during high humidity?
+	Major diseases include Web Blight, Cercospora Leaf Spot, and Yellow Mosaic Virus (YMV).
+	How to manage Web Blight organically?
+	Use Neem oil sprays, Trichoderma seed treatment, avoid dense planting, and ensure proper drainage.
+	Which environmental conditions favor Web Blight spread?
+	High humidity (80-100%) combined with moderate temperatures (25-30°C) increases infection risk significantly.
+	What are early warning signs of Web Blight?
+	Tiny water-soaked patches on lower leaves and white fungal webbing on stems indicate early infection stages.
+	Can deep ploughing reduce Web Blight infection?
+	Yes, deep ploughing exposes soil fungi to sunlight which reduces their viability significantly.
+	3️⃣ Visual Indicator Queries
+Query
+	Response
+	What does Web Blight look like in Black Gram?
+	The disease appears as grayish water-soaked spots that develop white fungal webbing on leaves and stems under humid conditions.
+	How do I identify Web Blight early?
+	Look for thin white fungal strands spreading on the lower leaves and stems during moist conditions.
+	Why are my Black Gram leaves turning brown and falling off?
+	This is likely due to Web Blight; the fungus rapidly kills leaves by spreading necrotic lesions under high humidity conditions.
+	
