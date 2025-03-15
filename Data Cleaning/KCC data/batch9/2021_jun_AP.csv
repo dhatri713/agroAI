@@ -1,0 +1,411 @@
+StateName,DistrictName,BlockName,Season,Sector,Category,Crop,QueryType,QueryText,KccAns,CreatedOn,year,month
+ANDHRA PRADESH,CHITTOOR,VIJAYAPURAM,NA,AGRICULTURE,Sugar and Starch Crops,Sugarcane (Noble Cane),	Plant Protection	, FARMER ASKING QUERY ON Red rot management in Sugarcane?,"RECOMMENDED TO SPRAY COPPER OXY CHLORIDE (BLITOX) (BLUE COPPER) 600 GRAMS/200 LITRES OF WATER / ACRE  
+కాపర్ ఆక్సీక్లోరైడ్  600 గ్రాములు   / 200 లీటర్ల నీటికి చొప్పున కలిపి ఒక ఎకరాకు పిచికారి చేయాలి .
+",2021-06-11T06:33:03.147,2021,6
+ANDHRA PRADESH,KURNOOL,C.BELAGAL,NA,AGRICULTURE,Others,Others,Cultural Practices,CALL DISCONNECTED BY FARMER,CALL DISCONNECTED BY FARMER,2021-06-11T06:35:50.007,2021,6
+ANDHRA PRADESH,ANANTPUR,CHILAMATHUR,NA,HORTICULTURE,Vegetables,Tomato,	Plant Protection	,tomato leaf spot management ,"--RECOMMENDED TO SPRAY PROPICONAZOLE (TILT) 200 ML/200 LITERS OF WATER/ACRE
+",2021-06-11T07:15:44.54,2021,6
+ANDHRA PRADESH,CHITTOOR,GUDUPALLE,NA,HORTICULTURE,Fruits,Mango,Nutrient Management,farmer asked about fruit cracking management in mango,RECOMMENDED TO SPRAY BORAX 3 GR/1 LITRE OF WATER          (600 GR PER ACRE WITH 200 LIT OF WATER)  ,2021-06-11T07:29:39.02,2021,6
+ANDHRA PRADESH,CHITTOOR,GUDUPALLE,NA,HORTICULTURE,Fruits,Mango,	Plant Protection	,farmer asked about sooty mould management in mango ,"RECOMMENDED TO SPRAY THIAMETHOXAM (ACTARA/CRULSER) 40 GRAMS /200 LITRES OF WATER / ACRE  
+ థయోమిథాక్జొమ్ 40 గ్రాములు   / 200 లీటర్ల నీటికి చొప్పున కలిపి ఒక ఎకరాకు పిచికారి చేయాలి 
+",2021-06-11T07:31:59.547,2021,6
+ANDHRA PRADESH,SRIKAKULAM,LAVERU,NA,AGRICULTURE,Others,Others,Weather,Farmer asked query on Weather, మీ  ప్రాంతం లో ఈ రోజు  ఉరుములు కూడిన వర్షం కలిగే అవకాశం కలదు,2021-06-11T07:34:39.963,2021,6
+ANDHRA PRADESH,CHITTOOR,VIJAYAPURAM,NA,AGRICULTURE,Sugar and Starch Crops,Sugarcane (Noble Cane),	Plant Protection	,sugarcane Yellow Leaf disease management ,"recommended to econdary transmission of the disease by insect vectors can be controlled by application of Malathion(0.1%) or Dimecron(0.2%).
+Soil application of carbofuran @2.0 kg./ha or phorate @ 6.0 kg./ha",2021-06-11T07:36:32.44,2021,6
+ANDHRA PRADESH,CHITTOOR,GUDUPALLE,NA,HORTICULTURE,Fruits,Mango,	Plant Protection	,farmer asked about leaf eating caterpillar management in mango (small plants),"RECOMMENDED TO SPRAY  CHLORPYRIFOS  (CORABON/PREDATOR) 500 ML/200 LITRES OF WATER / ACRE
+ క్లోరోఫైరిఫాస్   500 మిల్లి లీటర్లు  / 200 లీటర్ల నీటికి చొప్పున కలిపి  ఒక ఎకరాకు పిచికారి చేయాలి 
+",2021-06-11T07:43:59.303,2021,6
+ANDHRA PRADESH,KURNOOL,KOLIMIGUNDLA,NA,FISHERIES,Marine,Other,Water Testing for Fish Production,fishery farm for details contact number ,recommended to contact number 08518-277290,2021-06-11T07:59:06.183,2021,6
+ANDHRA PRADESH,ANANTPUR,DHARMAVARAM,NA,HORTICULTURE,Vegetables,Brinjal,	Plant Protection	,farmer asked about shoot and fruit borer management in brinjal,"RECOMMENDED TO SPRAY PROFENOFOS (CURACRON) 400 ML/200 LITRES OF WATER /  ACRE 
+ ప్రోఫెనోఫాస్  400 మిల్లి లీటర్లు   /200 లీటర్ల నీటికి చొప్పున కలిపి ఒక ఎకరాకు పిచికారి చేయాలి
+
+RECOMMENDED TO SPRAY AZADIRHACHTIN ( NEEM SEED KERNAL EXTRACT )  1 LITRE  /200 LITRES OF WATER /ACRE 
+ వేప నూనె 1 లీటర్ /200 లీటర్ల నీటికి చొప్పున కలిపి  ఒక  ఎకరాకు  పిచికారి చేయాలి  
+
+",2021-06-11T08:28:22.393,2021,6
+ANDHRA PRADESH,ANANTPUR,KAMBADUR,NA,HORTICULTURE,Vegetables,Tomato,	Plant Protection	,farmer asked about leaf curl management in tomato,"RECOMMENDED TO SPRAY DIMETHOATE  (ROGORE) 400ML /200 LITRES OF WATER /ACRE 
+ డైమిథోయేట్  400 మిల్లి లీటర్లు   /200 లీటర్ల నీటికి చొప్పున కలిపి ఒక ఎకరాకు పిచికారి చేయాలి 
+",2021-06-11T08:31:36.35,2021,6
+ANDHRA PRADESH,GUNTUR,BOLLAPALLE,NA,AGRICULTURE,Others,Others,Weather,Farmer asked query on Weather,"WEATHER INFORMATION : 
+CLOUDY WEATHER , CHANCE OF SHOWERS  IN YOUR AREA 
+మీ ప్రాంతం లో వాతావరణం మబ్బులుగా ఉంటుంది , జల్లులు పడే అవకాశం కలదు
+",2021-06-11T08:33:59.573,2021,6
+ANDHRA PRADESH,KRISHNA,KODURU,NA,AGRICULTURE,Others,Others,Weather,Farmer asked query on Weather,"WEATHER REPORT
+మీ ప్రాంతములో వాతావరణం మబ్బులుగా ఉంటుంది ,వర్షం పడే అవకాశం ఉంది
+",2021-06-11T08:44:31.957,2021,6
+ANDHRA PRADESH,KRISHNA,KODURU,NA,AGRICULTURE,Others,Others,Weather,Farmer asked query on Weather,"WEATHER REPORT
+మీ ప్రాంతములో వాతావరణం మబ్బులుగా ఉంటుంది ,వర్షం పడే అవకాశం ఉంది
+",2021-06-11T08:44:39.397,2021,6
+ANDHRA PRADESH,ANANTPUR,GUMMAGATTA,NA,AGRICULTURE,Others,Others,Government Schemes,"PM KISAN SAMMAN NIDHI SCHEME 
+",--Either details are not registered in the portal or rejected due to wrong details.,2021-06-11T08:50:15.053,2021,6
+ANDHRA PRADESH,ANANTPUR,D.HIREHAL,NA,AGRICULTURE,Pulses,Pigeon pea (red gram/arhar/tur),Nutrient Management,Farmer asked query on Nutrient Management in pigeon pea,"RECOMMENDED TO SPRAY FORMULA-4 600 GRAMS/200 LITER OF WATER/ ACRE ఫార్ములా -4 600 గ్రాములు  / 200 లీటరు నీటికి కలిపి పిచికారీ చేయండి 
+RECOMMENDED TO SPRAY NPK 19-19-19 MIXTURE  5 GRAMS/1 LITRE OF WATER స్ప్రే  NPK 19-19-19 @ 5 గ్రాములు లీటరు నీటికి కలిపి  పిచికారీ చేయండ",2021-06-11T13:15:08.237,2021,6
+ANDHRA PRADESH,NELLORE,KOVUR,NA,AGRICULTURE,Others,Others,Government Schemes,FARMER ASKED ABOUT PM KISAN SAMMAN NIDHI,"PLESE CONTACT YOUR NEAR BY COMMON SERVICE CENTER (CSC) WITH UPDATED AADHAR CARD ,LAND RECORDS, BANK PASSBOOK",2021-06-11T13:30:55.147,2021,6
+ANDHRA PRADESH,KURNOOL,GONEGANDLA,NA,AGRICULTURE,Others,Others,Weather,Farmer asked query on Weather,"WEATHER REPORT
+మీ ప్రాంతములో వాతావరణం మబ్బులుగా ఉంటుంది ,వర్షం పడే అవకాశం ఉంది
+",2021-06-11T09:32:43.877,2021,6
+ANDHRA PRADESH,KRISHNA,CHANDARLAPADU,NA,AGRICULTURE,Others,Others,Weather,Farmer asked query on Weather,"WEATHER REPORT
+మీ ప్రాంతములో వాతావరణం మబ్బులుగా ఉంటుంది ,వర్షం పడే అవకాశం ఉంది.
+
+",2021-06-11T10:13:41.17,2021,6
+ANDHRA PRADESH,VIZIANAGARM,BOBBILI,NA,AGRICULTURE,Others,Others,Government Schemes,"PM KISAN SAMMAN NIDHI SCHEME
+",--Either details are not registered in the portal or rejected due to wrong details.,2021-06-11T10:17:19.353,2021,6
+ANDHRA PRADESH,KURNOOL,PAMULAPADU,NA,AGRICULTURE,Others,Others,Weather,Farmer asked query on Weather,"WEATHER REPORT
+మీ ప్రాంతములో వాతావరణం మబ్బులుగా ఉంటుంది ,వర్షం పడే అవకాశం ఉంది
+",2021-06-11T10:26:17.96,2021,6
+ANDHRA PRADESH,ANANTPUR,RAPTADU,NA,AGRICULTURE,Others,Others,Government Schemes,farmer asked about pm kisan scheme,--FTO is generated and Payment confirmation is pending,2021-06-11T10:30:15.567,2021,6
+ANDHRA PRADESH,EAST GODAVARI,PITHAPURAM,NA,AGRICULTURE,Others,Others,Weather,Farmer asked query on Weather,"మీ ప్రాంతములో వాతావరణం మబ్బులుగా ఉంటుంది,వర్షం పడే అవకాశం లేదు
+",2021-06-11T10:32:05.187,2021,6
+ANDHRA PRADESH,ANANTPUR,GOOTY,NA,HORTICULTURE,Fruits,Citrus,Nutrient Management,Farmer asked query on disease management cancer management in citrus,"--RECOMMENDED TO SPRAY COPPER OXY CHLORIDE  (BLUE COPPER) 600  GM /200 LITRES OF WATER / ACRE  
+కాపర్ ఆక్సీక్లోరైడ్  600 గ్రాములు   / 200 లీటర్ల నీటికి చొప్పున కలిపి ఒక ఎకరాకు పిచికారి చేయాలి 
+
+RECOMMENDED TO SPRAY  Plantomycin 50 Gms / 200 LITRES OF WATER / ACRE ",2021-06-11T10:38:11.12,2021,6
+ANDHRA PRADESH,KRISHNA,MYLAVARAM,NA,AGRICULTURE,Others,Others,Weather,Farmer asked query on Weather,మీ ప్రాంతములో వాతావరణం మబ్బులుగా ఉంటుంది & వర్షం పడే అవకాశం ఉంది,2021-06-11T10:42:11,2021,6
+ANDHRA PRADESH,KURNOOL,KOWTHALAM,NA,AGRICULTURE,Cereals,Paddy (Dhan),Cultural Practices,farmer asked about nursery management in paddy,"recommended to go for summer ploughing and apply 5 to 10 T OF FYM , and irrigate the field with 5-10 cm of water and go for puddling . Prepare nursery with 10 m length and 1 m width in the puddled field
+seed rate for transplanting is 20-25 kg per acre , before going for sowing in the nursery treat the seeds with carbendism  @ 2.5 g per KG of seeds",2021-06-11T11:14:32.713,2021,6
+ANDHRA PRADESH,KURNOOL,GONEGANDLA,NA,AGRICULTURE,Fiber Crops,Cotton (Kapas),Nutrient Management,farmer asked about nutrient management in cotton ,"recommended to apply 60 kg N , and 24 kg  K at 30 ,60 , and 90 days after sowing in 3 splits ,  P @ 24 kg  should be applied at the time of last ploughing 
+
+",2021-06-11T12:21:06.087,2021,6
+ANDHRA PRADESH,KURNOOL,GONEGANDLA,NA,AGRICULTURE,Oilseeds,Groundnut (pea nut/mung phalli),Fertilizer Use and Availability,FERTILIZER MANAGEMENT IN GROUNDNUT ?,RECOMMENDED TO APPLY ZYPSUM 200 KG/ ACRE.,2021-06-11T12:39:03.473,2021,6
+ANDHRA PRADESH,KURNOOL,KOLIMIGUNDLA,NA,FISHERIES,Marine,Marine,Fishery Mechanization,Farmer asked query on fisheries information?,Recommended to fisheries toll free number- 18004253453,2021-06-11T12:44:57.02,2021,6
+ANDHRA PRADESH,KRISHNA,KANCHIKACHERLA,NA,AGRICULTURE,Others,Others,Cultural Practices,Farmer asked query on Agriculture department AO contact number,"--8331056804, 8331056802  recommeded to contact AO number",2021-06-11T12:01:18.14,2021,6
+ANDHRA PRADESH,NELLORE,KAVALI,NA,AGRICULTURE,Oilseeds,Groundnut (pea nut/mung phalli),Nutrient Management,Nutrient management in Groundnut?,"RECOMMENDED TO SPRAY POTASSIUM NITRATE 13-0-45 @ 5 GRAMS/1 LITER OF WATER/ ACRE 
+పొటాషియం  నైట్రేట్  13-0-45 @ 5 గ్రాములు లీటరు నీటికి కలిపి  పిచికారీ చేయండి 
+",2021-06-11T11:34:28.32,2021,6
+ANDHRA PRADESH,KURNOOL,GONEGANDLA,NA,AGRICULTURE,Others,Others,Weather,Farmer asked query on Weather,"WEATHER REPORT
+మీ ప్రాంతములో వాతావరణం మబ్బులుగా ఉంటుంది ,వర్షం పడే అవకాశం ఉంది.
+",2021-06-11T08:19:02.163,2021,6
+ANDHRA PRADESH,KURNOOL,DEVANAKONDA,NA,AGRICULTURE,Others,Others,Weather,Farmer asked query on Weather,"మీ ప్రాంతములో వాతావరణం మొబ్బులతో ఉంటుంది ,జల్లులు పడే అవకాశం ఉంది",2021-06-11T08:45:06.883,2021,6
+ANDHRA PRADESH,VISAKHAPATNAM,NATHAVARAM,NA,AGRICULTURE,Others,Others,Government Schemes,farmer asked about pm kisan scheme,"5th installment payment stoped by state on request of Districts
+recommended to contact pm kisan help line no 01124300606 , 155261",2021-06-11T08:58:33.03,2021,6
+ANDHRA PRADESH,VIZIANAGARM,KOTHAVALASA,NA,AGRICULTURE,Green Manure,Sunnhemp (Patua),Cultural Practices,FARMER ASKED QUERY ON SUNHEMP SOWING TIME?,RECOMMENDED TO  SUNHEMP SOWING TIME - JUNE 1 ST WEEK  BEFORE MAIN CROP CULTIVATION IN FIELD,2021-06-11T09:11:03.103,2021,6
+ANDHRA PRADESH,KURNOOL,KRISHNAGIRI,NA,AGRICULTURE,Fiber Crops,Cotton (Kapas),Nutrient Management,farmer asked about nutrient management in cotton,"recommended to apply 60 KGs of NITROGEN  and 24 KGs of  PHOSPHORUS and 24 KGs of POTASH
+ apply total P  at the time of last ploughing and N , K  at 30 , 60 and 90 days after sowing ",2021-06-11T09:19:14.55,2021,6
+ANDHRA PRADESH,VISAKHAPATNAM,CHEEDIKADA,NA,AGRICULTURE,Others,Others,Weather,Farmer asked query on Weather,మీ  ప్రాంతం లో ఈ రోజు  ఉరుములు కూడిన వర్షం కలిగే అవకాశం కలదు,2021-06-11T09:23:13.223,2021,6
+ANDHRA PRADESH,GUNTUR,NEKARIKALLU,NA,AGRICULTURE,Green Manure,Dhaincha,Sowing Time and Weather,farmer asked about sowing of dhaincha in up land fields as green manure ,recommended to go for sowing of dhaincha and trample it during  last ploughing when crop attains nearly flowering stage and apply SSP for better decomposing of green manure,2021-06-11T09:38:04.083,2021,6
+ANDHRA PRADESH,KRISHNA,CHANDARLAPADU,NA,AGRICULTURE,Others,Others,Weather,Farmer asked query on Weather,"WEATHER REPORT
+మీ ప్రాంతములో వాతావరణం మబ్బులుగా ఉంటుంది ,వర్షం పడే అవకాశం ఉంది.
+
+",2021-06-11T10:14:49.59,2021,6
+ANDHRA PRADESH,KURNOOL,ALUR,NA,AGRICULTURE,Others,Others,Weather,Farmer asked query on Weather," మీ ప్రాంతములో వాతావరణం మొబ్బులతో ఉంటుంది ,జల్లులు పడే అవకాశం ఉంది
+",2021-06-11T10:15:19.39,2021,6
+ANDHRA PRADESH,Y S R ,VEERABALLI,NA,AGRICULTURE,Others,Others,Government Schemes,FARMER ASKED ABOUT PM KISAN SCHEME,"--8th installment payment stoped by state on request of District
+recommended to contact mandal agriculture officer or contact pm kisan help line no 011 24300606 , 155261",2021-06-11T10:25:06.637,2021,6
+ANDHRA PRADESH,ANANTPUR,GOOTY,NA,HORTICULTURE,Fruits,Citrus,Nutrient Management,FARMER ASKED NUTRIENT MANAGEMENT IN CITRUS ?,--RECOMMENDED TO SPRAY NPK 19-19-19 MIXTURE 5 GRAMS/1 LITRE OF WATER స్ప్రే  NPK 19-19-19 @ 5 గ్రాములు లీటరు నీటికి కలిపి  పిచికారీ చేయండి ,2021-06-11T10:31:57.28,2021,6
+ANDHRA PRADESH,KURNOOL,KOSIGI,NA,AGRICULTURE,Others,Others,Weather,Farmer asked query on Weather,"మీ ప్రాంతములో వాతావరణం మబ్బులుగా ఉంటుంది,వర్షం పడే అవకాశం లేదు
+",2021-06-11T10:32:43.3,2021,6
+ANDHRA PRADESH,WEST GODAVARI,AKIVIDU,NA,AGRICULTURE,Cereals,Paddy (Dhan),Soil Health Card,FARMER ASKED QUERY ON SOIL TEST LAB?,"KVK Address	Krishi Vigyan Kendra, Venkataramannagudem
+Contact details	Dr K Karunasree, Head KVK, Contact No.: +91-7382633692
+Landline No	0124-2764907",2021-06-11T10:36:55.303,2021,6
+ANDHRA PRADESH,KRISHNA,CHALLAPALLI,NA,AGRICULTURE,Others,Others,Government Schemes,"PM KISAN SAMMAN NIDHI SCHEME
+","PFMS / Bank Status: Correction is pending at state  PM-Kisan Helpline No. 155261 / 011-24300606, 011-23381092",2021-06-11T10:53:21.4,2021,6
+ANDHRA PRADESH,ANANTPUR,DHARMAVARAM,NA,AGRICULTURE,Others,Others,Weather,Farmer asked query on Weather,"CLOUDY WEATHER,CHANCE OF SHOWERS IN YOUR AREA 
+మీ ప్రాంతములో వాతావరణం మొబ్బులతో ఉంటుంది ,జల్లులు పడే అవకాశం ఉంది
+",2021-06-11T10:59:25.77,2021,6
+ANDHRA PRADESH,EAST GODAVARI,SAKHINETIPALLE,NA,AGRICULTURE,Others,Others,Government Schemes,FARMER ASKED ABOUT PM KISAN SCHEME?," PLESE CONTACT YOUR NEAR BY COMMON SERVICE CENTER (CSC) WITH UPDATED AADHAR CARD ,LAND RECORDS, BANK PASSBOOK
+",2021-06-11T11:01:27.78,2021,6
+ANDHRA PRADESH,GUNTUR,ROMPICHERLA,NA,AGRICULTURE,Others,Others,Government Schemes,farmer asked about pm kisan scheme,recommended to contact mee seva or visit  www.pmkisan.gov.in ,2021-06-11T11:02:15.14,2021,6
+ANDHRA PRADESH,ANANTPUR,MUDIGUBBA,NA,AGRICULTURE,Others,Others,Weather,Farmer asked query on Weather,మీ ప్రాంతములో వాతావరణం మబ్బులుగా ఉంటుంది,2021-06-11T11:02:36.437,2021,6
+ANDHRA PRADESH,ANANTPUR,KUNDURPI,NA,AGRICULTURE,Others,Others,Weather,Farmer asked query on Weather,"WEATHER REPORT
+మీ ప్రాంతములో వాతావరణం మబ్బులుగా ఉంటుంది ,వర్షం పడే అవకాశం ఉంది
+",2021-06-11T11:08:11.96,2021,6
+ANDHRA PRADESH,Y S R ,VEMULA,NA,AGRICULTURE,Others,Others,Weather,Farmer asked query on Weather,"
+WEATHER REPORT
+మీ ప్రాంతములో వాతావరణం మబ్బులుగా ఉంటుంది ,వర్షం పడే అవకాశం ఉంది.
+
+",2021-06-11T12:24:52.41,2021,6
+ANDHRA PRADESH,KURNOOL,KOLIMIGUNDLA,NA,FISHERIES,Inland,Fresh Water,Water Testing for Fish Production,farmer asked query on  fisheries information?,recommended to fisheries toll free number- 18004251188,2021-06-11T12:38:45.41,2021,6
+ANDHRA PRADESH,KURNOOL,HALAHARVI,NA,AGRICULTURE,Others,Others,Government Schemes,Farmer asked query on Government SCHEME,"	8331057521	Kurnool	G.RUFUS RONALD	MAO Halaharvi	Halaharvi
+8331057415	Kurnool	Smt.U.Umamaheswaramma (FAC)	JDA, KNL
+
+",2021-06-11T12:45:35.24,2021,6
+ANDHRA PRADESH,GUNTUR,MUPPALLA,NA,AGRICULTURE,Others,Others,Government Schemes,farmer asked about pm kisan scheme,--FTO is generated and Payment confirmation is pending,2021-06-11T12:46:34.847,2021,6
+ANDHRA PRADESH,KURNOOL,PEDDAKADABUR,NA,AGRICULTURE,Others,Others,Weather,Farmer asked query on Weather,"మీ ప్రాంతములో వాతావరణం మబ్బులుగా ఉంటుంది ,వర్షం పడే అవకాశం ఉంది",2021-06-11T13:10:59.883,2021,6
+ANDHRA PRADESH,KURNOOL,KODUMUR,NA,AGRICULTURE,Others,Others,Weather,Farmer asked query on Weather,"WEATHER REPORT
+మీ ప్రాంతములో వాతావరణం మబ్బులుగా ఉంటుంది ,వర్షం పడే అవకాశం ఉంది
+",2021-06-11T13:13:57.41,2021,6
+ANDHRA PRADESH,Y S R ,CUDDAPAH,NA,HORTICULTURE,Vegetables,Brinjal,Nutrient Management,Farmer asked query on Nutrient Management in brinjal- flower drop control,"--RECOMMENDED TO SPRAY NAPTHALIN ACETIC ACID (PLANOFIX)50 ML/ 200 LITRES OF WATER /ACRE   పూత పిందె రాలకుండా -నాప్తలీన్ అసిటిక్ ఆసిడ్(ప్లానోఫిక్స్ ) 50 మిల్లి లీటర్లు  200 లీటర్ల నీటికి చొప్పున కలిపి 1 ఎకరా కు పిచికారి చేయాలి 
+RECOMMENDED TO SPRAY BORAX 3 GRAMS/1 LITRE OF WATER",2021-06-11T13:46:29.95,2021,6
+ANDHRA PRADESH,ANANTPUR,BELUGUPPA,NA,AGRICULTURE,Oilseeds,Sunflower (suryamukhi),Seeds,FARMER ASKED ABOUT SUNFLOWER SEEDS,"Programme Coordinator Krishi Vigyan Kendra,PO. Reddipalli,Bukkarayasumdram Mandal,Distt-Anantapur
+Contact details	Dr M. JOHNSON, Head KVK, Contact No.: +91-9989623825
+Landline No	08554-200418",2021-06-11T13:52:53.07,2021,6
+ANDHRA PRADESH,PRAKASAM,MARTUR,NA,AGRICULTURE,Others,Others,Government Schemes,FARMER ASKED QUERY ON PM  KISAN SCHEME?, Either details are not registered in the portal or rejected due to wrong details.,2021-06-11T11:29:33.633,2021,6
+ANDHRA PRADESH,ANANTPUR,PUTLUR,NA,AGRICULTURE,Others,Others,Government Schemes,"PM KISAN SAMMAN NIDHI SCHEME
+","FTO is generated and Payment confirmation is pending
+",2021-06-11T11:39:48.62,2021,6
+ANDHRA PRADESH,ANANTPUR,SINGANAMALA,NA,AGRICULTURE,Others,Others,Weather,Farmer asked query on Weather, THERE IS CHANCE OF CLOUDY WEATHER IN YOUR AREA మీ ప్రాంతములో వాతావరణం మబ్బులుగా ఉంటుంది..,2021-06-11T12:06:43.167,2021,6
+ANDHRA PRADESH,KURNOOL,GONEGANDLA,NA,AGRICULTURE,Others,Others,Weather,Farmer asked query on Weather,"మీ ప్రాంతములో వాతావరణం మబ్బులుగా ఉంటుంది ,వర్షం పడే అవకాశం ఉంది ",2021-06-10T11:29:44.25,2021,6
+ANDHRA PRADESH,GUNTUR,ATCHEMPET,NA,AGRICULTURE,Pulses,Black Gram (urd bean),Seeds,varieties of black gram ,"ఎల్.బి.జి-20(తేజ),టి.9,ఎల్.బి.జి.-623(లా౦ 623) ,డబ్ల్యు .బి.జి.-26(వరంగల్-26),పి.బి.జి.-1",2021-06-11T07:01:40.28,2021,6
+ANDHRA PRADESH,KURNOOL,MANTRALAYAM,NA,AGRICULTURE,Others,Others,Weather,Farmer asked query on Weather," మీ ప్రాంతములో వాతావరణం మొబ్బులతో ఉంటుంది ,జల్లులు పడే అవకాశం ఉంది
+",2021-06-11T07:09:49.25,2021,6
+ANDHRA PRADESH,KURNOOL,OWK,NA,AGRICULTURE,Pulses,Black Gram (urd bean),Varieties,FARMER ASKED QUERY ON BLACK GRAM VARIETIES?,"--RECOMMENDED TO  BLACK GRAM VARIETIES:LBG 752,AND PU-31 ETC",2021-06-11T07:13:19.553,2021,6
+ANDHRA PRADESH,KURNOOL,C.BELAGAL,NA,AGRICULTURE,Others,Others,Weather,Farmer asked query on Weather,"WEATHER REPORT
+మీ ప్రాంతములో వాతావరణం మబ్బులుగా ఉంటుంది ,వర్షం పడే అవకాశం ఉంది.
+",2021-06-11T07:28:31.63,2021,6
+ANDHRA PRADESH,CHITTOOR,GUDUPALLE,NA,HORTICULTURE,Fruits,Mango,Nutrient Management,farmer asked about nutrients for better fruit setting in mango,RECOMMENDED TO SPRAY AMBITION @250 ML PER ACRE/200 LIT OF WATER,2021-06-11T07:46:59.267,2021,6
+ANDHRA PRADESH,NELLORE,KODAVALUR,NA,AGRICULTURE,Others,Others,Weather,Farmer asked query on Weather,"WEATHER REPORT
+మీ ప్రాంతములో వాతావరణం మబ్బులుగా ఉంటుంది ,వర్షం పడే అవకాశం ఉంది.
+",2021-06-11T07:47:27.61,2021,6
+ANDHRA PRADESH,ANANTPUR,VAJRAKARUR,NA,AGRICULTURE,Pulses,Pigeon pea (red gram/arhar/tur),Varieties,FARMER  ASKED QUERY ON REDGRAM VARIETIES?,"RECOMMENDED TO RED GRAM VARIETIES- LRG- 30, 38,42 AND LAKSHMI AND ABHYA",2021-06-11T08:02:50.373,2021,6
+ANDHRA PRADESH,ANANTPUR,VAJRAKARUR,NA,AGRICULTURE,Pulses,Green Gram (Moong Bean/ Moong),Cultural Practices,FARMER ASKED QUERY ON ON GREEN GRAM SOWING TIME?,RECOMMENDED TO GREEN GRAM SOWING TIME- JUNE 15 TO JULY 15 TH,2021-06-11T08:04:47.623,2021,6
+ANDHRA PRADESH,CHITTOOR,VIJAYAPURAM,NA,AGRICULTURE,Sugar and Starch Crops,Sugarcane (Noble Cane),	Plant Protection	,"FARMER ASKING QUERY ON Red rot management in Sugarcane?
+","Regional Agricultural Research Station in Anakapalle phone number-9989625216. BCT-KVK, Eco Rejuvenation Centre, Haripuram - 531061, Rambilli Mandal, Visakhapatnam Dist. Contact details Dr K Sailaja, Head KVK, Contact No.: +91-9492832116 Landline No 08924-253850",2021-06-11T06:33:35.127,2021,6
+ANDHRA PRADESH,NELLORE,BALAYAPALLE,NA,HORTICULTURE,Vegetables,Bhindi(Okra/Ladysfinger),	Plant Protection	,farmer asked about leaf eating caterpillar management in bhindi,"RECOMMENDED TO SPRAY EMAMECTIN BENZOATE (PROCLAIM) 90 GRAMS /150 LITRES OF WATER / ACRE  
+ఎమామెక్టిన్  బెంజోయేట్  90 గ్రాములు   /150 లీటర్ల నీటికి చొప్పున కలిపి  ఒక ఎకరాకు పిచికారి చేయాలి (OR)
+
+RECOMMENDED TO SPRAY CHLORANTRANILIPROLE (CORAGIN) 60 ML/200 LITRES OF WATER / ACRE    క్లోరాంత్రనిలిప్రోల్  60 మిల్లి లీటర్లు   /200 లీటర్ల నీటికి చొప్పున కలిపి  ఒక ఎకరాకు పిచికారి చేయాలి
+",2021-06-11T06:51:23.733,2021,6
+ANDHRA PRADESH,KURNOOL,C.BELAGAL,NA,AGRICULTURE,Others,Others,Weather,Farmer asked query on Weather,"WEATHER REPORT
+మీ ప్రాంతములో వాతావరణం మబ్బులుగా ఉంటుంది ,వర్షం పడే అవకాశం ఉంది.
+",2021-06-11T07:28:41.923,2021,6
+ANDHRA PRADESH,KURNOOL,ADONI,NA,AGRICULTURE,Others,Others,Weather,Farmer asked query on Weather,"WEATHER REPORT
+మీ ప్రాంతములో వాతావరణం మబ్బులుగా ఉంటుంది ,వర్షం పడే అవకాశం ఉంది.
+",2021-06-11T07:41:31.65,2021,6
+ANDHRA PRADESH,ANANTPUR,MUDIGUBBA,NA,AGRICULTURE,Others,Others,Weather,Farmer asked query on Weather, మీ ప్రాంతములో వాతావరణం మబ్బులుగా ఉంటుంది ,2021-06-11T07:43:28.32,2021,6
+ANDHRA PRADESH,Y S R ,KAMALAPURAM,NA,AGRICULTURE,Pulses,Green Gram (Moong Bean/ Moong),Sowing Time and Weather,farmer asked about sowing time of green gram and black gram,recommended to go for sowing of green gram and  black gram in the months of JUNE to JULY,2021-06-11T07:50:18.15,2021,6
+ANDHRA PRADESH,KURNOOL,KOLIMIGUNDLA,NA,FISHERIES,Marine,Marine,Water Testing for Fish Production,water testing for production , recommended to contact  fisheries number 08518-277290,2021-06-11T07:57:39.307,2021,6
+ANDHRA PRADESH,KURNOOL,YEMMIGANUR,NA,AGRICULTURE,Others,Others,Weather,Farmer asked query on Weather," మీ ప్రాంతములో వాతావరణం మొబ్బులతో ఉంటుంది ,జల్లులు పడే అవకాశం ఉంది",2021-06-11T08:03:53.96,2021,6
+ANDHRA PRADESH,KURNOOL,GONEGANDLA,NA,HORTICULTURE,Vegetables,Chillies,Cultural Practices,FARMER ASKED QUERY ON CHILLI VARIETIES?,"RECOMMNEDED TO CHILLI VARITIES: G3, BHAGYA LAKSHMI,SINDHUR, ANDHRA JYOTHI 
+  AVG. YIELD- 30 TO 35 QUINTAL PER ACRE",2021-06-11T12:09:56.997,2021,6
+ANDHRA PRADESH,CHITTOOR,VIJAYAPURAM,NA,AGRICULTURE,Millets,Pearl Millet (Bajra/Bulrush Millet/Spiked Millet),Cultural Practices,FARMER ASKED ABOUT SOWING TIME OF PEARL MILLET?,JUNE TO JULY IS RIGHT TIME FOR SOWING OF  PEARL MILLET .,2021-06-11T12:31:43.973,2021,6
+ANDHRA PRADESH,CHITTOOR,VIJAYAPURAM,NA,AGRICULTURE,Others,Others,Weather,Farmer asked query on Weather,"WEATHER REPORT : DRY WEATHER,CHANCE OF SHOWERS IN YOUR AREA 
+మీ ప్రాంతములో వాతావరణం పొడిగా ఉంటుంది ,జల్లులు పడే అవకాశం ఉంది
+",2021-06-11T12:32:19.04,2021,6
+ANDHRA PRADESH,KURNOOL,OWK,NA,AGRICULTURE,Others,Others,Weather,Farmer asked query on Weather,"WEATHER REPORT :
+CLOUDY WEATHER NO CHANCE OF RAIN
+మాబులోతో కూడుకున్న వాతావరణం ఉంటుంది వర్షం పడే ఆవకాశాం తక్కువ గ వుంది.
+",2021-06-11T12:51:46.927,2021,6
+ANDHRA PRADESH,GUNTUR,MACHERLA,NA,AGRICULTURE,Others,Others,Government Schemes,Farmer asked query on PM KISAN SAMMAN NIDHI YOJANA SCHEME,--PFMS / Bank Status: Account detail is under revalidation process with bank,2021-06-11T13:14:32.853,2021,6
+ANDHRA PRADESH,EAST GODAVARI,PITHAPURAM,NA,AGRICULTURE,Others,Others,Weather,Farmer asked query on Weather,"WEATHER REPORT
+మీ ప్రాంతములో వాతావరణం మబ్బులుగా ఉంటుంది ,వర్షం పడే అవకాశం ఉంది
+",2021-06-11T13:18:17.37,2021,6
+ANDHRA PRADESH,KURNOOL,KODUMUR,NA,AGRICULTURE,Others,Others,Weather,Farmer asked query on Weather,"మీ ప్రాంతములో వాతావరణం మబ్బులుగా ఉంటుంది ,వర్షం పడే అవకాశం ఉంది",2021-06-11T13:18:36.42,2021,6
+ANDHRA PRADESH,KURNOOL,GONEGANDLA,NA,AGRICULTURE,Others,Others,Weather,Farmer asked query on Weather,"WEATHER REPORT
+మీ ప్రాంతములో వాతావరణం మబ్బులుగా ఉంటుంది ,వర్షం పడే అవకాశం ఉంది.
+",2021-06-11T08:18:10.217,2021,6
+ANDHRA PRADESH,GUNTUR,PHIRANGIPURAM,NA,AGRICULTURE,Fiber Crops,Cotton (Kapas),Varieties,varieties of cotton ,"recommended varieties of m.c.u-5,N.R.A 5166, LAM 603, 604 ",2021-06-11T08:27:05.55,2021,6
+ANDHRA PRADESH,ANANTPUR,KAMBADUR,NA,HORTICULTURE,Vegetables,Tomato,Nutrient Management,farmer asked about nutrient management in tomato,"RECOMMENDED TO SPRAY POTASSIUM NITRATE 13-0-45 @ 5 GRAMS/1 LITER OF WATER/ ACRE పొటాషియం  నైట్రేట్  13-0-45 @ 5 గ్రాములు లీటరు నీటికి కలిపి  పిచికారీ చేయండి (OR)
+
+RECOMMENDED TO SPRAY NPK 19-19-19 MIXTURE  5 GRAMS/1 LITRE OF WATER స్ప్రే  NPK 19-19-19 @ 5 గ్రాములు లీటరు నీటికి కలిపి  పిచికారీ చేయండి ",2021-06-11T08:29:41.86,2021,6
+ANDHRA PRADESH,PRAKASAM,YERRAGONDAPALEM,NA,AGRICULTURE,Others,Others,Weather,Farmer asked query on Weather,"మీ ప్రాంతములో వాతావరణం మొబ్బులతో ఉంటుంది ,జల్లులు పడే అవకాశం ఉంది",2021-06-11T08:43:10.693,2021,6
+ANDHRA PRADESH,KURNOOL,KRISHNAGIRI,NA,AGRICULTURE,Others,Others,Weather,Farmer asked query on Weather,"మీ ప్రాంతములో వాతావరణం మొబ్బులతో ఉంటుంది ,జల్లులు పడే అవకాశం ఉంది
+",2021-06-11T09:09:34.667,2021,6
+ANDHRA PRADESH,KURNOOL,ALUR,NA,AGRICULTURE,Others,Others,Weather,Farmer asked query on Weather,"మీ ప్రాంతం లో వాతావరణం మబ్బులుగా ఉంటుంది , జల్లులు పడే అవకాశం కలదు
+
+",2021-06-11T09:10:53.137,2021,6
+ANDHRA PRADESH,PRAKASAM,MADDIPADU,NA,AGRICULTURE,Others,Others,Weather,Farmer asked query on Weather,"మీ ప్రాంతం లో వాతావరణం మబ్బులుగా ఉంటుంది , జల్లులు పడే అవకాశం కలదు
+
+",2021-06-11T09:21:50.55,2021,6
+ANDHRA PRADESH,KURNOOL,GONEGANDLA,NA,AGRICULTURE,Others,Others,Weather,Farmer asked query on Weather,"WEATHER REPORT
+మీ ప్రాంతములో వాతావరణం మబ్బులుగా ఉంటుంది ,వర్షం పడే అవకాశం ఉంది
+",2021-06-11T09:32:31.397,2021,6
+ANDHRA PRADESH,KURNOOL,GONEGANDLA,NA,AGRICULTURE,Others,Others,Weather,Farmer asked query on Weather," మీ ప్రాంతములో వాతావరణం మబ్బులుగా ఉంటుంది ,వర్షం పడే అవకాశం ఉంది",2021-06-11T09:34:22.267,2021,6
+ANDHRA PRADESH,KRISHNA,MUSUNURU,NA,AGRICULTURE,Fiber Crops,Cotton (Kapas),Weed Management,COTTON PRE EMERGENCE WEED MANAGEMENT ," పెండిమెథాలిన్(స్టాంప్)   1  లీటర్ /200 లీటర్ల నీటికి చొప్పున కలిపి ఒక ఎకరాకు పిచికారి చేయాలి	 
+",2021-06-11T09:41:46.493,2021,6
+ANDHRA PRADESH,CHITTOOR,NARAYANAVANAM,NA,HORTICULTURE,Flowers,Tuberose,	Plant Protection	,FARMER ASKED QUERY ON  MEALY BUG MANAGEMENT IN TUBEROSE?,"RECOMMENDED TO SPRAY DIMETHOATE (ROGER) 400 ML /200 LITRES OF WATER /ACRE 
+ డైమిథోయేట్  400 మిల్లి లీటర్లు /200 లీటర్ల నీటికి చొప్పున కలిపి ఒక ఎకరాకు పిచికారి చేయాలి 
+",2021-06-11T09:47:26.45,2021,6
+ANDHRA PRADESH,KRISHNA,CHANDARLAPADU,NA,AGRICULTURE,Others,Others,Weather,Farmer asked query on Weather,"WEATHER REPORT
+మీ ప్రాంతములో వాతావరణం మబ్బులుగా ఉంటుంది ,వర్షం పడే అవకాశం ఉంది.
+
+",2021-06-11T10:15:39.497,2021,6
+ANDHRA PRADESH,ANANTPUR,BOMMANAHAL,NA,AGRICULTURE,Others,Others,Government Schemes,FARMER ASKED QUERY ON PM  KISAN SCHEME?,--Rft Signed by State For 8th Installment,2021-06-11T10:19:30.13,2021,6
+ANDHRA PRADESH,ANANTPUR,BOMMANAHAL,NA,AGRICULTURE,Others,Others,Government Schemes,FARMER ASKED QUERY ON PM  KISAN SCHEME?,Rft Signed by State For 8th Installment,2021-06-11T10:20:13.683,2021,6
+ANDHRA PRADESH,GUNTUR,ROMPICHERLA,NA,AGRICULTURE,Others,Others,Government Schemes,"PM KISAN SAMMAN NIDHI SCHEME
+",--Either details are not registered in the portal or rejected due to wrong details.,2021-06-11T10:29:41.387,2021,6
+ANDHRA PRADESH,ANANTPUR,GOOTY,NA,HORTICULTURE,Fruits,Citrus,	Plant Protection	,FARMER ASKED QUERY ON  LEAF SPOTS CONTROL IN CITRUS?,"--RECOMMENDED TO SPRAY CARBENDAZIM +MANCOZEB (SAAF) 400GM / 200 LIT OF WATER /ACRE
+( కార్బెండజిం + మాంకోజెబ్ ) 400 గ్రాములు / 200 లీటర్ల నీటికి చొప్పున కలిపి ఒక ఎకరాకు పిచికారి చేయాలి.
+",2021-06-11T10:30:30.807,2021,6
+ANDHRA PRADESH,CHITTOOR,PUTHALAPATTU,NA,AGRICULTURE,Cereals,Paddy (Dhan),Varieties,farmer asked about research station contact number for knowing about new varieties in paddy,"Recommended to contact Regional Agricultural Research Station ,Maruteru - 534 122 ,Phone: 08819-246283
+Agricultural Research Station, Agricultural College Campus, Bapatla-522101      Phone: 08643-225901",2021-06-11T10:35:02.483,2021,6
+ANDHRA PRADESH,KURNOOL,NANDAVARAM,NA,AGRICULTURE,Others,Others,Weather,Farmer asked query on Weather,"THERE IS A CHANCE OF CLOUDY SHOWERS IN YOUR AREA
+ మీ ప్రాంతములో వాతావరణం మబ్బులుగా ఉంటుంది ,జల్లులు అవకాశం ఉంది
+",2021-06-11T10:54:21.913,2021,6
+ANDHRA PRADESH,KRISHNA,CHATRAI,NA,AGRICULTURE,Others,Others,Government Schemes,FARMER ASKED QUERY ON PM KISAN SCHEME?,----RECOMMENDED TO WAIT FOR NEW FARMER REGISTRATION IN PM KISAN,2021-06-11T11:05:28.44,2021,6
+ANDHRA PRADESH,WEST GODAVARI,ELURU,NA,AGRICULTURE,Cereals,Paddy (Dhan),Weed Management,Farmer asked query on weed management in Paddy,"RECOMMENDED TO USE PRETILACHLOR 500 ML PER ACRE
+ప్రిటిలాక్లోర్ (రీఫిట్) 500  మిల్లి లీటర్లు  /20 కిలోల ఇసుకకు  కలిపి 1 ఎకరాలో చల్లుకోవాలి 
+",2021-06-11T11:05:56.99,2021,6
+ANDHRA PRADESH,NELLORE,KONDAPURAM,NA,AGRICULTURE,Others,Others,Government Schemes,Farmer asked query on PM KISAN SAMMAN NIDHI YOJANA SCHEME,RECOMMENDED TO CONTACT MANDAL MAO ,2021-06-11T12:23:26.86,2021,6
+ANDHRA PRADESH,ANANTPUR,VIDAPANAKAL,NA,AGRICULTURE,Others,Others,Government Schemes,Farmer asked query on PM KISAN SAMMAN NIDHI YOJANA SCHEME,--RECOMMENDED TO CONTACT MANDAL MAO ,2021-06-11T12:26:04.123,2021,6
+ANDHRA PRADESH,GUNTUR,BOLLAPALLE,NA,AGRICULTURE,Others,Others,Weather,Farmer asked query on Weather,"
+WEATHER REPORT
+మీ ప్రాంతములో వాతావరణం మబ్బులుగా ఉంటుంది ,వర్షం పడే అవకాశం ఉంది.
+
+",2021-06-11T12:28:04.65,2021,6
+ANDHRA PRADESH,EAST GODAVARI,RAJAHMUNDRY RURAL,NA,AGRICULTURE,Others,Others,Government Schemes,Farmer asked query on PM KISAN SAMMAN NIDHI YOJANA SCHEME,--PFMS / Bank Status: Account detail is under revalidation process with bank,2021-06-11T12:31:05.38,2021,6
+ANDHRA PRADESH,EAST GODAVARI,KAPILESWARAPURAM,NA,AGRICULTURE,Others,Others,Government Schemes,FARMER ASKED ABOUT PM KISAN SAMMAN NIDHI SCHEME?>," PLESE CONTACT YOUR NEAR BY COMMON SERVICE CENTER (CSC) WITH UPDATED AADHAR CARD ,LAND RECORDS, BANK PASSBOOK
+",2021-06-11T12:31:35.847,2021,6
+ANDHRA PRADESH,WEST GODAVARI,JEELUGUMILLI,NA,HORTICULTURE,Condiments and Spices,Garlic,Cultural Practices,farmer asked about sowing time of garlic,recommended to sow the garlic in the month of JUNE - JULY,2021-06-11T12:47:48.493,2021,6
+ANDHRA PRADESH,WEST GODAVARI,NALLAJERLA,NA,AGRICULTURE,Others,Others,Weather,Farmer asked query on Weather,"
+WEATHER REPORT
+మీ ప్రాంతములో వాతావరణం మబ్బులుగా ఉంటుంది ,వర్షం పడే అవకాశం ఉంది.
+
+",2021-06-11T13:06:31.513,2021,6
+ANDHRA PRADESH,ANANTPUR,BRAHMASAMUDRAM,NA,AGRICULTURE,Others,Others,Government Schemes,FARMER ASKED QUERY ON PM  KISAN SCHEME?,--PFMS / Bank Status: Correction is pending at state,2021-06-11T13:12:38.46,2021,6
+ANDHRA PRADESH,KURNOOL,GADIVEMULA,NA,AGRICULTURE,Pulses,Pigeon pea (red gram/arhar/tur),Sowing Time and Weather,SPACING OF RED GRAM ,SPACING OF RED GRAM IS 120*20CM,2021-06-11T13:15:33.477,2021,6
+ANDHRA PRADESH,KURNOOL,ATMAKUR,NA,AGRICULTURE,Others,Others,Weather,Farmer asked query on Weather,"మీ ప్రాంతములో వాతావరణం మొబ్బులతో ఉంటుంది ,జల్లులు పడే అవకాశం ఉంది
+
+",2021-06-11T13:33:51.287,2021,6
+ANDHRA PRADESH,KURNOOL,PATTIKONDA,NA,AGRICULTURE,Others,Others,Weather,Farmer asked query on Weather,మీ ప్రాంతములో వాతావరణం మబ్బులుగా ఉంటుంది & వర్షం పడే అవకాశం ఉంది,2021-06-11T13:44:58.58,2021,6
+ANDHRA PRADESH,Y S R ,CUDDAPAH,NA,HORTICULTURE,Fruits,Papaya,Nutrient Management,Farmer asked query on Nutrient Management in Papaya,RECOMMENDED TO SPRAY FORMULA-4 600 GRAMS/200 LITER OF WATER/ ACRE ఫార్ములా -4 600 గ్రాములు  / 200 లీటరు నీటికి కలిపి పిచికారీ చేయండి ,2021-06-11T13:48:56.62,2021,6
+ANDHRA PRADESH,EAST GODAVARI,KORUKONDA,NA,AGRICULTURE,Others,Others,Weather,Farmer asked query on Weather,"మీ ప్రాంతం లో వాతావరణం మబ్బులుగా ఉంటుంది , జల్లులు పడే అవకాశం కలదు
+
+",2021-06-11T09:02:14.897,2021,6
+ANDHRA PRADESH,EAST GODAVARI,KAJULURU,NA,AGRICULTURE,Others,Others,Government Schemes,PMKISAN SAMMAN NIDHI YOJANA ,"--PM-Kisan Helpline No. 155261 / 011-24300606, 011-23381092",2021-06-11T09:09:58.737,2021,6
+ANDHRA PRADESH,CHITTOOR,VENKATAGIRIKOTA,NA,HORTICULTURE,Flowers,Chrysanthemum,	Plant Protection	,FARMER ASKED QUERY ON APHID CONTROL IN CHRYSANTHIMUM?,"RECOMMENDED TO SPRAY ACETAMIPRID (PRIDE) 40 GRAMS /200 LITRES OF WATER /ACRE 
+అసిటామిప్రైడ్   40 గ్రాములు   / 200 లీటర్ల నీటికి చొప్పున కలిపి ఒక ఎకరాకు పిచికారి చేయాలి 
+",2021-06-11T09:23:11.96,2021,6
+ANDHRA PRADESH,PRAKASAM,CHINAGANJAM,NA,HORTICULTURE,Vegetables,Amaranthus/Grain Amaranthus,	Plant Protection	,AMARANTHUS LEAF SPOT MANGAMENT ,"హెక్సాకొనజోల్   400 మిల్లి లీటర్లు  / 200 లీటర్ల నీటికి చొప్పున కలిపి ఎకరాకు పిచికారి చేయాలి
+ ",2021-06-11T10:24:08.013,2021,6
+ANDHRA PRADESH,PRAKASAM,CHINAGANJAM,NA,HORTICULTURE,Vegetables,Cucumber,Nutrient Management,CUCUMBER NUTRIENT MANAGEMENT ,"అగ్రోమింమ్యాక్స్ ఎకరానికి 600 గ్రాములు 200 లీటర్ల నీటికి కలిపి పిచికారీ చేయాలి                                                               
+",2021-06-11T10:24:47.183,2021,6
+ANDHRA PRADESH,SRIKAKULAM,RAJAM,NA,AGRICULTURE,Others,Others,Weather,Farmer asked query on Weather," మీ  ప్రాంతం లో ఈ రోజు  ఉరుములు కూడిన వర్షం కలిగే అవకాశం కలదు. 
+A  thunderstorm is likely to  take place in your area",2021-06-11T06:28:32.173,2021,6
+ANDHRA PRADESH,KURNOOL,OWK,NA,AGRICULTURE,Pulses,Black Gram (urd bean),Cultural Practices,FARMER ASKED QUERY ON BLACK GRAM SEED RATE??,RECOMMENDED TO BLACK GRAM SEED RATE- 6 TO 7 KG/ACRE,2021-06-11T07:14:52.42,2021,6
+ANDHRA PRADESH,CHITTOOR,VIJAYAPURAM,NA,AGRICULTURE,Sugar and Starch Crops,Sugarcane (Noble Cane),	Plant Protection	, sugarcane rot: management ,"RECOMMENDED TO SPRAY PROPICONAZOLE (TILT) 200 ML/200 LITERS OF WATER/ACRE
+",2021-06-11T07:35:30.29,2021,6
+ANDHRA PRADESH,NELLORE,KODAVALUR,NA,AGRICULTURE,Others,Others,Weather,Farmer asked query on Weather,"WEATHER REPORT
+మీ ప్రాంతములో వాతావరణం మబ్బులుగా ఉంటుంది ,వర్షం పడే అవకాశం ఉంది.
+",2021-06-11T07:47:37.94,2021,6
+ANDHRA PRADESH,KURNOOL,DEVANAKONDA,NA,AGRICULTURE,Others,Others,Weather,Farmer asked query on Weather,"WEATHER INFORMATION : 
+CLOUDY WEATHER , CHANCE OF SHOWERS  IN YOUR AREA 
+మీ ప్రాంతం లో వాతావరణం మబ్బులుగా ఉంటుంది , జల్లులు పడే అవకాశం కలదు
+",2021-06-11T08:01:28.673,2021,6
+ANDHRA PRADESH,KURNOOL,DEVANAKONDA,NA,AGRICULTURE,Others,Others,Weather,Farmer asked query on Weather,"WEATHER REPORT
+మీ ప్రాంతములో వాతావరణం మబ్బులుగా ఉంటుంది ,వర్షం పడే అవకాశం ఉంది.
+",2021-06-11T08:04:13.38,2021,6
+ANDHRA PRADESH,CHITTOOR,VIJAYAPURAM,NA,AGRICULTURE,Others,Others,	Plant Protection	,BEST AGRICULTURE PHOTO APP ,RECOMMENDED TO PLANTIX APP IS THE BEST APP ,2021-06-11T10:38:32.35,2021,6
+ANDHRA PRADESH,ANANTPUR,GOOTY,NA,HORTICULTURE,Fruits,Citrus,Nutrient Management,Farmer asked query on Nutrient Management in citrus,"RECOMMENDED TO SPRAY 13-0-45 1KG / 200 LITRE OF WATER /ACRE
+RECOMMENDED TO SPRAY FORMULA-4 600 GRAMS/200 LITER OF WATER/ ACRE ఫార్ములా -4 600 గ్రాములు  / 200 లీటరు నీటికి కలిపి పిచికారీ చేయండి ",2021-06-11T10:39:32.973,2021,6
+ANDHRA PRADESH,ANANTPUR,NALLACHERUVU,NA,AGRICULTURE,Oilseeds,Groundnut (pea nut/mung phalli),Crop Insurance,CROUP INSURANCE ,CONTACT YOUR AGRICULTURE OFFICER,2021-06-11T10:40:42.707,2021,6
+ANDHRA PRADESH,SRIKAKULAM,RAJAM,NA,AGRICULTURE,Others,Others,Weather,Farmer asked query on Weather,మీ ప్రాంతములో వాతావరణం మబ్బులుగా ఉంటుంది & వర్షం పడే అవకాశం ఉంది,2021-06-11T10:42:22.653,2021,6
+ANDHRA PRADESH,CHITTOOR,PUTHALAPATTU,NA,AGRICULTURE,Cereals,Paddy (Dhan),Varieties,Farmer query asked about MTU varieties in paddy and seed treatment,"Regional Agricultural Research Station Maruteru – 534 122,West Godavari Dist.
+ 	
+Dr. G. Joginaidu  Associate Director of Research (FAC)
+08819 – 246283 
+ 08819-247583(F)
+  9177297969
+adr.godavarizone@gmail.com",2021-06-11T10:47:41.52,2021,6
+ANDHRA PRADESH,WEST GODAVARI,ELURU,NA,AGRICULTURE,Cereals,Paddy (Dhan),Varieties,Farmer query on maruteru  paddy seeds availability ,"Regional Agricultural Research Station Maruteru – 534 122,West Godavari Dist.
+ 	
+Dr. G. Joginaidu  Associate Director of Research (FAC)
+08819 – 246283 
+ 08819-247583(F)
+  9177297969
+adr.godavarizone@gmail.com",2021-06-11T11:04:54.497,2021,6
+ANDHRA PRADESH,GUNTUR,MEDIKONDURU,NA,HORTICULTURE,Vegetables,Brinjal,	Plant Protection	,FARMMER ASKED QUERY ON POWDERY MILDEW MANAGEMENT ?,"RECOMMENDED TO SPRAY  HEXACONAZOLE  (CONTAF) 400 ML /200 LITRES OF WATER / ACRE  
+హెక్సాకొనజోల్   400 మిల్లి లీటర్లు  / 200 లీటర్ల నీటికి చొప్పున కలిపి ఎకరాకు పిచికారి చేయాలి
+",2021-06-11T11:25:48.913,2021,6
+ANDHRA PRADESH,KURNOOL,TUGGALI,NA,AGRICULTURE,Oilseeds,Groundnut (pea nut/mung phalli),Nutrient Management,farmer asked about nutrient management in ground nut ,recommended to apply 20 KG of UREA  and 30 KG of MOP per acre,2021-06-11T11:26:02.237,2021,6
+ANDHRA PRADESH,ANANTPUR,RAPTADU,NA,AGRICULTURE,Others,Others,Weather,Farmer asked query on Weather,"WEATHER REPORT
+మీ ప్రాంతములో వాతావరణం మబ్బులుగా ఉంటుంది ,వర్షం పడే అవకాశం ఉంది.
+",2021-06-11T11:52:09.483,2021,6
+ANDHRA PRADESH,ANANTPUR,RAPTADU,NA,AGRICULTURE,Oilseeds,Groundnut (pea nut/mung phalli),Nutrient Management,FARMER ASKED NUTRIENT MANAGEMENT IN  GROUND NUT?,-RECOMMENDED TO SPRAY FERROUS SULPHATE 20 GRAMS+ CITRIC ACID 2 GRAMS/1 LITRE OF WATER,2021-06-11T11:53:29.183,2021,6
+ANDHRA PRADESH,VISAKHAPATNAM,0   ,NA,AGRICULTURE,Others,Others,Government Schemes,regarding pm kisan samman nidhi status?,"Farmer Name : Pasila Ganesh
+Mobile Number: ******6359	Aadhar Number: ********7215
+State: ANDHRA PRADESH	District: VISAKHAPATANAM
+Village: Lakshmipuram	Account Number: NA
+Town: NA	Ward: NA
+Registration Status: Registration done ( AP142842173 )	Registration Date: 20/02/2019
+Active/InActive: Active	
+PFMS / Bank Status: Account detail is under revalidation process with bank	
+Aadhar Status: Aadhar Number is Verified	
+Payment Mode: AADHAR
+Status	Ist Installment	2nd Installment	3rd Installment	4th Installment	5th Installment
+Payment Status:	1st installment payment done	2nd installment payment done	3rd installment payment done	4th installment payment done	5th installment payment done
+Bank Name:	NA	NA	NA	CENTRAL BANK OF INDIA	CENTRAL BANK OF INDIA
+Credited Account:	********7215	********7215	********7215	******6983	******6983
+Credit Date:	25/02/2019	15/04/2019	20/11/2019	19/04/2020	18/04/2020
+UTR No:	7991273644	8923626115	3505961214	6676964517	7343633778
+Transaction Failed Reason:	-----	-----	-----	-----	-----
+FTO Pending Reason:	-----	-----	-----	-----	-----
+Status	6th Installment	7nth Installment	8th Installment		
+Payment Status:	6th installment payment done	7nth installment payment done	8th installment payment stoped by state on request of Districts		
+Bank Name:	CENTRAL BANK OF INDIA	CENTRAL BANK OF INDIA	-----		
+Credited Account:	******6983	******6983	-----		
+Credit Date:	12/08/2020	30/12/2020	-----		
+UTR No:	9868085883	2732141212	-----		
+Transaction Failed Reason:	-----	-----	-----		
+FTO Pending Reason:	-----	-----	-----",2021-06-10T10:17:59.5,2021,6
+ANDHRA PRADESH,PRAKASAM,GIDDALURU,NA,AGRICULTURE,Others,Others,Government Schemes,"Farmer asked pradhan mantri kisan samman nidhi yojna late payment information
+","(खाता पुन: अमान्य होने के कारण अस्थायी रोक) प्रधान मंत्री किसान निधि योजना के बारे में अधिक जानकारी के लिए, से संपर्क करें या अपने तालुका तालुका विकास अधिकारी से संपर्क करें.",2021-06-09T18:01:33.01,2021,6
+ANDHRA PRADESH,KURNOOL,DEVANAKONDA,NA,AGRICULTURE,Others,Others,Weather,Farmer asked query on Weather,"WEATHER REPORT : CLOUDY WEATHER ,CHANCE OF SHOWERS IN YOUR AREA 
+మీ ప్రాంతములో వాతావరణం మబ్బులుగా ఉంటుంది ,జల్లులు పడే అవకాశం ఉంది 
+",2021-06-11T06:46:30.95,2021,6
+ANDHRA PRADESH,NELLORE,BALAYAPALLE,NA,HORTICULTURE,Vegetables,Bhindi(Okra/Ladysfinger),	Plant Protection	,farmer asked about white fly management in bhendi,"RECOMMENDED TO SPRAY ACEPHATE(ARTHIN) 300 GRAMS/ 200 LITRES OF WATER / ACRE 
+అసిపేట్ 300 గ్రాములు / 200 లీటర్ల నీటికి చొప్పున కలిపి ఒక ఎకరాకు పిచికారి చేయాలి (OR)
+
+RECOMMENDED TO SPRAY DIMETHOATE  (ROGORE) 400 ML /200 LITRES OF WATER /ACRE 
+ డైమిథోయేట్  400 మిల్లి లీటర్లు   /200 లీటర్ల నీటికి చొప్పున కలిపి ఒక ఎకరాకు పిచికారి చేయాలి 
+
+
+",2021-06-11T06:46:45.147,2021,6
+ANDHRA PRADESH,CHITTOOR,GUDUPALLE,NA,HORTICULTURE,Fruits,Mango,	Plant Protection	,farmer asked about fruit fly management in mango,"-RECOMMENDED TO SPRAY MALATHION   (MALATHION) 400 ML /200 LITRES OF WATER / ACRE     మలాథియాన్ 400 మిల్లి లీటర్లు  / 200 లీటర్ల నీటికి చొప్పున కలిపి ఎకరాకు పిచికారి చేయాలి
+
+RECOMMENDED TO KEEP  Pheromone trap with methyl eugenol 1 ml in 1 litre of water + 1 ml of malathion solution will attract and kill the female insects. 
+",2021-06-11T07:27:55.797,2021,6
+ANDHRA PRADESH,CHITTOOR,GUDUPALLE,NA,HORTICULTURE,Fruits,Mango,Nutrient Management,farmer asked about nutrients for better fruit setting,RECOMMENDED TO SPRAY AMBITION @250 ML PER ACRE/200 LIT OF WATER,2021-06-11T07:37:55.603,2021,6
+ANDHRA PRADESH,GUNTUR,AMARAVATHI,NA,AGRICULTURE,Others,Others,Weather,Farmer asked query on Weather,"WEATHER INFORMATION : 
+CLOUDY WEATHER , CHANCE OF SHOWERS  IN YOUR AREA 
+మీ ప్రాంతం లో వాతావరణం మబ్బులుగా ఉంటుంది , జల్లులు పడే అవకాశం కలదు
+",2021-06-11T07:45:22.17,2021,6
+ANDHRA PRADESH,KURNOOL,KOLIMIGUNDLA,NA,HORTICULTURE,Vegetables,Chillies,Cultural Practices,chilli sowing season ,chilli sowing season July -august ,2021-06-11T08:00:45.26,2021,6
+ANDHRA PRADESH,KURNOOL,DEVANAKONDA,NA,AGRICULTURE,Others,Others,Weather,Farmer asked query on Weather,"WEATHER REPORT
+మీ ప్రాంతములో వాతావరణం మబ్బులుగా ఉంటుంది ,వర్షం పడే అవకాశం ఉంది.
+",2021-06-11T08:06:57.243,2021,6
+ANDHRA PRADESH,KURNOOL,DEVANAKONDA,NA,AGRICULTURE,Others,Others,Weather,Farmer asked query on Weather,"WEATHER REPORT
+మీ ప్రాంతములో వాతావరణం మబ్బులుగా ఉంటుంది ,వర్షం పడే అవకాశం ఉంది.
+",2021-06-11T08:11:03.117,2021,6
+ANDHRA PRADESH,KURNOOL,PAGIDYALA,NA,AGRICULTURE,Millets,Maize (Makka),	Plant Protection	,maize stem borer management ,"RECOMMENDED TO APPLY CARBOFURAN 3G GRANULES 2-3  KG/ACRE
+",2021-06-11T08:15:39.97,2021,6
+ANDHRA PRADESH,KRISHNA,GUDIVADA,NA,AGRICULTURE,Cereals,Paddy (Dhan),Weed Management,FARMER ASKED QUERY ON WEED MANAGEMENT IN OPEN FIELD,RECOMMENDED TO SPRAY PARAQUAT 1 LITRE / 200 LITRES OF WATER PER ACRE  ,2021-06-11T08:23:20.797,2021,6
+ANDHRA PRADESH,GUNTUR,PHIRANGIPURAM,NA,HORTICULTURE,Vegetables,Chillies,Seeds and Planting Material,varieties of chill ,"--recommended to varieties g-3,kiran, aparna, sindur, lam -305,lca-334, lca-353lca-424",2021-06-11T08:25:32.82,2021,6
+ANDHRA PRADESH,KURNOOL,KRISHNAGIRI,NA,AGRICULTURE,Others,Others,Weather,Farmer asked query on Weather,"
+మీ ప్రాంతములో వాతావరణం మొబ్బులతో ఉంటుంది ,జల్లులు పడే అవకాశం ఉంది",2021-06-11T08:33:11.293,2021,6
+ANDHRA PRADESH,KURNOOL,TUGGALI,NA,AGRICULTURE,Others,Others,Weather,Farmer asked query on Weather,"WEATHER INFORMATION : 
+CLOUDY WEATHER , CHANCE OF SHOWERS  IN YOUR AREA 
+మీ ప్రాంతం లో వాతావరణం మబ్బులుగా ఉంటుంది , జల్లులు పడే అవకాశం కలదు
+",2021-06-11T08:43:47.027,2021,6
+ANDHRA PRADESH,ANANTPUR,RAYADURG,NA,AGRICULTURE,Others,Others,Weather,Farmer asked query on Weather,"WEATHER REPORT
+మీ ప్రాంతములో వాతావరణం మబ్బులుగా ఉంటుంది ,వర్షం పడే అవకాశం ఉంది
+",2021-06-11T08:48:36.507,2021,6
+ANDHRA PRADESH,PRAKASAM,TRIPURANTHAKAM,NA,AGRICULTURE,Others,Others,Government Schemes,FARMER QUERY ON PM KISAN SCHEME?,--PFMS / Bank Status: Account detail is under revalidation process with bank,2021-06-11T09:06:09.577,2021,6
+ANDHRA PRADESH,CHITTOOR,VENKATAGIRIKOTA,NA,HORTICULTURE,Vegetables,Bhindi(Okra/Ladysfinger),	Plant Protection	,FARMER ASKED QUERY ON WHITE FLY CONTROL IN BHINDI?,"RECOMMENDED TO SPRAY ACETAMIPRID (PRIDE) 40 GRAMS /200 LITRES OF WATER /ACRE 
+అసిటామిప్రైడ్   40 గ్రాములు   / 200 లీటర్ల నీటికి చొప్పున కలిపి ఒక ఎకరాకు పిచికారి చేయాలి 
+",2021-06-11T09:24:19.68,2021,6
+ANDHRA PRADESH,KRISHNA,MUSUNURU,NA,AGRICULTURE,Others,Others,Weather,Farmer asked query on Weather,"మీ ప్రాంతం లో వాతావరణం మబ్బులుగా ఉంటుంది , జల్లులు పడే అవకాశం కలదు
+
+",2021-06-11T09:42:48.957,2021,6
+ANDHRA PRADESH,CHITTOOR,PUTHALAPATTU,NA,AGRICULTURE,Others,Paddy (Dhan),Weather,Farmer asked query on Weather,"మీ ప్రాంతములో వాతావరణం మబ్బులుగా ఉంటుంది,వర్షం పడే అవకాశం లేదు
+",2021-06-11T10:32:28.15,2021,6
+ANDHRA PRADESH,GUNTUR,BOLLAPALLE,NA,AGRICULTURE,Others,Others,Government Schemes,FARMER ASKED QUERY ON PM  KISAN SCHEME?,--RECOMMENDED TO  WAIT FOR NEW FARMER REGISTRATION IN  PM KISAN ,2021-06-11T10:44:29.547,2021,6
+ANDHRA PRADESH,KRISHNA,KANCHIKACHERLA,NA,AGRICULTURE,Others,Others,Crop Insurance,GOLLAPUDI AGRICULTURE OFFICER CONTACT  NUMBER ,-RECOMMENDED TO CONTACT A.O -9182361180,2021-06-11T11:21:52.697,2021,6
+ANDHRA PRADESH,KURNOOL,TUGGALI,NA,AGRICULTURE,Others,Others,Weather,Farmer asked query on Weather,"CLOUDY WEATHER,CHANCE OF SHOWERS IN YOUR AREA 
+మీ ప్రాంతములో వాతావరణం మొబ్బులతో ఉంటుంది ,జల్లులు పడే అవకాశం ఉంది
+",2021-06-11T11:23:31.103,2021,6
+ANDHRA PRADESH,CHITTOOR,PENUMURU,NA,AGRICULTURE,Others,Others,Crop Insurance,SUBSIDY ABOUT INFORMATION ,RECOMMENDED TO CONTACT AGRICULTURE OFFICER ,2021-06-11T11:58:06.163,2021,6
+ANDHRA PRADESH,ANANTPUR,DHARMAVARAM,NA,AGRICULTURE,Millets,Maize (Makka),Cultural Practices,Farmer asked query on maize sowing time in AP,"Thus, in kharif the crop may be sown from the middle of June to middle of July. ",2021-06-11T12:02:56.06,2021,6
+ANDHRA PRADESH,KURNOOL,GONEGANDLA,NA,AGRICULTURE,Others,Others,Weather,Farmer asked query on Weather,"
+WEATHER REPORT
+మీ ప్రాంతములో వాతావరణం మబ్బులుగా ఉంటుంది ,వర్షం పడే అవకాశం ఉంది.
+
+",2021-06-11T12:08:11.51,2021,6
+ANDHRA PRADESH,NELLORE,PODALAKUR,NA,AGRICULTURE,Others,Others,Government Schemes,farmer asked about pm kisan scheme,recommended to contact pm kisan help line no 011 24300606,2021-06-11T12:28:20.673,2021,6
+ANDHRA PRADESH,KURNOOL,KOLIMIGUNDLA,NA,FISHERIES,Marine,Marine,Fishery Mechanization,farmer asked query on fisheries information?,recommended to fisheries toll free number- 18004253453,2021-06-11T12:45:47.64,2021,6
+ANDHRA PRADESH,SRIKAKULAM,SRIKAKULAM,NA,AGRICULTURE,Others,Others,Weather,Farmer asked query on Weather,మీ  ప్రాంతం లో ఈ రోజు  ఉరుములు కూడిన వర్షం కలిగే అవకాశం కలదు,2021-06-11T12:50:08.18,2021,6
+ANDHRA PRADESH,CHITTOOR,GUDIPALA,NA,AGRICULTURE,Others,Others,Seeds,"Farmer asked query on green manure crop seed availability, asked KVK contact number","RASS - Krishi Vigyan Kendra Vanasthali Karakambadi Post Renigunta Mandal-​517 520. Chittoor District Andhra Pradesh Phone No: 0877-2240203
+085542 00418",2021-06-11T12:52:31.9,2021,6
+ANDHRA PRADESH,NELLORE,KOVUR,NA,AGRICULTURE,Others,Others,Government Schemes,FARMER ASKED ABOUT PM KISAN  SAMMAN NIDHI ,"
+ PLESE CONTACT YOUR NEAR BY COMMON SERVICE CENTER (CSC) WITH UPDATED AADHAR CARD ,LAND RECORDS, BANK PASSBOOK
+",2021-06-11T13:11:05.53,2021,6
+ANDHRA PRADESH,KURNOOL,GADIVEMULA,NA,AGRICULTURE,Others,Others,Government Schemes,"GOVERNMENT SCHEME-PM KISAN 
+",SUGGESTED TO CONTACT AGRICULTURE OFFICER ,2021-06-11T13:14:27.24,2021,6
+ANDHRA PRADESH,KURNOOL,NANDIKOTKUR,NA,AGRICULTURE,Others,Others,Weather,Farmer asked query on Weather,"WEATHER INFORMATION : CLOUDY WEATHER , CHANCE OF SHOWERS  IN YOUR AREA 
+మీ ప్రాంతం లో వాతావరణం మబ్బులుగా ఉంటుంది , జల్లులు పడే అవకాశం కలదు 
+",2021-06-11T13:17:02.77,2021,6
+ANDHRA PRADESH,KURNOOL,TUGGALI,NA,AGRICULTURE,Others,Others,Weather,Farmer asked query on Weather,"WEATHER REPORT
+మీ ప్రాంతములో వాతావరణం మబ్బులుగా ఉంటుంది ,వర్షం పడే అవకాశం ఉంది
+",2021-06-11T13:33:03.97,2021,6
+ANDHRA PRADESH,KURNOOL,ADONI,NA,AGRICULTURE,Others,Others,Weather,Farmer asked query on Weather," మీ  ప్రాంతం లో ఈ రోజు  ఉరుములు కూడిన వర్షం కలిగే అవకాశం కలదు. 
+",2021-06-11T13:52:35.303,2021,6
+ANDHRA PRADESH,KURNOOL,GONEGANDLA,NA,AGRICULTURE,Others,Others,Weather,Farmer asked query on Weather,మీ ప్రాంతములో వాతావరణం మబ్బులుగా ఉంటుంది & వర్షం పడే అవకాశం ఉంది,2021-06-11T14:00:40.2,2021,6

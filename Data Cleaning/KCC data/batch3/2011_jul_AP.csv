@@ -1,0 +1,582 @@
+StateName,DistrictName,BlockName,Season,Sector,Category,Crop,QueryType,QueryText,KccAns,CreatedOn,year,month
+ANDHRA PRADESH,EAST GODAVARI,KOTHAPETA,NA,AGRICULTURE,Cereals,1137,0,weed control,butachlore 1.0 lit of one acare,2011-07-25T05:01:00,2011,7
+ANDHRA PRADESH,Y S R ,MUDDANUR,NA,HORTICULTURE,Fruits,Banana,0,fertilizer apllication,recommanded information has given,2011-07-25T05:01:00,2011,7
+ANDHRA PRADESH,CHITTOOR,CHANDRAGIRI,NA,ANIMAL HUSBANDRY,Animal,"Bovine(Cow,Buffalo)",0,asked about artificaial incemination,recommanded information has given,2011-07-25T05:01:00,2011,7
+ANDHRA PRADESH,GUNTUR,NEKARIKALLU,NA,HORTICULTURE,Condiments and Spices,Turmeric,0,asked about weedicide in turmeric,recommended atrazine,2011-07-25T06:49:00,2011,7
+ANDHRA PRADESH,CHITTOOR,KALAKADA,NA,HORTICULTURE,Vegetables,2108,0,asked about tomato early blight disease control,recommended mancozeb 3g/lt,2011-07-25T06:49:00,2011,7
+ANDHRA PRADESH,0   ,0   ,NA,HORTICULTURE,Fruits,1268,87,cultivation process,given information as per the data,2011-07-25T10:00:00,2011,7
+ANDHRA PRADESH,PRAKASAM,NAGULUPPALA PADU,NA,ANIMAL HUSBANDRY,Animal,964,Dairy Production,management,Given information as per the data,2011-07-25T10:00:00,2011,7
+ANDHRA PRADESH,PRAKASAM,PULLALACHERUVU,NA,AGRICULTURE,Fiber Crops,Cotton (Kapas),0,cotton	swhitefly damage,sprpraying of triazophos 2.0 ml per one lit of water,2011-07-24T07:15:00,2011,7
+ANDHRA PRADESH,KRISHNA,PENAMALURU,NA,HORTICULTURE,Condiments and Spices,Turmeric,0,turmeric	asked about price information,6500 per quintal,2011-07-24T07:15:00,2011,7
+ANDHRA PRADESH,WEST GODAVARI,PEDAPADU,NA,825,Avian,1266,0,poultry	rearing,NA,2011-07-24T07:15:00,2011,7
+ANDHRA PRADESH,ANANTPUR,BUKKARAYASAMUDRAM,NA,AGRICULTURE,Cereals,1137,0,rice	zinc defeciency,recommandeed to spray zinc sulphate 2.0 g pwr one lit of water,2011-07-24T07:39:00,2011,7
+ANDHRA PRADESH,GUNTUR,NEKARIKALLU,NA,HORTICULTURE,Vegetables,Ridge Gourd,0,asked about flower drop in ridge gourd,Recoomedned planofix,2011-07-23T07:54:00,2011,7
+ANDHRA PRADESH,PRAKASAM,TALLUR,NA,AGRICULTURE,Pulses,Green Gram (Moong Bean/ Moong),0,asked about flower drop in green gram,recommended planofix 2.5ml /10l,2011-07-23T07:54:00,2011,7
+ANDHRA PRADESH,PRAKASAM,JANAKAVARAM PONGULURU,NA,AGRICULTURE,Pulses,Pigeon pea (red gram/arhar/tur),0,asked about weedicide in green gram,INFORMATION GIVEN AS PER DATA,2011-07-23T08:13:00,2011,7
+ANDHRA PRADESH,PRAKASAM,CHANDRA SEKHARA PURAM,NA,HORTICULTURE,Vegetables,1280,0,chilli	fertilizer application,recommanded information has given,2011-07-23T08:56:00,2011,7
+ANDHRA PRADESH,EAST GODAVARI,RAJANAGARAM,NA,AGRICULTURE,Cereals,1137,22,Weed controle,syhalopopbutail 400ml/2,2011-07-19T06:24:00,2011,7
+ANDHRA PRADESH,VIZIANAGARM,GANTYADA,NA,AGRICULTURE,Others,Others,29,drip irrogation,Given information as per the data,2011-07-20T03:29:00,2011,7
+ANDHRA PRADESH,PRAKASAM,MUNDLAMURU,NA,AGRICULTURE,Pulses,Green Gram (Moong Bean/ Moong),0,asked about yellowing leaves of green gram,Recommended dimethoate 2ml/lt,2011-07-20T03:33:00,2011,7
+ANDHRA PRADESH,ANANTPUR,TALUPULA,NA,AGRICULTURE,Others,Others,0,asked about diseases in flowers,INFORMATION GIVEN AS PER DATA,2011-07-20T06:22:00,2011,7
+ANDHRA PRADESH,KURNOOL,YEMMIGANUR,NA,AGRICULTURE,Others,Others,0,asked about gorrela pempakam,INFORMATION GIVEN AS PER DATA,2011-07-20T06:22:00,2011,7
+ANDHRA PRADESH,KRISHNA,KALIDINDI,NA,AGRICULTURE,Cereals,1137,0,asked about weedicide in rice,recommended Butachlor 1.5 lt/acre,2011-07-20T06:22:00,2011,7
+ANDHRA PRADESH,PRAKASAM,KANIGIRI,NA,HORTICULTURE,Fruits,1324,0,papaya	saline soils,recommanded information has given,2011-07-22T04:04:00,2011,7
+ANDHRA PRADESH,Y S R ,MYDUKUR,NA,HORTICULTURE,Condiments and Spices,Turmeric,0,asked about turmeric weedicde,recommended atrazine,2011-07-22T10:32:00,2011,7
+ANDHRA PRADESH,KRISHNA,VEERULLAPADU,NA,HORTICULTURE,Vegetables,Chillies,0,asked about chilli root rot,recommended coc 3g/lt,2011-07-22T10:32:00,2011,7
+ANDHRA PRADESH,EAST GODAVARI,RAJAHMUNDRY RURAL,NA,HORTICULTURE,Fruits,Coconut,0,asked about coconut plants,INFORMATION GIVEN AS PER DATA,2011-07-22T10:32:00,2011,7
+ANDHRA PRADESH,KURNOOL,MIDTHUR,NA,AGRICULTURE,Cereals,1075,0,Asked about intercropping in maize,recommended redgram and turmeric,2011-07-22T11:02:00,2011,7
+ANDHRA PRADESH,KURNOOL,VELDURTHI,NA,HORTICULTURE,Vegetables,Onion,0,asked about onion leaf spot disease control,recommedned mancozeb 3g/lt of water,2011-07-22T11:09:00,2011,7
+ANDHRA PRADESH,WEST GODAVARI,DWARAKATIRUMALA,NA,AGRICULTURE,Cereals,1075,0,asked about maize hybrids,"recommended Pioneer 30v92m Pinnacle,DHM-117",2011-07-20T08:38:00,2011,7
+ANDHRA PRADESH,ANANTPUR,RAYADURG,NA,AGRICULTURE,Cereals,1075,0,asked about maize stem borer damage control,recommended carbofuran 3G @3kg per acre,2011-07-01T06:51:00,2011,7
+ANDHRA PRADESH,CHITTOOR,SRIKALAHASTI,NA,AGRICULTURE,Cereals,1137,0,rice	rice leaf folder damage,spraying of cartop hydrochloride 2.0 g in 1 lit of water,2011-07-13T08:14:00,2011,7
+ANDHRA PRADESH,VIZIANAGARM,0   ,NA,AGRICULTURE,Fiber Crops,Cotton (Kapas),0,cotton	fertilizer application,recommanded information has given,2011-07-13T08:14:00,2011,7
+ANDHRA PRADESH,KURNOOL,PEDDAKADABUR,NA,HORTICULTURE,Vegetables,Onion,0,fertiliger application,recommanded information has given,2011-07-13T10:56:00,2011,7
+ANDHRA PRADESH,KRISHNA,NUZVID,NA,HORTICULTURE,Vegetables,2108,0,tomato	vaerities,recommanded information has given,2011-07-14T10:56:00,2011,7
+ANDHRA PRADESH,Y S R ,MYLAVARAM,NA,HORTICULTURE,Fruits,Banana,0,banana	bunchy top disease,NA,2011-07-11T12:37:00,2011,7
+ANDHRA PRADESH,PRAKASAM,SINGARAYAKONDA,NA,HORTICULTURE,Condiments and Spices,Saffron,0,ASKED ABOUT SEED TREATMENT,GIVEN INFORMATION AS PER THE DATA,2011-07-15T06:36:00,2011,7
+ANDHRA PRADESH,VIZIANAGARM,PUSAPATIREGA,NA,AGRICULTURE,Fiber Crops,Cotton (Kapas),0,cotton fertilizer application,recommanded information has given,2011-07-15T07:04:00,2011,7
+ANDHRA PRADESH,ANANTPUR,URAVAKONDA,NA,HORTICULTURE,Fruits,Citrus,0,asked about chini dis,INFORMATION GIVEN AS PER DATA,2011-07-15T07:32:00,2011,7
+ANDHRA PRADESH,CHITTOOR,PITCHATUR,NA,AGRICULTURE,Others,Others,0,asked about lilly cultivation,INFORMATION GIVEN AS PER DATA,2011-07-15T07:32:00,2011,7
+ANDHRA PRADESH,CHITTOOR,BUCHINADIDU KHANDRIGA,NA,AGRICULTURE,Fiber Crops,Cotton (Kapas),0,asked about cotton seed damage control,recommended thimmet/phorate  10G @4-5 kg/acre,2011-07-15T07:51:00,2011,7
+ANDHRA PRADESH,ANANTPUR,RAPTADU,NA,AGRICULTURE,Cereals,1137,Cultural Practices,Sri-vari cultivation process,Given information as per the data,2011-07-16T07:34:00,2011,7
+ANDHRA PRADESH,KRISHNA,NUZVID,NA,HORTICULTURE,Vegetables,2113,76,pests controle,monochrotophos 1.6ml/lt water,2011-07-16T07:34:00,2011,7
+ANDHRA PRADESH,PRAKASAM,MUNDLAMURU,NA,AGRICULTURE,Pulses,Green Gram (Moong Bean/ Moong),0,asked about green gram leaf yellowing disease control,RECOMMENDED TO SPRAY OF DIMENTOATE 2ML/LT,2011-07-17T06:23:00,2011,7
+ANDHRA PRADESH,EAST GODAVARI,0   ,NA,AGRICULTURE,Others,Others,0,govt schemes,recommanded information has given,2011-07-17T07:04:00,2011,7
+ANDHRA PRADESH,NELLORE,DUTTALUR,NA,AGRICULTURE,Fiber Crops,Cotton (Kapas),0,asked about Bt cotton var.,"recommended mahyco var. Kanak, Neeraj, Dr.Brent , Monsanto -Bramha and Mallika from Nuzeveedu seeds pvt lmt.",2011-07-07T07:10:00,2011,7
+ANDHRA PRADESH,WEST GODAVARI,CHAGALLU,NA,AGRICULTURE,Others,Others,0,asked about cocao,INFORMATION GIVEN AS PER DATA,2011-07-07T07:10:00,2011,7
+ANDHRA PRADESH,PRAKASAM,DORNALA,NA,HORTICULTURE,Fruits,Banana,0,ASKED ABOUT banana fruits damage,INFORMATION GIVEN AS PER DATA,2011-07-07T07:10:00,2011,7
+ANDHRA PRADESH,Y S R ,RAJAMPET,NA,HORTICULTURE,Condiments and Spices,Turmeric,0,asked about fertilizers in turmeric,Recommended 10 t FYM+ 200 NSKE+150 Kg SSP+ 25 KgMOP,2011-07-07T07:10:00,2011,7
+ANDHRA PRADESH,VIZIANAGARM,GARIVIDI,NA,HORTICULTURE,Fruits,1268,0,total cultivation information in mango,given information as per  the data,2011-07-07T10:42:00,2011,7
+ANDHRA PRADESH,CHITTOOR,B.KOTHAKOTA,NA,AGRICULTURE,Oilseeds,Groundnut (pea nut/mung phalli),Cultural Practices,Cultivation practices,Given information as per the data,2011-07-07T11:06:00,2011,7
+ANDHRA PRADESH,ANANTPUR,PENUKONDA,NA,HORTICULTURE,Fruits,1325,87,Cultivation practices,Given information as per the data,2011-07-07T11:27:00,2011,7
+ANDHRA PRADESH,EAST GODAVARI,GANDEPALLE,NA,AGRICULTURE,Cereals,1137,0,total cultivation information in rice,given information as per  the data,2011-07-07T11:37:00,2011,7
+ANDHRA PRADESH,WEST GODAVARI,KAMAVARAPUKOTA,NA,AGRICULTURE,Others,Others,0,total cultivation information in honey bee,given information as per  the data,2011-07-07T11:37:00,2011,7
+ANDHRA PRADESH,CHITTOOR,K.V.B.PURAM,NA,AGRICULTURE,Oilseeds,Groundnut (pea nut/mung phalli),5,vareities of  gronudnut,"Kadhiri-4,5,6",2011-07-07T11:51:00,2011,7
+ANDHRA PRADESH,CHITTOOR,GANGADHARA NELLORE,NA,AGRICULTURE,Oilseeds,Groundnut (pea nut/mung phalli),0,seed treatment in groundnut,1kg seed mixed with 3gr  of mankojeb,2011-07-07T11:51:00,2011,7
+ANDHRA PRADESH,EAST GODAVARI,ATREYAPURAM,NA,AGRICULTURE,Others,Others,0,weather information,recommanded information has given,2011-07-14T01:00:00,2011,7
+ANDHRA PRADESH,ANANTPUR,VAJRAKARUR,NA,AGRICULTURE,Oilseeds,"Castor (Rehri, Rendi, Arandi) ",0,castor	seedling blight,NA,2011-07-14T01:14:00,2011,7
+ANDHRA PRADESH,KRISHNA,G.KONDURU,NA,AGRICULTURE,Pulses,Pigeon pea (red gram/arhar/tur),0,red gram,vaerital information,2011-07-14T01:14:00,2011,7
+ANDHRA PRADESH,ANANTPUR,KUNDURPI,NA,HORTICULTURE,Condiments and Spices,Turmeric,0,asked about weedicide in turmeric,recommended atrazine,2011-07-03T08:52:00,2011,7
+ANDHRA PRADESH,KURNOOL,YEMMIGANUR,NA,AGRICULTURE,Fiber Crops,Cotton (Kapas),0,aksed about sucking pests control in cotton,recommended imidachloprid 0.4 ml / monochrotophos 1.6ml per lit,2011-07-07T06:39:00,2011,7
+ANDHRA PRADESH,CHITTOOR,KALAKADA,NA,HORTICULTURE,Vegetables,Tomato,0,asked about fertilizers in tomato,recommended urea and potash as per given data,2011-07-07T06:39:00,2011,7
+ANDHRA PRADESH,GUNTUR,GUNTUR,NA,AGRICULTURE,Cereals,1075,0,asked about intercultivation in maize,INFORMATION GIVEN AS PER DATA,2011-07-07T06:39:00,2011,7
+ANDHRA PRADESH,Y S R ,CHINTAKOMMA DINNE,NA,HORTICULTURE,Fruits,Banana,0,ASKED ABOUT banana fruits damage,INFORMATION GIVEN AS PER DATA,2011-07-07T06:39:00,2011,7
+ANDHRA PRADESH,ANANTPUR,PUTTAPARTHI,NA,HORTICULTURE,Fruits,Citrus,0,asked about chini market rate,INFORMATION GIVEN AS PER DATA,2011-07-07T06:39:00,2011,7
+ANDHRA PRADESH,ANANTPUR,PARIGI,NA,AGRICULTURE,Oilseeds,"Castor (Rehri, Rendi, Arandi) ",0,castor	fertilizer application,recommanded information has given,2011-07-12T11:08:00,2011,7
+ANDHRA PRADESH,Y S R ,OBULAVARIPALLE,NA,HORTICULTURE,Fruits,Citrus,0,citrus	flower drop,spraying of planofix 2.5 ml per 10 lit of water,2011-07-12T11:08:00,2011,7
+ANDHRA PRADESH,PRAKASAM,BESTAVARIPETA,NA,HORTICULTURE,Fruits,Citrus,0,chini nimma	micronutrient defecient,recommanded information has given,2011-07-13T01:32:00,2011,7
+ANDHRA PRADESH,ANANTPUR,GARLADINNE,NA,HORTICULTURE,Condiments and Spices,Turmeric,0,turmaric	weed control,spraying of pendimithalin 1.5 lit in 200 lit of water,2011-07-13T01:32:00,2011,7
+ANDHRA PRADESH,KRISHNA,BANTUMILLI,NA,AGRICULTURE,Cereals,1137,0,asked about weedicide in rice,recommended Butachlor 1.5 lt/acre,2011-07-16T01:45:00,2011,7
+ANDHRA PRADESH,Y S R ,KAMALAPURAM,NA,AGRICULTURE,Cereals,1137,0,rice	seed treatment,treatment with carbendazin 1.0 g per one kg of water,2011-07-16T07:04:00,2011,7
+ANDHRA PRADESH,WEST GODAVARI,BHIMADOLE,NA,AGRICULTURE,Others,Others,0,Asked about rain fall,INFORMATION GIVEN AS PER DATA,2011-07-12T08:37:00,2011,7
+ANDHRA PRADESH,GUNTUR,CHEBROLE,NA,AGRICULTURE,Others,Others,0,asked about merigold total cultivation practices,INFORMATION GIVEN AS PER DATA,2011-07-12T09:05:00,2011,7
+ANDHRA PRADESH,Y S R ,PULIVENDLA,NA,HORTICULTURE,Fruits,Banana,0,asked about banana leaf spot symptoms control dis,recommended mancozeb 2.5g / lt,2011-07-30T05:41:00,2011,7
+ANDHRA PRADESH,ANANTPUR,BRAHMASAMUDRAM,NA,HORTICULTURE,Fruits,Citrus,0,asked about fertilizers in chini,INFORMATION GIVEN AS PER DATA,2011-07-30T05:41:00,2011,7
+ANDHRA PRADESH,PRAKASAM,GUDLURU,NA,AGRICULTURE,Pulses,1066,0,vareities of  redgram,"l.r.g-30,38,41,laxmi",2011-07-07T11:51:00,2011,7
+ANDHRA PRADESH,CHITTOOR,PUTTUR,NA,AGRICULTURE,Oilseeds,Groundnut (pea nut/mung phalli),0,ground nut	wilt disease,spraying of coc 3%,2011-07-23T03:36:00,2011,7
+ANDHRA PRADESH,CHITTOOR,PULICHERLA H/O REDDIVARIPALLE,NA,HORTICULTURE,Vegetables,Tomato,99,flower drop,planofix  1ml/4.5 lt water,2011-07-23T04:07:00,2011,7
+ANDHRA PRADESH,ANANTPUR,KUDAIR,NA,HORTICULTURE,Fruits,Citrus,87,cultivation process,given infi\ormatin as [per the data,2011-07-26T07:59:00,2011,7
+ANDHRA PRADESH,GUNTUR,KROSURU,NA,HORTICULTURE,Vegetables,Chillies,0,asked about  chilli nursery bed preperation,INFORMATION GIVEN AS PER DATA,2011-07-26T08:48:00,2011,7
+ANDHRA PRADESH,PRAKASAM,LINGASAMUDRAM,NA,AGRICULTURE,Fiber Crops,Cotton (Kapas),0,asked about flower drop in cotton,recommended NAA  10PPM,2011-07-27T02:10:00,2011,7
+ANDHRA PRADESH,ANANTPUR,TADIMARRI,NA,AGRICULTURE,Oilseeds,Groundnut (pea nut/mung phalli),0,asked about groundnut helicoverpa damage,recommended Quinolphos 2ml/lt,2011-07-23T07:29:00,2011,7
+ANDHRA PRADESH,GUNTUR,TENALI,NA,AGRICULTURE,Cereals,1137,0,asked about root rot in rice,INFORMATION GIVEN AS PER DATA,2011-07-23T07:29:00,2011,7
+ANDHRA PRADESH,ANANTPUR,TADIMARRI,NA,AGRICULTURE,Others,Others,0,Asked about rain fall,INFORMATION GIVEN AS PER DATA,2011-07-23T07:29:00,2011,7
+ANDHRA PRADESH,VIZIANAGARM,PACHIPENTA,NA,HORTICULTURE,Vegetables,Chillies,0,asked about flower drop in chilli,NA,2011-07-24T01:22:00,2011,7
+ANDHRA PRADESH,VIZIANAGARM,PACHIPENTA,NA,AGRICULTURE,Fiber Crops,Cotton (Kapas),0,asked about flower drop in cotton,recommended NAA  10PPM,2011-07-24T01:26:00,2011,7
+ANDHRA PRADESH,WEST GODAVARI,PEDAPADU,NA,825,Avian,1266,0,poultry	rearing,NA,2011-07-24T03:32:00,2011,7
+ANDHRA PRADESH,KRISHNA,A.KONDURU,NA,HORTICULTURE,Vegetables,1280,0,chyilli	weedcontrol,recommanded information has given,2011-07-24T03:32:00,2011,7
+ANDHRA PRADESH,KRISHNA,GAMPALAGUDEM,NA,AGRICULTURE,Fiber Crops,Cotton (Kapas),0,green leaf hopper dmage,spraying of imidachlorpid 0.5 ml per one lit of water,2011-07-24T03:32:00,2011,7
+ANDHRA PRADESH,ANANTPUR,KOTHACHERUVU,NA,HORTICULTURE,Fruits,Banana,0,banana	asked about fertilizer application,"application of 110 g urea, 80 g potash per plant",2011-07-24T05:52:00,2011,7
+ANDHRA PRADESH,ANANTPUR,BELUGUPPA,NA,AGRICULTURE,Oilseeds,Groundnut (pea nut/mung phalli),0,groundnut	aphids damage,spraying of imidachloprid 1.0 ml per one lit of water,2011-07-28T08:08:00,2011,7
+ANDHRA PRADESH,KURNOOL,GADIVEMULA,NA,AGRICULTURE,Pulses,Black Gram (urd bean),0,pulse crops	date of sowing,recommanded information has given,2011-07-28T09:25:00,2011,7
+ANDHRA PRADESH,CHITTOOR,YADAMARI,NA,AGRICULTURE,Cereals,1137,0,asked about rice blast control,recommended tricyclozole 0.6 g/lt,2011-07-31T08:35:00,2011,7
+ANDHRA PRADESH,PRAKASAM,GUDLURU,NA,AGRICULTURE,Fiber Crops,Cotton (Kapas),0,asked about sucking pests control in cotton,recommended imidachloprid 0.4 ml / monochrotophos 1.6ml per lit,2011-07-01T10:58:00,2011,7
+ANDHRA PRADESH,CHITTOOR,MADANAPALLE,NA,AGRICULTURE,Others,Others,0,asked about subsidies of RKVY,iNFORMATION GIVEN AS PER DATA,2011-07-01T11:56:00,2011,7
+ANDHRA PRADESH,EAST GODAVARI,PEDDAPURAM,NA,AGRICULTURE,Others,Others,0,asked about growing of vegetables on terrace,INFORMATION GIVEN AS PER DATA,2011-07-02T01:32:00,2011,7
+ANDHRA PRADESH,ANANTPUR,ATMAKUR,NA,AGRICULTURE,Oilseeds,Groundnut (pea nut/mung phalli),0,asked about helicoverpa damage in ground nut`,recommended quinolphos 2ml.lt,2011-07-02T02:00:00,2011,7
+ANDHRA PRADESH,ANANTPUR,KALYANDRUG,NA,AGRICULTURE,Oilseeds,"Castor (Rehri, Rendi, Arandi) ",0,asked about castor sowing time,INFORMATION GIVEN AS PER DATA,2011-07-08T09:05:00,2011,7
+ANDHRA PRADESH,ANANTPUR,ATMAKUR,NA,AGRICULTURE,Oilseeds,Groundnut (pea nut/mung phalli),3,sucking pests controle,Dimethoate 2 ml/lt water,2011-07-08T09:52:00,2011,7
+ANDHRA PRADESH,KURNOOL,ASPARI,NA,AGRICULTURE,Fiber Crops,Cotton (Kapas),Cultural Practices,Cultivation practices,Given information as per the data,2011-07-08T11:06:00,2011,7
+ANDHRA PRADESH,ANANTPUR,BELUGUPPA,NA,HORTICULTURE,Fruits,1324,75,viruses,Given information as per the data,2011-07-08T11:06:00,2011,7
+ANDHRA PRADESH,CHITTOOR,GURRAMKONDA,NA,HORTICULTURE,Flowers,Lilliums,0,total cultivation information in lilliums flower,given information as per  the data,2011-07-08T11:51:00,2011,7
+ANDHRA PRADESH,CHITTOOR,GURRAMKONDA,NA,AGRICULTURE,Sugar and Starch Crops,Sunnhemp (Patua),Cultural Practices,total cultivation information in sugarcane,given information as per  the data,2011-07-08T11:51:00,2011,7
+ANDHRA PRADESH,PRAKASAM,PONNALURU,NA,AGRICULTURE,Cereals,1075,0,asked about maize sowing time of maize,recommended june to july 2nd week,2011-07-11T05:57:00,2011,7
+ANDHRA PRADESH,ANANTPUR,NARPALA,NA,HORTICULTURE,Fruits,Citrus,0,asked about flower drop in chini,"Recommended 2,4-D 1G/100LT",2011-07-06T08:30:00,2011,7
+ANDHRA PRADESH,WEST GODAVARI,PEDAVEGI,NA,AGRICULTURE,Oilseeds,Groundnut (pea nut/mung phalli),0,asked about ground nut helicoverpa damage,recommended Quinolphos 2ml/lt,2011-07-06T08:30:00,2011,7
+ANDHRA PRADESH,ANANTPUR,NAMBULAPULIKUNTA,NA,AGRICULTURE,Cereals,1137,0,asked about rice var.,"recommended BPT 5204 ,MTU 1010",2011-07-06T10:36:00,2011,7
+ANDHRA PRADESH,9999,0   ,NA,HORTICULTURE,Vegetables,1280,95,weedicide in chilli,recommended pendimethalin 1.4 lt /acre,2011-07-06T10:48:00,2011,7
+ANDHRA PRADESH,VIZIANAGARM,SALUR,NA,AGRICULTURE,Fiber Crops,Cotton (Kapas),0,asked about cotton sucking pests conjtrol,recommended imidachloprid 0.4 ml / monochrotophos 1.6ml per lit,2011-07-18T04:58:00,2011,7
+ANDHRA PRADESH,KURNOOL,NANDIKOTKUR,NA,HORTICULTURE,Fruits,Sapota,0,asked about fertilizers in sapota,INFORMATION GIVEN AS PER DATA,2011-07-18T05:10:00,2011,7
+ANDHRA PRADESH,PRAKASAM,DARSI,NA,HORTICULTURE,Fruits,Banana,0,asked about banana var.,"pedda arati, thella chakkarkeli etc.,",2011-07-21T06:30:00,2011,7
+ANDHRA PRADESH,KURNOOL,ASPARI,NA,AGRICULTURE,Fiber Crops,Cotton (Kapas),0,asked about cotton sowing dates,INFORMATION GIVEN AS PER DATA,2011-07-21T06:30:00,2011,7
+ANDHRA PRADESH,VIZIANAGARM,PARVATHIPURAM,NA,AGRICULTURE,Others,Others,0,asked about fodder grass oils,INFORMATION GIVEN AS PER DATA,2011-07-21T06:30:00,2011,7
+ANDHRA PRADESH,VISAKHAPATNAM,0   ,NA,AGRICULTURE,Cereals,1137,0,asked about sree vari cultivation,INFORMATION GIVEN AS PER DATA,2011-07-21T06:54:00,2011,7
+ANDHRA PRADESH,VIZIANAGARM,SALUR,NA,AGRICULTURE,Others,Others,0,vermicompost unit,recommanded information has given,2011-07-21T11:17:00,2011,7
+ANDHRA PRADESH,ANANTPUR,NAMBULAPULIKUNTA,NA,HORTICULTURE,Vegetables,1279,0,asked about brinjal fruit and shoot borer damage,NA,2011-07-08T06:59:00,2011,7
+ANDHRA PRADESH,CHITTOOR,YERPEDU,NA,AGRICULTURE,Oilseeds,Groundnut (pea nut/mung phalli),0,asked about ground nut fertilizers,INFORMATION GIVEN AS PER DATA,2011-07-08T06:59:00,2011,7
+ANDHRA PRADESH,KURNOOL,C.BELAGAL,NA,AGRICULTURE,Fiber Crops,Cotton (Kapas),0,asked about flower drop in cotton,recommended NAA  10PPM,2011-07-08T07:22:00,2011,7
+ANDHRA PRADESH,Y S R ,RAJAMPET,NA,HORTICULTURE,Fruits,Banana,0,ASKED ABOUT banana fruits damage,INFORMATION GIVEN AS PER DATA,2011-07-08T07:22:00,2011,7
+ANDHRA PRADESH,KRISHNA,UNGUTURU,NA,AGRICULTURE,Others,Others,0,asked about biofertilizers,INFORMATION GIVEN AS PER DATA,2011-07-08T07:51:00,2011,7
+ANDHRA PRADESH,ANANTPUR,PEDDAVADUGUR,NA,AGRICULTURE,Fiber Crops,Cotton (Kapas),5,Vareities,"mallika,kanaka,dr.brent..etc",2011-07-09T02:58:00,2011,7
+ANDHRA PRADESH,ANANTPUR,ROLLA,NA,AGRICULTURE,Oilseeds,Groundnut (pea nut/mung phalli),0,asked about groundnut cultivation,INFORMATION GIVEN AS PER DATA,2011-07-09T03:28:00,2011,7
+ANDHRA PRADESH,WEST GODAVARI,ATTILI,NA,ANIMAL HUSBANDRY,Animal,964,43,dairy management,Given information as per the data,2011-07-09T06:15:00,2011,7
+ANDHRA PRADESH,NELLORE,BALAYAPALLE,NA,AGRICULTURE,Fiber Crops,Cotton (Kapas),0,control of mgso4 in cotton,spraying mgso4 10gr/1 lit water,2011-07-09T09:15:00,2011,7
+ANDHRA PRADESH,PRAKASAM,SANTHAMAGULURU,NA,AGRICULTURE,Others,Others,0,sericulture,recommanded information has given,2011-07-10T05:45:00,2011,7
+ANDHRA PRADESH,VIZIANAGARM,JIYYAMMAVALASA,NA,ANIMAL HUSBANDRY,Animal,Goat,0,ASKED ABOUT DISEASE,TRANSFERRED TO LEVEL-2,2011-07-07T02:35:00,2011,7
+ANDHRA PRADESH,Y S R ,SAMBEPALLE,NA,AGRICULTURE,Oilseeds,Groundnut (pea nut/mung phalli),0,asked abour weedicide in ground nut,Recommended Pendimethalin 1.4 lt /acre,2011-07-10T07:38:00,2011,7
+ANDHRA PRADESH,KRISHNA,A.KONDURU,NA,AGRICULTURE,Cereals,1137,0,asked about rice seed treatment,recommended carbendazim 1g/kg,2011-07-09T10:21:00,2011,7
+ANDHRA PRADESH,ANANTPUR,BATHALAPALLE,NA,AGRICULTURE,Oilseeds,Groundnut (pea nut/mung phalli),0,asked about groundnut helicoverpa damage,recommended Quinolphos 2ml/lt,2011-07-09T10:21:00,2011,7
+ANDHRA PRADESH,CHITTOOR,VIJAYAPURAM,NA,AGRICULTURE,Others,Others,0,asked about raja kandi,INFORMATION GIVEN AS PER DATA,2011-07-09T10:21:00,2011,7
+ANDHRA PRADESH,EAST GODAVARI,KADIAM,NA,FISHERIES,Inland,Others,0,connect  to level-2,given information as per  the data,2011-07-09T11:37:00,2011,7
+ANDHRA PRADESH,EAST GODAVARI,JAGGAMPETA,NA,AGRICULTURE,Cereals,1137,0,asked about seed treatment in rice,recommended carbendazim 1g/kg,2011-07-10T09:40:00,2011,7
+ANDHRA PRADESH,ANANTPUR,RAYADURG,NA,HORTICULTURE,Vegetables,Onion,0,asked about onion root rot disease control,recommended coc 3g/lt,2011-07-10T11:56:00,2011,7
+ANDHRA PRADESH,ANANTPUR,PARIGI,NA,AGRICULTURE,Cereals,1075,0,asked about maize seeds damage control,recommended thimmet/phorate  10G @4-5 kg/acre,2011-07-10T11:56:00,2011,7
+ANDHRA PRADESH,NELLORE,JALADANKI,NA,AGRICULTURE,Pulses,Green Gram (Moong Bean/ Moong),0,control of the sucking pest in green gram,spraying chloropyriphos 2ml/1 lit water,2011-07-11T01:55:00,2011,7
+ANDHRA PRADESH,ANANTPUR,BOMMANAHAL,NA,AGRICULTURE,Oilseeds,Groundnut (pea nut/mung phalli),0,control of leaf folder in groundnut,spraying chlorpyriphos 2ml/1 lit water,2011-07-11T01:55:00,2011,7
+ANDHRA PRADESH,CHITTOOR,GUDIPALA,NA,HORTICULTURE,Vegetables,Tomato,0,control of early blight in tomato,spraying of mankojeb 3gr/1 lit water,2011-07-11T01:55:00,2011,7
+ANDHRA PRADESH,NELLORE,CHILLAKUR,NA,AGRICULTURE,Cereals,1137,0,control brown plant hopper in rice,NA,2011-07-11T01:55:00,2011,7
+ANDHRA PRADESH,NELLORE,BUTCHIREDDIPALEM,NA,HORTICULTURE,Vegetables,Onion,0,control of weed in onion,spraying pendimithalin 1lit/1 acer,2011-07-11T01:55:00,2011,7
+ANDHRA PRADESH,Y S R ,OBULAVARIPALLE,NA,AGRICULTURE,Others,Others,0,Asked about drip irrigation,NA,2011-07-11T07:47:00,2011,7
+ANDHRA PRADESH,CHITTOOR,PEDDAPANJANI,NA,AGRICULTURE,Others,Others,0,asked about groundnut red hairy caterpillar damage control,INFORMATION GIVEN AS PER DATA,2011-07-31T05:52:00,2011,7
+ANDHRA PRADESH,KURNOOL,KOILAKUNTLA,NA,AGRICULTURE,Fiber Crops,Cotton (Kapas),0,asked about cotton sucking pests control,recommended imidachloprid 0.4 ml / monochrotophos 1.6ml per lit,2011-07-31T05:52:00,2011,7
+ANDHRA PRADESH,GUNTUR,SAVALYAPURAM,NA,AGRICULTURE,Fiber Crops,Cotton (Kapas),0,asked about cotton weedicide control,Recommended Pendimethalin 1.4 lt /acre,2011-07-31T06:14:00,2011,7
+ANDHRA PRADESH,WEST GODAVARI,UNGUTURU,NA,HORTICULTURE,Condiments and Spices,Turmeric,0,turmeric	leaf blight,NA,2011-07-11T12:22:00,2011,7
+ANDHRA PRADESH,CHITTOOR,RENIGUNTA,NA,HORTICULTURE,Fruits,1268,0,mango fertilizer application,recommanded information has given,2011-07-12T09:31:00,2011,7
+ANDHRA PRADESH,ANANTPUR,KANAGANAPALLE,NA,AGRICULTURE,Fiber Crops,Cotton (Kapas),0,cotton	flower drop,spraying of planofix 2.5 ml per 10 lit of water,2011-07-12T12:46:00,2011,7
+ANDHRA PRADESH,Y S R ,YERRAGUNTLA,NA,AGRICULTURE,Cereals,1137,0,rice	fertilizer application,recommanded information has given,2011-07-13T08:14:00,2011,7
+ANDHRA PRADESH,KRISHNA,KAIKALUR,NA,AGRICULTURE,Others,Others,0,weather information,recommanded information has given,2011-07-13T10:56:00,2011,7
+ANDHRA PRADESH,KRISHNA,KODURU,NA,AGRICULTURE,Cereals,1137,0,rice	mite damage,spraying of wettable suldhor 3.0 g per one lit of water,2011-07-13T10:56:00,2011,7
+ANDHRA PRADESH,SRIKAKULAM,0   ,NA,AGRICULTURE,Oilseeds,"Castor (Rehri, Rendi, Arandi) ",0,cotton	weed control,spraying of what weed 250 ml in 200 lit of water,2011-07-15T07:04:00,2011,7
+ANDHRA PRADESH,PRAKASAM,KURICHEDU,NA,AGRICULTURE,417,7524,0,chilli	dampingoff,soil trenchng with coc3%,2011-07-15T07:04:00,2011,7
+ANDHRA PRADESH,PRAKASAM,KANIGIRI,NA,AGRICULTURE,Others,Others,0,asked about teak plantation,INFORMATION GIVEN AS PER DATA,2011-07-15T07:32:00,2011,7
+ANDHRA PRADESH,KRISHNA,GHANTASALA,NA,AGRICULTURE,Cereals,1137,0,asked about rice diseases,INFORMATION GIVEN AS PER DATA,2011-07-15T07:32:00,2011,7
+ANDHRA PRADESH,KURNOOL,KOLIMIGUNDLA,NA,AGRICULTURE,Fiber Crops,Cotton (Kapas),0,cotton	fertilizer application,recommanded information has given,2011-07-11T10:03:00,2011,7
+ANDHRA PRADESH,NELLORE,SULLURPETA,NA,AGRICULTURE,Oilseeds,Groundnut (pea nut/mung phalli),0,groundnut	leaf folder damage,spraying of novaluron,2011-07-11T10:03:00,2011,7
+ANDHRA PRADESH,KRISHNA,KAIKALUR,NA,AGRICULTURE,Others,Others,0,weather information,recommanded information has given,2011-07-02T10:17:00,2011,7
+ANDHRA PRADESH,KRISHNA,VIJAYAWADA RURAL,NA,HORTICULTURE,Fruits,Grape,0,asked about grape cultivation,INFORMATION GIVEN AS PER DATA,2011-07-01T10:48:00,2011,7
+ANDHRA PRADESH,EAST GODAVARI,ATREYAPURAM,NA,HORTICULTURE,Fruits,Banana,0,asked about weedicide in banana,recommended butachlor 1.5 lt/acre,2011-07-01T10:48:00,2011,7
+ANDHRA PRADESH,CHITTOOR,PUTHALAPATTU,NA,AGRICULTURE,Others,Others,0,asked about rain fall,INFORMATION GIVEN AS PER DATA,2011-07-02T01:32:00,2011,7
+ANDHRA PRADESH,Y S R ,PENDLIMARRI,NA,AGRICULTURE,Fiber Crops,Cotton (Kapas),0,asked about sucking pests control in cotton,recommended imidachloprid 0.4 ml / monochrotophos 1.6ml per lit,2011-07-02T01:32:00,2011,7
+ANDHRA PRADESH,KRISHNA,UNGUTURU,NA,AGRICULTURE,Others,Others,0,asked about  ssp fertilizer application,NA,2011-07-02T01:32:00,2011,7
+ANDHRA PRADESH,WEST GODAVARI,PEDAVEGI,NA,HORTICULTURE,Vegetables,1279,0,asked about brinjal weedicide,INFORMATION GIVEN AS PER DATA,2011-07-02T01:32:00,2011,7
+ANDHRA PRADESH,Y S R ,CHENNUR,NA,HORTICULTURE,Fruits,Citrus,0,asked about leaf curling in chini,recommended dimethoate 2ml/lt/monocrotophos 1.6ml,2011-07-02T02:13:00,2011,7
+ANDHRA PRADESH,KRISHNA,PAMARRU,NA,AGRICULTURE,Cereals,1075,0,asked about maize stem borer control,INFORMATION GIVEN AS PER DATA,2011-07-05T04:15:00,2011,7
+ANDHRA PRADESH,CHITTOOR,VEDURUKUPPAM,NA,HORTICULTURE,Fruits,Guava,0,asked about psidium guava damage,INFORMATION GIVEN AS PER DATA,2011-07-03T08:52:00,2011,7
+ANDHRA PRADESH,KURNOOL,MIDTHUR,NA,AGRICULTURE,Oilseeds,"Castor (Rehri, Rendi, Arandi) ",0,asked about castor hybrids,"RECOMMENDED GCH-4,DCH-177",2011-07-03T08:52:00,2011,7
+ANDHRA PRADESH,ANANTPUR,CHENNEKOTHAPALLE,NA,AGRICULTURE,Oilseeds,Groundnut (pea nut/mung phalli),0,asked about helocoverpa damage in ground nut,recommended quinolphos 2ml.lt,2011-07-03T10:06:00,2011,7
+ANDHRA PRADESH,KRISHNA,VEERULLAPADU,NA,HORTICULTURE,Flowers,Lilliums,0,asked about lilly cultivation,INFORMATION GIVEN AS PER DATA,2011-07-03T10:06:00,2011,7
+ANDHRA PRADESH,ANANTPUR,GUMMAGATTA,NA,HORTICULTURE,Vegetables,Onion,0,asked about sucking pests control in onion,INFORMATION GIVEN AS PER DATA,2011-07-06T08:51:00,2011,7
+ANDHRA PRADESH,Y S R ,PULIVENDLA,NA,AGRICULTURE,Oilseeds,Groundnut (pea nut/mung phalli),0,asked about ground nut leaf damage,recommended mancozeb,2011-07-06T08:56:00,2011,7
+ANDHRA PRADESH,KRISHNA,GAMPALAGUDEM,NA,AGRICULTURE,Fiber Crops,Cotton (Kapas),0,asked about fertilizers in cotton,INFORMATION GIVEN AS PER DATA,2011-07-06T08:56:00,2011,7
+ANDHRA PRADESH,KURNOOL,DEVANAKONDA,NA,AGRICULTURE,Fiber Crops,Cotton (Kapas),0,asked about sucking pests control in cotton,recommended imidachloprid 0.4 ml / monochrotophos 1.6ml per lit,2011-07-06T09:08:00,2011,7
+ANDHRA PRADESH,KRISHNA,KODURU,NA,AGRICULTURE,Cereals,1137,0,asked about rice var.,"recommended BPT 5204 ,MTU 1010",2011-07-06T10:36:00,2011,7
+ANDHRA PRADESH,KRISHNA,VISSANNAPET,NA,AGRICULTURE,Fiber Crops,Cotton (Kapas),0,vareities of  cotton,"mahiko,mallika,tusasi",2011-07-07T10:42:00,2011,7
+ANDHRA PRADESH,EAST GODAVARI,AMALAPURAM,NA,HORTICULTURE,Vegetables,1282,0,control of roo rot in bhendi,spraying capperoxy chloraide 3gr/1 lit water,2011-07-07T11:37:00,2011,7
+ANDHRA PRADESH,ANANTPUR,ATMAKUR,NA,AGRICULTURE,Oilseeds,Groundnut (pea nut/mung phalli),5,vareities of  gronudnut,"Kadhiri-4,5,6",2011-07-07T11:51:00,2011,7
+ANDHRA PRADESH,CHITTOOR,VADAMALAPETA,NA,HORTICULTURE,Fruits,Coconut,99,flower drop,planofix 2.5ml/10 lt water,2011-07-08T01:30:00,2011,7
+ANDHRA PRADESH,CHITTOOR,RAMAKUPPAM,NA,AGRICULTURE,Others,Others,0,asked about yellowing leaves in meri gold,INFORMATION GIVEN AS PER DATA,2011-07-11T03:50:00,2011,7
+ANDHRA PRADESH,ANANTPUR,GANDLAPENTA,NA,AGRICULTURE,Others,Others,Weather,weather report,given information as per  the data,2011-07-09T09:15:00,2011,7
+ANDHRA PRADESH,ANANTPUR,GARLADINNE,NA,AGRICULTURE,Others,Others,22,control of weed in field,spraying of pendimithalin 1lit/1 acer,2011-07-09T09:15:00,2011,7
+ANDHRA PRADESH,PRAKASAM,CHINAGANJAM,NA,AGRICULTURE,Others,Others,Weather,weather report,given information as per  the data,2011-07-09T09:15:00,2011,7
+ANDHRA PRADESH,Y S R ,MUDDANUR,NA,AGRICULTURE,Pulses,Pigeon pea (red gram/arhar/tur),0,asked about redgram market rate,INFORMATION GIVEN AS PER DATA,2011-07-09T10:21:00,2011,7
+ANDHRA PRADESH,Y S R ,GOPAVARAM,NA,HORTICULTURE,Vegetables,1280,0,vareities of  chilli,l.c.a-353,2011-07-09T11:37:00,2011,7
+ANDHRA PRADESH,ANANTPUR,KOTHACHERUVU,NA,HORTICULTURE,Fruits,Citrus,0,asked about chini market rate,INFORMATION GIVEN AS PER DATA,2011-07-07T06:39:00,2011,7
+ANDHRA PRADESH,ANANTPUR,GUNTAKAL,NA,AGRICULTURE,Oilseeds,Groundnut (pea nut/mung phalli),0,asked about ground nut weedicide,Recommended Pendimethalin 1.4 lt /acre,2011-07-07T06:39:00,2011,7
+ANDHRA PRADESH,EAST GODAVARI,KOTANANDURU,NA,AGRICULTURE,Others,Others,0,asked about biosphere reserve,INFORMATION GIVEN AS PER DATA,2011-07-07T07:10:00,2011,7
+ANDHRA PRADESH,PRAKASAM,KONAKANAMITTLA,NA,AGRICULTURE,Cereals,1137,0,fertilizer application,recommanded information has given,2011-07-10T05:45:00,2011,7
+ANDHRA PRADESH,KURNOOL,DORNIPADU,NA,AGRICULTURE,Fiber Crops,Cotton (Kapas),0,aphids damage,recommanded information has given,2011-07-10T05:45:00,2011,7
+ANDHRA PRADESH,WEST GODAVARI,PEDAVEGI,NA,AGRICULTURE,Others,Others,0,asked about papaya cultivation,INFORMATION GIVEN AS PER DATA,2011-07-10T06:29:00,2011,7
+ANDHRA PRADESH,WEST GODAVARI,CHAGALLU,NA,AGRICULTURE,Others,Others,0,asked about weedicide  glyphosate,INFORMATION GIVEN AS PER DATA,2011-07-10T07:38:00,2011,7
+ANDHRA PRADESH,CHITTOOR,PAKALA,NA,ANIMAL HUSBANDRY,Animal,964,0,ASKED ABOUT A &H,NA,2011-07-10T07:38:00,2011,7
+ANDHRA PRADESH,ANANTPUR,GUNTAKAL,NA,AGRICULTURE,Others,Others,0,asked about sucking pests control in coriander,NA,2011-07-10T08:26:00,2011,7
+ANDHRA PRADESH,KRISHNA,GHANTASALA,NA,AGRICULTURE,Cereals,1137,0,asked about weedicide in rice,recommended Butachlor 1.5 lt/acre,2011-07-09T03:28:00,2011,7
+ANDHRA PRADESH,KURNOOL,KURNOOL,NA,AGRICULTURE,Fiber Crops,Cotton (Kapas),0,asked about Bt cotton var.,"recommended mahyco var. Kanak, Neeraj, Dr.Brent , Monsanto -Bramha and Mallika from Nuzeveedu seeds pvt lmt.",2011-07-09T03:28:00,2011,7
+ANDHRA PRADESH,KRISHNA,VEERULLAPADU,NA,AGRICULTURE,Fiber Crops,Cotton (Kapas),0,asked about cotton seed damage control,recommended thimmet/phorate  10G @4-5 kg/acre,2011-07-09T03:51:00,2011,7
+ANDHRA PRADESH,KURNOOL,VELUGODU,NA,AGRICULTURE,Others,Others,0,asked about fodder crops,INFORMATION GIVEN AS PER DATA,2011-07-09T03:51:00,2011,7
+ANDHRA PRADESH,Y S R ,KALASAPADU,NA,AGRICULTURE,Oilseeds,"Castor (Rehri, Rendi, Arandi) ",1,sowing season of  cotton,June-july,2011-07-09T06:50:00,2011,7
+ANDHRA PRADESH,KRISHNA,JAGGAYYAPETA,NA,HORTICULTURE,Condiments and Spices,Turmeric,91,seed treatment in turmeric,1 kg seed mixed with 3gr mankojeb,2011-07-09T06:50:00,2011,7
+ANDHRA PRADESH,GUNTUR,KAKUMANU,NA,HORTICULTURE,Vegetables,1280,76,control of thrips in chilli,spraying karbalril 3gr/1 lit water,2011-07-09T06:50:00,2011,7
+ANDHRA PRADESH,GUNTUR,KAREMPUDI,NA,HORTICULTURE,Vegetables,1280,0,ASKED ABOUT VARITES,"SOW G-2,3,4",2011-07-08T06:45:00,2011,7
+ANDHRA PRADESH,ANANTPUR,RAPTADU,NA,AGRICULTURE,Oilseeds,Groundnut (pea nut/mung phalli),0,asked about ground nut helicoverpa damage,recommended Quinolphos 2ml/lt,2011-07-08T06:59:00,2011,7
+ANDHRA PRADESH,GUNTUR,NADENDLA,NA,HORTICULTURE,Vegetables,Cabbage,0,asked about cabbage cultivation practicies,INFORMATION GIVEN AS PER DATA,2011-07-08T06:59:00,2011,7
+ANDHRA PRADESH,KRISHNA,VEERULLAPADU,NA,AGRICULTURE,Fiber Crops,Cotton (Kapas),0,asked about cotton seed damage control,recommended thimmet/phorate  10G @4-5 kg/acre,2011-07-08T07:22:00,2011,7
+ANDHRA PRADESH,CHITTOOR,VIJAYAPURAM,NA,AGRICULTURE,Others,Others,0,asked about shade net,INFORMATION GIVEN AS PER DATA,2011-07-08T07:22:00,2011,7
+ANDHRA PRADESH,CHITTOOR,SRIKALAHASTI,NA,AGRICULTURE,Oilseeds,Groundnut (pea nut/mung phalli),0,asked about groundnut helicoverpa damage,recommended chloripyriphos 2.5 ml/lt,2011-07-08T09:05:00,2011,7
+ANDHRA PRADESH,ANANTPUR,KAMBADUR,NA,AGRICULTURE,Oilseeds,Groundnut (pea nut/mung phalli),0,asked about weedicide in groundnut,INFORMATION GIVEN AS PER DATA,2011-07-30T06:20:00,2011,7
+ANDHRA PRADESH,ANANTPUR,PEDDAVADUGUR,NA,AGRICULTURE,Fiber Crops,Cotton (Kapas),0,asked about Bt cotton var.,"Recommended Mahyco var. Kanak, Neeraj, Dr.Brent , Monsanto -Bramha and Mallika from Nuzeveedu seeds pvt lmt.",2011-07-30T06:29:00,2011,7
+ANDHRA PRADESH,PRAKASAM,PODILI,NA,HORTICULTURE,Condiments and Spices,Turmeric,0,asked about fertilizers in turmeric at 40 days stage,Recommended 200 kg neem powder +50 kg urea per acre,2011-07-31T07:48:00,2011,7
+ANDHRA PRADESH,PRAKASAM,YERRAGONDAPALEM,NA,AGRICULTURE,Others,Others,0,asked about eucalyptus,INFORMATION GIVEN AS PER DATA,2011-07-31T07:48:00,2011,7
+ANDHRA PRADESH,EAST GODAVARI,ALLAVARAM,NA,AGRICULTURE,Fiber Crops,Cotton (Kapas),0,asked about cotton root rot control,recommended coc 3g/lt,2011-07-31T08:35:00,2011,7
+ANDHRA PRADESH,GUNTUR,IPUR,NA,HORTICULTURE,Vegetables,Chillies,0,asked about seed treatment in chilli,recommended 150g trisodium orthophosphate +8g confidor +3g mancozeb/capton,2011-07-15T03:54:00,2011,7
+ANDHRA PRADESH,KURNOOL,DEVANAKONDA,NA,AGRICULTURE,Pulses,Green Gram (Moong Bean/ Moong),0,asked about redgram sowing dates and fertilizer application,INFORMATION GIVEN AS PER DATA,2011-07-21T03:19:00,2011,7
+ANDHRA PRADESH,KURNOOL,KOWTHALAM,NA,AGRICULTURE,Cereals,1137,0,asked about zinc application in rice,recommended ZINC SULPHATE 2G/LT,2011-07-21T06:30:00,2011,7
+ANDHRA PRADESH,Y S R ,OBULAVARIPALLE,NA,HORTICULTURE,Fruits,1324,0,asked about papaya plants subsidy,INFORMATION GIVEN AS PER DATA,2011-07-21T06:30:00,2011,7
+ANDHRA PRADESH,KURNOOL,ADONI,NA,AGRICULTURE,Fiber Crops,Cotton (Kapas),0,asked about sucking pests control in cotton,recommended imidachloprid 0.4 ml / monochrotophos 1.6ml per lit,2011-07-21T06:30:00,2011,7
+ANDHRA PRADESH,GUNTUR,TENALI,NA,AGRICULTURE,Cereals,1137,0,rice	black spot,NA,2011-07-22T04:04:00,2011,7
+ANDHRA PRADESH,CHITTOOR,YADAMARI,NA,AGRICULTURE,Others,Others,0,asked about panasa plants,INFORMATION GIVEN AS PER DATA,2011-07-25T06:49:00,2011,7
+ANDHRA PRADESH,KURNOOL,CHIPPAGIRI,NA,HORTICULTURE,Condiments and Spices,Saffron,75,rhizome ror controle,Mancozeb 3 gr/lt water,2011-07-25T10:00:00,2011,7
+ANDHRA PRADESH,KURNOOL,KOSIGI,NA,AGRICULTURE,Others,Others,0,asked about horticultural crops information,INFORMATION GIVEN AS PER DATA,2011-07-23T07:50:00,2011,7
+ANDHRA PRADESH,CHITTOOR,KALAKADA,NA,AGRICULTURE,Others,Others,0,asked about mango plants availability,INFORMATION GIVEN AS PER DATA,2011-07-23T07:54:00,2011,7
+ANDHRA PRADESH,PRAKASAM,DARSI,NA,AGRICULTURE,Cereals,1137,0,asked about seed treatment in rice,recommended carbendazim 1g/kg,2011-07-23T08:13:00,2011,7
+ANDHRA PRADESH,CHITTOOR,CHOWDEPALLE,NA,AGRICULTURE,Fiber Crops,Cotton (Kapas),0,cotton	whitefly damage,spraying of hostothion 1.5 ml per one lit of water,2011-07-23T08:56:00,2011,7
+ANDHRA PRADESH,KRISHNA,AGIRIPALLI,NA,AGRICULTURE,Cereals,1137,0,asked about rice yield measures,INFORMATION GIVEN AS PER DATA,2011-07-23T09:14:00,2011,7
+ANDHRA PRADESH,ANANTPUR,BUKKARAYASAMUDRAM,NA,HORTICULTURE,Vegetables,Chillies,0,asked about sucking pests contol in chilli,Recommended dimethoate 2ml/lt,2011-07-24T01:14:00,2011,7
+ANDHRA PRADESH,CHITTOOR,VIJAYAPURAM,NA,HORTICULTURE,Vegetables,2108,0,asked about sucking pests control in tomato,Recommended dimethoate 2ml/lt,2011-07-24T01:14:00,2011,7
+ANDHRA PRADESH,ANANTPUR,ATMAKUR,NA,AGRICULTURE,Others,Others,0,Asked about rain fall,INFORMATION GIVEN AS PER DATA,2011-07-24T01:32:00,2011,7
+ANDHRA PRADESH,KURNOOL,GADIVEMULA,NA,HORTICULTURE,Vegetables,Chillies,0,asked about chilli sowing time,"recommended july, aug in kharif",2011-07-24T01:42:00,2011,7
+ANDHRA PRADESH,KRISHNA,GAMPALAGUDEM,NA,HORTICULTURE,Vegetables,1280,0,chilli	damping off,soil trenching with coc,2011-07-24T03:32:00,2011,7
+ANDHRA PRADESH,CHITTOOR,NARAYANAVANAM,NA,HORTICULTURE,Vegetables,1282,0,bhenedi	virus infection,recommanded information has given,2011-07-24T03:32:00,2011,7
+ANDHRA PRADESH,WEST GODAVARI,JEELUGUMILLI,NA,AGRICULTURE,Cereals,1137,0,rice	fertilizerapplication,recommanded information has given,2011-07-24T03:32:00,2011,7
+ANDHRA PRADESH,WEST GODAVARI,NALLAJERLA,NA,AGRICULTURE,Others,Others,0,asked about carrot sowing time,recommended aug to nov,2011-07-26T08:48:00,2011,7
+ANDHRA PRADESH,WEST GODAVARI,BHIMADOLE,NA,AGRICULTURE,Cereals,1137,0,asked about weedicide in rice,recommended Butachlor 1.5 lt/acre,2011-07-17T12:24:00,2011,7
+ANDHRA PRADESH,KURNOOL,NANDIKOTKUR,NA,AGRICULTURE,Others,Others,0,asked about seed treatment in onion,NA,2011-07-17T12:24:00,2011,7
+ANDHRA PRADESH,GUNTUR,ROMPICHERLA,NA,AGRICULTURE,Others,Others,0,kisan credit card	govt schemes,recommanded information has given,2011-07-21T11:17:00,2011,7
+ANDHRA PRADESH,GUNTUR,IPUR,NA,AGRICULTURE,Cereals,1137,0,asked about fertilizers in rice,INFORMATION GIVEN AS PER DATA,2011-07-20T06:05:00,2011,7
+ANDHRA PRADESH,PRAKASAM,GIDDALURU,NA,AGRICULTURE,Pulses,Green Gram (Moong Bean/ Moong),0,asked about green gram sowing dates,INFORMATION GIVEN AS PER DATA,2011-07-20T06:05:00,2011,7
+ANDHRA PRADESH,EAST GODAVARI,KAJULURU,NA,AGRICULTURE,Others,Others,Fertilizer Use and Availability,fertizers management,NA,2011-07-18T02:34:00,2011,7
+ANDHRA PRADESH,ANANTPUR,NARPALA,NA,HORTICULTURE,Vegetables,1279,0,asked about brinjal fruit and shoot borer damage,recommended profenophos 2ml/lt,2011-07-18T06:59:00,2011,7
+ANDHRA PRADESH,ANANTPUR,VAJRAKARUR,NA,AGRICULTURE,Oilseeds,"Castor (Rehri, Rendi, Arandi) ",0,asked about castor inter cultivation practices,INFORMATION GIVEN AS PER DATA,2011-07-22T10:32:00,2011,7
+ANDHRA PRADESH,KURNOOL,KOLIMIGUNDLA,NA,HORTICULTURE,Vegetables,Onion,0,asked about onion weedicide,Recommended Pendimethalin 1.4 lt /acre,2011-07-22T11:02:00,2011,7
+ANDHRA PRADESH,PRAKASAM,RACHERLA,NA,HORTICULTURE,Fruits,Citrus,0,asked about chini root rot control,recommended coc 3gm/lt,2011-07-22T11:09:00,2011,7
+ANDHRA PRADESH,ANANTPUR,KADIRI,NA,AGRICULTURE,Cereals,1137,0,rice vaerities,recommanded information has given,2011-07-20T01:21:00,2011,7
+ANDHRA PRADESH,NELLORE,GUDUR,NA,AGRICULTURE,Cereals,1137,0,rice	fertiliger application,recommanded information has given,2011-07-20T01:21:00,2011,7
+ANDHRA PRADESH,WEST GODAVARI,IRAGAVARAM,NA,HORTICULTURE,Vegetables,1280,0,chilli	mite damage,NA,2011-07-20T01:21:00,2011,7
+ANDHRA PRADESH,WEST GODAVARI,LINGAPALEM,NA,AGRICULTURE,Oilseeds,Soybean (bhat),0,pamoil	weed control,24d application,2011-07-20T01:21:00,2011,7
+ANDHRA PRADESH,GUNTUR,MANGALAGIRI,NA,AGRICULTURE,Fiber Crops,Cotton (Kapas),6,market value	Given information as per the data,Given information as per the data,2011-07-19T06:24:00,2011,7
+ANDHRA PRADESH,ANANTPUR,GOOTY,NA,HORTICULTURE,Condiments and Spices,Turmeric,0,turmaeric	asked about fertilizer application,recommanded information has given,2011-07-24T07:15:00,2011,7
+ANDHRA PRADESH,GUNTUR,SATTENAPALLE,NA,HORTICULTURE,Fruits,1324,0,VIRUS INFECTION,RECOMMANDSED INFORMATION HAS GIVEN,2011-07-24T08:42:00,2011,7
+ANDHRA PRADESH,CHITTOOR,NARAYANAVANAM,NA,AGRICULTURE,Others,Others,29,soil test procedure,Given information as per the data,2011-07-24T10:28:00,2011,7
+ANDHRA PRADESH,PRAKASAM,PULLALACHERUVU,NA,AGRICULTURE,Cereals,1137,0,fertilizer applicaton,recommanded information has given,2011-07-23T03:36:00,2011,7
+ANDHRA PRADESH,KRISHNA,VIJAYAWADA RURAL,NA,AGRICULTURE,Pulses,Black Gram (urd bean),0,date of sowing,recommnaded information has given,2011-07-23T03:36:00,2011,7
+ANDHRA PRADESH,ANANTPUR,KALYANDRUG,NA,AGRICULTURE,Oilseeds,"Castor (Rehri, Rendi, Arandi) ",0,date of sowing,recommanded information has given,2011-07-23T03:36:00,2011,7
+ANDHRA PRADESH,ANANTPUR,KAMBADUR,NA,AGRICULTURE,Cereals,1075,0,asked about maize cultivation,NA,2011-07-23T07:17:00,2011,7
+ANDHRA PRADESH,CHITTOOR,CHITTOOR,NA,HORTICULTURE,Vegetables,1282,0,bhendi	virus infection,recommanded information has given,2011-07-23T07:23:00,2011,7
+ANDHRA PRADESH,GUNTUR,GURAZALA,NA,AGRICULTURE,Oilseeds,"Castor (Rehri, Rendi, Arandi) ",0,castor	yield details,recommanded information has given,2011-07-23T07:23:00,2011,7
+ANDHRA PRADESH,CHITTOOR,KARVETINAGAR,NA,AGRICULTURE,Others,Others,0,Asked about rain fall,INFORMATION GIVEN AS PER DATA,2011-07-23T07:29:00,2011,7
+ANDHRA PRADESH,ANANTPUR,KANAGANAPALLE,NA,AGRICULTURE,Oilseeds,Groundnut (pea nut/mung phalli),0,asked about ground nut helicoverpa damage,recommended Quinolphos 2ml/lt,2011-07-10T09:40:00,2011,7
+ANDHRA PRADESH,EAST GODAVARI,GOLLAPROLU,NA,HORTICULTURE,Fruits,1268,0,water management in mango,given information as per  the data,2011-07-11T01:55:00,2011,7
+ANDHRA PRADESH,ANANTPUR,PEDDAPAPPUR,NA,AGRICULTURE,Others,Others,0,asked about leaf yellowing leaves in lilly,Recommended dimethoate 2ml/lt,2011-07-11T02:09:00,2011,7
+ANDHRA PRADESH,NELLORE,RAPUR,NA,AGRICULTURE,Oilseeds,Groundnut (pea nut/mung phalli),0,asked about sucking pests control in groundnut,Recommended dimethoate 2ml/lt,2011-07-11T02:09:00,2011,7
+ANDHRA PRADESH,NELLORE,DAGADARTHI,NA,AGRICULTURE,Fiber Crops,Cotton (Kapas),0,asked about suckin pests control in cotton,recommended imidachloprid 0.4 ml / monochrotophos 1.6ml per lit,2011-07-11T05:57:00,2011,7
+ANDHRA PRADESH,NELLORE,VENKATAGIRI,NA,AGRICULTURE,Cereals,1137,0,asked about sri vari cultivation,INFORMATION GIVEN AS PER DATA,2011-07-11T07:40:00,2011,7
+ANDHRA PRADESH,VISAKHAPATNAM,0   ,NA,HORTICULTURE,Vegetables,2108,0,asked about tomato hybrids,Lakshmi 5005,2011-07-10T08:26:00,2011,7
+ANDHRA PRADESH,KURNOOL,GONEGANDLA,NA,HORTICULTURE,Vegetables,2108,0,asked about tomato var.,recommended Lakshmi-5005,2011-07-12T08:37:00,2011,7
+ANDHRA PRADESH,EAST GODAVARI,KAPILESWARAPURAM,NA,AGRICULTURE,Cereals,1137,0,asked about rice var.,"BPT-5204, BPT- 3291",2011-07-12T08:37:00,2011,7
+ANDHRA PRADESH,GUNTUR,MACHERLA,NA,AGRICULTURE,Fiber Crops,Cotton (Kapas),0,weed control,recommanded information has given,2011-07-25T05:01:00,2011,7
+ANDHRA PRADESH,KURNOOL,YEMMIGANUR,NA,AGRICULTURE,Others,Others,0,flodding	fertiliger application,recommanded information has given,2011-07-28T08:08:00,2011,7
+ANDHRA PRADESH,SRIKAKULAM,POLAKI,NA,AGRICULTURE,Oilseeds,Groundnut (pea nut/mung phalli),0,weed control,NA,2011-07-16T07:04:00,2011,7
+ANDHRA PRADESH,SRIKAKULAM,LAVERU,NA,AGRICULTURE,Oilseeds,Groundnut (pea nut/mung phalli),0,fertiliger application,recommanded information has given,2011-07-16T07:04:00,2011,7
+ANDHRA PRADESH,ANANTPUR,GUNTAKAL,NA,AGRICULTURE,Others,Others,Soil Testing,soil test procedure,Given information as per the data,2011-07-16T07:34:00,2011,7
+ANDHRA PRADESH,KRISHNA,BAPULAPADU,NA,AGRICULTURE,Cereals,1137,Fertilizer Use and Availability,fertizers management,Given information as per the data,2011-07-16T07:34:00,2011,7
+ANDHRA PRADESH,KRISHNA,UNGUTURU,NA,AGRICULTURE,Pulses,1037,5,Vareities,"palnadu,palem kandi,warangal kandi,lrg-38,41",2011-07-16T07:34:00,2011,7
+ANDHRA PRADESH,PRAKASAM,MUNDLAMURU,NA,AGRICULTURE,Cereals,1137,0,asked about zinc application in rice,INFORMATION GIVEN AS PER DATA,2011-07-17T06:23:00,2011,7
+ANDHRA PRADESH,WEST GODAVARI,BHIMADOLE,NA,AGRICULTURE,Cereals,1137,0,asked about weedicide in rice,NA,2011-07-17T09:30:00,2011,7
+ANDHRA PRADESH,SRIKAKULAM,RANASTALAM,NA,AGRICULTURE,Cereals,1137,0,midseason drinage,recommanded information has given,2011-07-21T11:17:00,2011,7
+ANDHRA PRADESH,SRIKAKULAM,PONDURU,NA,AGRICULTURE,Cereals,1137,0,ASKED ABOUT ZN EFFECT,SPRAY ZNSO4 2GM/1LIT OF WATER,2011-07-21T12:54:00,2011,7
+ANDHRA PRADESH,PRAKASAM,BALLIKURAVA,NA,HORTICULTURE,Flowers,Rose,0,tagitus	vaerital information,NA,2011-07-22T04:04:00,2011,7
+ANDHRA PRADESH,Y S R ,YERRAGUNTLA,NA,AGRICULTURE,Others,Others,0,asked about rice zinc defiviency,recommended ZINC SULPHATE 2G/LT,2011-07-20T06:05:00,2011,7
+ANDHRA PRADESH,KRISHNA,JAGGAYYAPETA,NA,AGRICULTURE,Others,Others,0,asked about crop damnage refund,INFORMATION GIVEN AS PER DATA,2011-07-20T06:22:00,2011,7
+ANDHRA PRADESH,GUNTUR,MEDIKONDURU,NA,HORTICULTURE,Condiments and Spices,Turmeric,0,asked about turmeric var,NA,2011-07-22T10:32:00,2011,7
+ANDHRA PRADESH,KRISHNA,GAMPALAGUDEM,NA,HORTICULTURE,Vegetables,Chillies,0,asked about chilli diseases,NA,2011-07-22T11:09:00,2011,7
+ANDHRA PRADESH,ANANTPUR,GUDIBANDA,NA,AGRICULTURE,Fiber Crops,Cotton (Kapas),26,flower drop controle,spray NAA 10 ppm,2011-07-19T05:59:00,2011,7
+ANDHRA PRADESH,KURNOOL,YEMMIGANUR,NA,AGRICULTURE,Others,Others,0,asked about vermicompost application in different crops,INFORMATION GIVEN AS PER DATA,2011-07-18T05:10:00,2011,7
+ANDHRA PRADESH,ANANTPUR,KOTHACHERUVU,NA,HORTICULTURE,Fruits,Citrus,0,asked about citrus yellowing disease,INFORMATION GIVEN AS PER DATA,2011-07-01T06:51:00,2011,7
+ANDHRA PRADESH,KURNOOL,NANDIKOTKUR,NA,AGRICULTURE,Oilseeds,"Castor (Rehri, Rendi, Arandi) ",0,asked about castor hybrids,"RECOMMENDED GCH-4,DCH-177",2011-07-01T06:51:00,2011,7
+ANDHRA PRADESH,ANANTPUR,URAVAKONDA,NA,AGRICULTURE,Others,Others,0,asked about medicinal plants,INFORMATION GIVEN AS PER DATA,2011-07-01T10:48:00,2011,7
+ANDHRA PRADESH,KRISHNA,GUDLAVALLERU,NA,AGRICULTURE,Fiber Crops,Cotton (Kapas),0,asked about cotton cultivation,INFORMATION GIVEN AS PER DATA,2011-07-01T10:48:00,2011,7
+ANDHRA PRADESH,KURNOOL,SANJAMALA,NA,HORTICULTURE,Condiments and Spices,Turmeric,0,asked about weedicide in turmeric,recommended atrazine,2011-07-02T01:32:00,2011,7
+ANDHRA PRADESH,EAST GODAVARI,ALAMURU,NA,HORTICULTURE,Vegetables,2114,0,asked about sucking pests control in coccinia,recommended dimethoate 2ml/lt,2011-07-02T01:32:00,2011,7
+ANDHRA PRADESH,CHITTOOR,KUPPAM,NA,HORTICULTURE,Vegetables,2108,0,asked about tomato cultivation,INFORMATION GIVEN AS PER DATA,2011-07-02T01:32:00,2011,7
+ANDHRA PRADESH,CHITTOOR,MADANAPALLE,NA,AGRICULTURE,Others,Others,0,asked about parthenium cotrol,INFORMATION GIVEN AS PER DATA,2011-07-02T02:00:00,2011,7
+ANDHRA PRADESH,VISAKHAPATNAM,0   ,NA,AGRICULTURE,Others,Others,0,asked about loans on government lands,NA,2011-07-02T02:00:00,2011,7
+ANDHRA PRADESH,GUNTUR,DUGGIRALA,NA,HORTICULTURE,Condiments and Spices,Turmeric,Market Information,market value,Given information as per the data,2011-07-08T11:06:00,2011,7
+ANDHRA PRADESH,ANANTPUR,BATHALAPALLE,NA,HORTICULTURE,Fruits,Citrus,Market Information,market information for citrus,given information as per  the data,2011-07-08T11:51:00,2011,7
+ANDHRA PRADESH,VISAKHAPATNAM,0   ,NA,HORTICULTURE,Vegetables,Others,0,fertilizer dosage in oil palm,"n-2600gr,p-3700gr,k-2000gr,MgSO4 500 gr/1 plant",2011-07-08T11:51:00,2011,7
+ANDHRA PRADESH,PRAKASAM,INKOLLU,NA,AGRICULTURE,Pulses,Black Gram (urd bean),0,best varietie in blackgram,"l.b.g-645,648,685,402,709,22,",2011-07-09T01:22:00,2011,7
+ANDHRA PRADESH,EAST GODAVARI,KAJULURU,NA,AGRICULTURE,Others,Others,Soil Testing,soli test information,given information as per  the data,2011-07-09T01:22:00,2011,7
+ANDHRA PRADESH,GUNTUR,KARLAPALEM,NA,AGRICULTURE,Fiber Crops,Cotton (Kapas),0,ASKED ABOUT SEASON,SOW ON JUNE-JULY,2011-07-09T02:11:00,2011,7
+ANDHRA PRADESH,CHITTOOR,PULICHERLA H/O REDDIVARIPALLE,NA,HORTICULTURE,Medicinal and Aromatic Plants,Sagoan,95,ASKED ABOUT SEEDS,CONTACT TO FAREST OFFICER,2011-07-09T02:11:00,2011,7
+ANDHRA PRADESH,ANANTPUR,NARPALA,NA,HORTICULTURE,Condiments and Spices,Turmeric,0,asked about fertilizers in turmeric,Recommended 10 t FYM+ 200 NSKE+150 Kg SSP+ 25 KgMOP,2011-07-09T03:28:00,2011,7
+ANDHRA PRADESH,KURNOOL,TUGGALI,NA,AGRICULTURE,Oilseeds,"Castor (Rehri, Rendi, Arandi) ",0,asked abourt castor seed damage,INFORMATION GIVEN AS PER DATA,2011-07-09T03:28:00,2011,7
+ANDHRA PRADESH,CHITTOOR,VADAMALAPETA,NA,AGRICULTURE,Others,Others,0,asked about flower seeds availability,INFORMATION GIVEN AS PER DATA,2011-07-06T10:36:00,2011,7
+ANDHRA PRADESH,Y S R ,VEMPALLE,NA,AGRICULTURE,Fiber Crops,Cotton (Kapas),0,asked about Bt cotton var.,"recommended mahyco var. Kanak, Neeraj, Dr.Brent , Monsanto -Bramha and Mallika from Nuzeveedu seeds pvt lmt.",2011-07-06T10:36:00,2011,7
+ANDHRA PRADESH,GUNTUR,DACHEPALLE,NA,HORTICULTURE,Vegetables,1280,0,asked about chilli seed treatment,recommended 8g imidachloprid/ 3g capton,2011-07-06T10:48:00,2011,7
+ANDHRA PRADESH,PRAKASAM,KOMAROLU,NA,AGRICULTURE,Fiber Crops,Cotton (Kapas),0,asked about sucking pests control in cotton,recommended imidachloprid 0.4 ml /lt,2011-07-04T03:58:00,2011,7
+ANDHRA PRADESH,PRAKASAM,PULLALACHERUVU,NA,AGRICULTURE,Fiber Crops,Cotton (Kapas),0,asked about drip and sprinkler iggigation in cotton,INFORMATION GIVEN AS PER DATA,2011-07-16T01:45:00,2011,7
+ANDHRA PRADESH,KURNOOL,BETHAMCHERLA,NA,HORTICULTURE,Vegetables,1280,0,chilli	leaf folding,recommanded to spray pipronil and dicophol 2.0 ml perone lit of watter,2011-07-13T10:56:00,2011,7
+ANDHRA PRADESH,ANANTPUR,NALLACHERUVU,NA,HORTICULTURE,Vegetables,2108,0,tomato	virus infection,recommanded information has given,2011-07-14T01:00:00,2011,7
+ANDHRA PRADESH,KRISHNA,IBRAHIMPATNAM,NA,AGRICULTURE,Cereals,1075,0,ASKED ABOUT RABBITS,KEEP BROMODIOLONE,2011-07-07T02:35:00,2011,7
+ANDHRA PRADESH,ANANTPUR,KANEKAL,NA,HORTICULTURE,Vegetables,1280,0,chilli	fertiliger application,recommanded information has given,2011-07-12T09:31:00,2011,7
+ANDHRA PRADESH,KURNOOL,CHAGALAMARRI,NA,HORTICULTURE,Flowers,Rose,0,crosandra	damping off,soil drenching with coc 3%,2011-07-12T10:53:00,2011,7
+ANDHRA PRADESH,WEST GODAVARI,NIDAMARRU,NA,HORTICULTURE,Vegetables,Mushroom,0,mushroom production,recommanded information has given,2011-07-12T11:08:00,2011,7
+ANDHRA PRADESH,CHITTOOR,PUTHALAPATTU,NA,AGRICULTURE,Pulses,Black Gram (urd bean),0,ground nut,date of sowing	june august,2011-07-15T07:04:00,2011,7
+ANDHRA PRADESH,SRIKAKULAM,RAJAM,NA,HORTICULTURE,Flowers,Carnation,0,mite damage,spraying of wettable sulphour 3.0 g per one lit of water,2011-07-15T07:04:00,2011,7
+ANDHRA PRADESH,VISAKHAPATNAM,0   ,NA,AGRICULTURE,Pulses,Green Gram (Moong Bean/ Moong),0,green gram	virus infection,spraying of dimithoate 2.0 ml per one lit of water,2011-07-15T07:04:00,2011,7
+ANDHRA PRADESH,SRIKAKULAM,0   ,NA,HORTICULTURE,Fruits,Bail,0,chini nimma	fruit drop,Planofix 2.5 ml per 10 lit of water,2011-07-15T07:04:00,2011,7
+ANDHRA PRADESH,ANANTPUR,0   ,NA,HORTICULTURE,Vegetables,1282,0,vaerities,recommanded information has given,2011-07-15T07:04:00,2011,7
+ANDHRA PRADESH,KRISHNA,NANDIGAMA,NA,AGRICULTURE,Others,Others,0,asked about different crops growing times,INFORMATION GIVEN AS PER DATA,2011-07-15T07:51:00,2011,7
+ANDHRA PRADESH,CHITTOOR,NINDRA,NA,AGRICULTURE,Oilseeds,Groundnut (pea nut/mung phalli),0,groundnut	leaf folder damage,recommanded information has given,2011-07-11T12:58:00,2011,7
+ANDHRA PRADESH,ANANTPUR,NALLAMADA,NA,AGRICULTURE,Oilseeds,Groundnut (pea nut/mung phalli),0,groundnut root grub damage,recommanded to apply the phorate granules,2011-07-30T02:24:00,2011,7
+ANDHRA PRADESH,NELLORE,JALADANKI,NA,HORTICULTURE,Vegetables,1282,0,virus infection,rouge out the infected plants and spray the dimithoate 2.0 ml per one lit of water,2011-07-30T02:26:00,2011,7
+ANDHRA PRADESH,ANANTPUR,RODDAM,NA,AGRICULTURE,Cereals,1075,0,asked about maize sowing dates,INFORMATION GIVEN AS PER DATA,2011-07-30T06:17:00,2011,7
+ANDHRA PRADESH,ANANTPUR,URAVAKONDA,NA,825,Avian,2825,0,asked about emu rearing,INFORMATION GIVEN AS PER DATA,2011-07-12T04:41:00,2011,7
+ANDHRA PRADESH,EAST GODAVARI,ATREYAPURAM,NA,AGRICULTURE,Others,Others,0,asked about power problems,INFORMATION GIVEN AS PER DATA,2011-07-12T04:41:00,2011,7
+ANDHRA PRADESH,KURNOOL,RUDRAVARAM,NA,AGRICULTURE,Fiber Crops,Cotton (Kapas),0,asked about cotton germination,INFORMATION GIVEN AS PER DATA,2011-07-12T04:41:00,2011,7
+ANDHRA PRADESH,WEST GODAVARI,BHIMADOLE,NA,AGRICULTURE,Others,Others,0,Asked about rain fall,INFORMATION GIVEN AS PER DATA,2011-07-25T08:29:00,2011,7
+ANDHRA PRADESH,VIZIANAGARM,GARIVIDI,NA,AGRICULTURE,Green Manure,Dhaincha,Cultural Practices,greenmanur information,given information as per  the data,2011-07-07T10:42:00,2011,7
+ANDHRA PRADESH,KRISHNA,VISSANNAPET,NA,AGRICULTURE,Cereals,1137,0,total cultivation information in rice,given information as per  the data,2011-07-07T10:42:00,2011,7
+ANDHRA PRADESH,NELLORE,KOTA,NA,AGRICULTURE,Cereals,1075,0,asked about weedicide in maize,recommended atrazine,2011-07-03T02:13:00,2011,7
+ANDHRA PRADESH,PRAKASAM,KORISAPADU,NA,AGRICULTURE,Fiber Crops,Cotton (Kapas),0,ASKED ABOUT VARITES,"SOW MALLIKA,MAHIKO",2011-07-20T10:27:00,2011,7
+ANDHRA PRADESH,ANANTPUR,YELLANUR,NA,AGRICULTURE,Cereals,1075,0,asked about maize cobs,INFORMATION GIVEN AS PER DATA,2011-07-21T03:19:00,2011,7
+ANDHRA PRADESH,ANANTPUR,BATHALAPALLE,NA,AGRICULTURE,Oilseeds,Groundnut (pea nut/mung phalli),0,asked about helicoverpa damage in ground nut`,recommended Quinolphos 2ml/lt,2011-07-08T06:59:00,2011,7
+ANDHRA PRADESH,ANANTPUR,PARIGI,NA,AGRICULTURE,Cereals,1075,0,asked about maize stem borer damage control,recommended carbofuran 3G @3kg per acre,2011-07-08T06:59:00,2011,7
+ANDHRA PRADESH,NELLORE,KOTA,NA,AGRICULTURE,Others,Others,0,asked about soils,INFORMATION GIVEN AS PER DATA,2011-07-08T07:51:00,2011,7
+ANDHRA PRADESH,PRAKASAM,KONAKANAMITTLA,NA,AGRICULTURE,Fiber Crops,Cotton (Kapas),0,ASKED ABOUT FLOWERDROP,SPRAY PLANOFIX 2.5ML/10LIT OF WATER,2011-07-08T08:30:00,2011,7
+ANDHRA PRADESH,ANANTPUR,PAMIDI,NA,AGRICULTURE,Oilseeds,Groundnut (pea nut/mung phalli),0,asked about stem rot in groundnut,recommended mancozeb,2011-07-08T09:49:00,2011,7
+ANDHRA PRADESH,GUNTUR,KOLLUR,NA,AGRICULTURE,Pulses,Pigeon pea (red gram/arhar/tur),0,asked about weedicide in redgram,INFORMATION GIVEN AS PER DATA,2011-07-21T06:27:00,2011,7
+ANDHRA PRADESH,PRAKASAM,PEDA ARAVEEDU,NA,HORTICULTURE,Fruits,Citrus,0,asked about chini mangu dis control,recommended dicofol 2.7 ml/lt of water,2011-07-21T06:30:00,2011,7
+ANDHRA PRADESH,KRISHNA,PAMIDIMUKKALA,NA,AGRICULTURE,Cereals,1137,0,asked about fertilizers in rice,INFORMATION GIVEN AS PER DATA,2011-07-21T06:30:00,2011,7
+ANDHRA PRADESH,PRAKASAM,KANDUKUR,NA,AGRICULTURE,Fiber Crops,Cotton (Kapas),0,asked about cotton yellowing leaves dis.,recommneded Mgso4 + urea,2011-07-21T06:54:00,2011,7
+ANDHRA PRADESH,KURNOOL,KOWTHALAM,NA,HORTICULTURE,Vegetables,Onion,0,asked about onion leaf spot disease control,recommended rogor 2ml + mancozeb,2011-07-21T06:54:00,2011,7
+ANDHRA PRADESH,ANANTPUR,RAYADURG,NA,AGRICULTURE,Oilseeds,Groundnut (pea nut/mung phalli),0,asked about ground nut helicoverpa damage,recommended Quinolphos 2ml/lt,2011-07-21T07:05:00,2011,7
+ANDHRA PRADESH,ANANTPUR,BUKKARAYASAMUDRAM,NA,AGRICULTURE,Cereals,1137,0,rice	zinc defeciency,recommandeed to spray zinc sulphate 2.0 g pwr one lit of water,2011-07-24T07:31:00,2011,7
+ANDHRA PRADESH,SRIKAKULAM,VANGARA,NA,AGRICULTURE,Cereals,1137,0,WEED CONTROL,APPLICATION OF BUTACHLORE 1.0 LIT IN 20 KG OF SAND,2011-07-24T07:39:00,2011,7
+ANDHRA PRADESH,PRAKASAM,KANIGIRI,NA,AGRICULTURE,Fodder Crops,African Sarson,0,forage grasses	vaerital information,recommanded information has given,2011-07-14T10:12:00,2011,7
+ANDHRA PRADESH,GUNTUR,PONNUR,NA,AGRICULTURE,Fiber Crops,Cotton (Kapas),0,cotton	green leafhopper damage,spraying of imidacloprid 1.0 ml per on lit of water,2011-07-14T10:12:00,2011,7
+ANDHRA PRADESH,KURNOOL,RUDRAVARAM,NA,AGRICULTURE,Others,Others,0,asked about loans on leased lands,NA,2011-07-15T03:54:00,2011,7
+ANDHRA PRADESH,VIZIANAGARM,PARVATHIPURAM,NA,AGRICULTURE,Cereals,1137,0,asked about rice var.,INFORMATION GIVEN AS PER DATA,2011-07-15T03:54:00,2011,7
+ANDHRA PRADESH,KRISHNA,GHANTASALA,NA,AGRICULTURE,Cereals,1137,0,asked about rice diseases,INFORMATION GIVEN AS PER DATA,2011-07-15T03:54:00,2011,7
+ANDHRA PRADESH,Y S R ,NANDALUR,NA,AGRICULTURE,Fiber Crops,Cotton (Kapas),0,ASKED ABOUT FLOWERDROP,SPRAY PLANOFIX 25ML/10LIT OF WATER,2011-07-15T05:01:00,2011,7
+ANDHRA PRADESH,ANANTPUR,TALUPULA,NA,AGRICULTURE,Oilseeds,Sunflower (suryamukhi),0,fertilizer dosage in sunflower,"n-30kg,p-36kg,k-12kg/1 acer",2011-07-09T09:15:00,2011,7
+ANDHRA PRADESH,KRISHNA,GUDURU,NA,AGRICULTURE,Cereals,1137,0,duration of 1061 vareiti in rice,120-130 days,2011-07-09T09:15:00,2011,7
+ANDHRA PRADESH,CHITTOOR,RAMACHANDRAPURAM,NA,AGRICULTURE,Cereals,1137,0,asked about weedicde in rice,recommended Butachlor 1.5 lt/acre,2011-07-26T08:38:00,2011,7
+ANDHRA PRADESH,ANANTPUR,GOOTY,NA,AGRICULTURE,Cereals,2051,0,asked about market rates of jowar,INFORMATION GIVEN AS PER DATA,2011-07-26T08:48:00,2011,7
+ANDHRA PRADESH,GUNTUR,TENALI,NA,AGRICULTURE,Cereals,1137,0,asked about weedicide in rice,recommended clincher 250ml/acre,2011-07-31T07:48:00,2011,7
+ANDHRA PRADESH,CHITTOOR,NAGALAPURAM,NA,AGRICULTURE,Cereals,1137,0,asked about rice var.,"BPT-5204, BPT- 3291",2011-07-31T07:48:00,2011,7
+ANDHRA PRADESH,Y S R ,RAYACHOTY,NA,HORTICULTURE,Vegetables,2108,0,asked about tomato early bligh control in tomato,recommended mancozeb 2.5g / lt,2011-07-31T08:35:00,2011,7
+ANDHRA PRADESH,WEST GODAVARI,NIDADAVOLE,NA,AGRICULTURE,Fodder Crops,Teosinte,0,paragrass	leaf spot,spraying of mancozeb 1.0 g per one lit of water,2011-07-23T07:23:00,2011,7
+ANDHRA PRADESH,EAST GODAVARI,RAJAHMUNDRY RURAL,NA,AGRICULTURE,Others,Others,0,asked about coconut plants availability,INFORMATION GIVEN AS PER DATA,2011-07-23T07:54:00,2011,7
+ANDHRA PRADESH,CHITTOOR,RAMACHANDRAPURAM,NA,AGRICULTURE,Cereals,1075,0,asked about sowing time of maize,INFORMATION GIVEN AS PER DATA,2011-07-23T08:13:00,2011,7
+ANDHRA PRADESH,ANANTPUR,VAJRAKARUR,NA,AGRICULTURE,Oilseeds,"Castor (Rehri, Rendi, Arandi) ",0,asked about castor seed damage,recommended thimmet/phorate  10G @4-5 kg/acre,2011-07-23T08:21:00,2011,7
+ANDHRA PRADESH,NELLORE,VIDAVALUR,NA,AGRICULTURE,Others,Others,0,asked abour zinc defficiency in ground nut,recommended ZINC SULPHATE 2G/LT,2011-07-24T01:08:00,2011,7
+ANDHRA PRADESH,PRAKASAM,TALLUR,NA,AGRICULTURE,Fiber Crops,Cotton (Kapas),0,asked about flower drop in cotton,recommended NAA @10PPM,2011-07-24T01:08:00,2011,7
+ANDHRA PRADESH,GUNTUR,MACHAVARAM,NA,AGRICULTURE,Others,Others,0,asked about green fodder crops,INFORMATION GIVEN AS PER DATA,2011-07-24T01:30:00,2011,7
+ANDHRA PRADESH,KURNOOL,KOWTHALAM,NA,AGRICULTURE,Fiber Crops,Cotton (Kapas),0,asked about cotton seed damage control,recommended thimmet/phorate  10G @4-5 kg/acre,2011-07-24T01:32:00,2011,7
+ANDHRA PRADESH,KRISHNA,MUSUNURU,NA,HORTICULTURE,Vegetables,1280,0,asked about seed treatment in chilli,INFORMATION GIVEN AS PER DATA,2011-07-24T01:42:00,2011,7
+ANDHRA PRADESH,PRAKASAM,RACHERLA,NA,HORTICULTURE,Vegetables,1279,0,brinjal	whitefly damage,recommanded information has given,2011-07-11T10:03:00,2011,7
+ANDHRA PRADESH,KURNOOL,KOLIMIGUNDLA,NA,HORTICULTURE,Vegetables,1280,0,chilli	fertiliger application,recommanded information has given,2011-07-11T12:37:00,2011,7
+ANDHRA PRADESH,GUNTUR,VATTICHERUKURU,NA,AGRICULTURE,Cereals,1137,0,asked about fertilizers in rice,INFORMATION GIVEN AS PER DATA,2011-07-12T08:37:00,2011,7
+ANDHRA PRADESH,NELLORE,KOTA,NA,AGRICULTURE,Cereals,1075,0,asked about maize germination,INFORMATION GIVEN AS PER DATA,2011-07-12T08:37:00,2011,7
+ANDHRA PRADESH,ANANTPUR,ANANTAPUR,NA,AGRICULTURE,Others,Others,0,asked about alachanda seed treatment,INFORMATION GIVEN AS PER DATA,2011-07-12T08:37:00,2011,7
+ANDHRA PRADESH,CHITTOOR,NARAYANAVANAM,NA,HORTICULTURE,Vegetables,Onion,0,asked about onion sowing dates,INFORMATION GIVEN AS PER DATA,2011-07-12T09:05:00,2011,7
+ANDHRA PRADESH,ANANTPUR,RAPTADU,NA,AGRICULTURE,Cereals,1137,0,seed treatment,NA,2011-07-12T09:31:00,2011,7
+ANDHRA PRADESH,WEST GODAVARI,NIDADAVOLE,NA,AGRICULTURE,Others,Others,0,weather information,recommanded information has given,2011-07-12T09:31:00,2011,7
+ANDHRA PRADESH,KURNOOL,KOILAKUNTLA,NA,HORTICULTURE,Condiments and Spices,Turmeric,0,turmaric	weed control,recommanded information has given,2011-07-12T11:08:00,2011,7
+ANDHRA PRADESH,GUNTUR,PITTALAVANIPALEM,NA,HORTICULTURE,Vegetables,1279,0,brinjal	stemborer,Cypermetrin 1.0 ml per one lit of water,2011-07-12T11:08:00,2011,7
+ANDHRA PRADESH,PRAKASAM,0   ,NA,ANIMAL HUSBANDRY,Animal,2046,0,dairy form	govt schemes,recommanded information has given,2011-07-12T11:08:00,2011,7
+ANDHRA PRADESH,VIZIANAGARM,0   ,NA,ANIMAL HUSBANDRY,Animal,964,0,govt schemes,recommanded information has given,2011-07-16T07:04:00,2011,7
+ANDHRA PRADESH,VIZIANAGARM,PARVATHIPURAM,NA,AGRICULTURE,Cereals,1137,Cultural Practices,Cultivation practices,Given information as per the data,2011-07-16T07:34:00,2011,7
+ANDHRA PRADESH,KURNOOL,UYYALAWADA,NA,825,Avian,1266,	Management	,poultry mangement,Given information as per the data,2011-07-16T10:22:00,2011,7
+ANDHRA PRADESH,PRAKASAM,0   ,NA,AGRICULTURE,Fiber Crops,Cotton (Kapas),0,fertiliger application,recommanded information has given,2011-07-17T07:04:00,2011,7
+ANDHRA PRADESH,0   ,0   ,NA,HORTICULTURE,Vegetables,1280,0,vaerital information,"palnadu, asha, etc.",2011-07-17T07:04:00,2011,7
+ANDHRA PRADESH,KRISHNA,0   ,NA,AGRICULTURE,Fodder Crops,Teosinte,0,forage grasses	fertiliger application,recommanded information has given,2011-07-17T07:04:00,2011,7
+ANDHRA PRADESH,VIZIANAGARM,KURUPAM,NA,AGRICULTURE,417,7524,Cultural Practices,Cultivation practices,Given information as per the data,2011-07-20T03:29:00,2011,7
+ANDHRA PRADESH,KURNOOL,KRISHNAGIRI,NA,AGRICULTURE,Others,Others,0,asked about horticultural crops information,INFORMATION GIVEN AS PER DATA,2011-07-20T05:18:00,2011,7
+ANDHRA PRADESH,KRISHNA,MUSUNURU,NA,HORTICULTURE,Vegetables,Chillies,0,asked about seed treatment in chilli,recommended 150g trisodium orthophosphate +8g confidor +3g mancozeb/capton,2011-07-18T06:23:00,2011,7
+ANDHRA PRADESH,KURNOOL,KOWTHALAM,NA,HORTICULTURE,Vegetables,Onion,0,asked about onion leaf spot disease control,INFORMATION GIVEN AS PER DATA,2011-07-18T07:03:00,2011,7
+ANDHRA PRADESH,ANANTPUR,PAMIDI,NA,HORTICULTURE,Vegetables,Chillies,0,asked about chilli diseases,INFORMATION GIVEN AS PER DATA,2011-07-22T11:27:00,2011,7
+ANDHRA PRADESH,NELLORE,KALIGIRI,NA,HORTICULTURE,Vegetables,1280,78,Vareities,"teja,shakti,basker,jyothi,andrajyothi",2011-07-19T05:59:00,2011,7
+ANDHRA PRADESH,ANANTPUR,HINDUPUR,NA,AGRICULTURE,Others,Others,0,asked about farm implements availability,INFORMATION GIVEN AS PER DATA,2011-07-04T03:58:00,2011,7
+ANDHRA PRADESH,CHITTOOR,PULICHERLA H/O REDDIVARIPALLE,NA,AGRICULTURE,Sugar and Starch Crops,Sunnhemp (Patua),0,asked about sugarcane fertilizers,INFORMATION GIVEN AS PER DATA,2011-07-01T11:56:00,2011,7
+ANDHRA PRADESH,KRISHNA,MYLAVARAM,NA,HORTICULTURE,Condiments and Spices,Turmeric,0,asked about fertilizers in turmeric,"Recommended 200 KG NEEM POWDER, 150 KG SSP,  25KG MOP AT BASAL",2011-07-01T12:15:00,2011,7
+ANDHRA PRADESH,EAST GODAVARI,KORUKONDA,NA,HORTICULTURE,Vegetables,2108,0,asked about tomato var.,Laxmi 5005,2011-07-02T01:32:00,2011,7
+ANDHRA PRADESH,ANANTPUR,ATMAKUR,NA,AGRICULTURE,Oilseeds,Groundnut (pea nut/mung phalli),0,asked about groundnut sucking pests control,NA,2011-07-02T01:32:00,2011,7
+ANDHRA PRADESH,WEST GODAVARI,T.NARASAPURAM,NA,HORTICULTURE,Vegetables,1287,0,asked about cauliflower cultivation practices,NA,2011-07-03T08:52:00,2011,7
+ANDHRA PRADESH,Y S R ,PENDLIMARRI,NA,HORTICULTURE,Vegetables,Onion,0,asked about onion cultivation,INFORMATION GIVEN AS PER DATA,2011-07-03T08:52:00,2011,7
+ANDHRA PRADESH,ANANTPUR,D.HIREHAL,NA,HORTICULTURE,Vegetables,1280,0,sowing season of  chilli,June-july,2011-07-09T06:50:00,2011,7
+ANDHRA PRADESH,WEST GODAVARI,CHINTALAPUDI,NA,AGRICULTURE,417,Beans ,Agriculture Mechanization,cultivation process,given information as per the data,2011-07-05T07:46:00,2011,7
+ANDHRA PRADESH,KRISHNA,REDDIGUDEM,NA,AGRICULTURE,Cereals,1137,0,weed control,application of butachlore 1.0 lit in 25 kg of sand,2011-07-30T02:26:00,2011,7
+ANDHRA PRADESH,PRAKASAM,KANIGIRI,NA,HORTICULTURE,Fruits,1324,0,asked about papaya plants diseases,INFORMATION GIVEN AS PER DATA,2011-07-30T05:41:00,2011,7
+ANDHRA PRADESH,KRISHNA,PAMIDIMUKKALA,NA,AGRICULTURE,Cereals,1137,0,asked about rice weedicide,"recommended pretilachlor, topstar",2011-07-30T05:41:00,2011,7
+ANDHRA PRADESH,PRAKASAM,KANDUKUR,NA,AGRICULTURE,Others,Others,0,asked about drip irrigation,INFORMATION GIVEN AS PER DATA,2011-07-30T05:41:00,2011,7
+ANDHRA PRADESH,ANANTPUR,VAJRAKARUR,NA,AGRICULTURE,Oilseeds,"Castor (Rehri, Rendi, Arandi) ",0,asked about castor sucking pests control,Recommended dimethoate 2ml/lt,2011-07-30T05:59:00,2011,7
+ANDHRA PRADESH,ANANTPUR,MUDIGUBBA,NA,AGRICULTURE,Pulses,Black Gram (urd bean),0,asked about black gram sowing date,INFORMATION GIVEN AS PER DATA,2011-07-30T06:28:00,2011,7
+ANDHRA PRADESH,KRISHNA,JAGGAYYAPETA,NA,HORTICULTURE,Fruits,1268,76,pests,Carbaryl 3 gr/lt water,2011-07-24T10:28:00,2011,7
+ANDHRA PRADESH,NELLORE,VIDAVALUR,NA,AGRICULTURE,Others,Others,0,asked abour zinc defficiency in ground nut,NA,2011-07-24T11:22:00,2011,7
+ANDHRA PRADESH,Y S R ,OBULAVARIPALLE,NA,HORTICULTURE,Fruits,1324,Fertilizer Use and Availability,fertilizer management,given information as per the data,2011-07-27T02:56:00,2011,7
+ANDHRA PRADESH,WEST GODAVARI,T.NARASAPURAM,NA,AGRICULTURE,Cereals,1137,0,asked about zinc application in rice,NA,2011-07-26T08:38:00,2011,7
+ANDHRA PRADESH,WEST GODAVARI,KOYYALAGUDEM,NA,AGRICULTURE,Cereals,1137,0,asked about granules application in rice,INFORMATION GIVEN AS PER DATA,2011-07-26T08:42:00,2011,7
+ANDHRA PRADESH,GUNTUR,0   ,NA,AGRICULTURE,Fiber Crops,Cotton (Kapas),0,asked about fertilizers in cotton,INFORMATION GIVEN AS PER DATA,2011-07-26T08:48:00,2011,7
+ANDHRA PRADESH,KRISHNA,VIJAYAWADA RURAL,NA,HORTICULTURE,Condiments and Spices,Turmeric,0,asked about turmeric market rates,INFORMATION GIVEN AS PER DATA,2011-07-26T08:48:00,2011,7
+ANDHRA PRADESH,ANANTPUR,PUTLUR,NA,AGRICULTURE,Oilseeds,Sunflower (suryamukhi),0,asked about sunflower hybrids,"recommended KBSH-1, NDSH1",2011-07-26T08:48:00,2011,7
+ANDHRA PRADESH,KRISHNA,CHALLAPALLI,NA,HORTICULTURE,Vegetables,1280,78,Vareities,"lam-334,jyothi,teja,andhrajyothi etc...",2011-07-23T04:07:00,2011,7
+ANDHRA PRADESH,Y S R ,PEDDAMUDIUM,NA,HORTICULTURE,Condiments and Spices,Saffron,0,turumeric	weed control,spraying of pendimithalin 1.5 lit per one lit of water,2011-07-23T07:23:00,2011,7
+ANDHRA PRADESH,ANANTPUR,OBULADEVARECHERUVU,NA,AGRICULTURE,Others,Others,0,asked about kharif season crops,INFORMATION GIVEN AS PER DATA,2011-07-23T07:24:00,2011,7
+ANDHRA PRADESH,KRISHNA,NAGAYALANKA,NA,AGRICULTURE,Cereals,1137,0,asked about weedicdie in rice,recommended Butachlor 1.5 lt/acre,2011-07-23T07:54:00,2011,7
+ANDHRA PRADESH,WEST GODAVARI,ELURU,NA,AGRICULTURE,Pulses,Green Gram (Moong Bean/ Moong),0,asked about sucking pests control in green gram,Recommended dimethoate 2ml/lt,2011-07-23T07:54:00,2011,7
+ANDHRA PRADESH,WEST GODAVARI,ACHANTA,NA,AGRICULTURE,Pulses,Pigeon pea (red gram/arhar/tur),0,redgram	date of sowing,recommanded information has given,2011-07-23T08:56:00,2011,7
+ANDHRA PRADESH,VISAKHAPATNAM,0   ,NA,AGRICULTURE,Cereals,1137,0,asked about weedicdie in rice,recommended Butachlor 1.5 lt/acre,2011-07-24T01:42:00,2011,7
+ANDHRA PRADESH,Y S R ,PENAGALUR,NA,AGRICULTURE,Pulses,1808,0,castor	asked about vaerities,"kranthi, haritha, kiran, jwala, jyothi.",2011-07-24T05:52:00,2011,7
+ANDHRA PRADESH,ANANTPUR,GUNTAKAL,NA,HORTICULTURE,Fruits,Banana,87,cultivation practices,Given information as per the data,2011-07-24T06:58:00,2011,7
+ANDHRA PRADESH,GUNTUR,BELLAMKONDA,NA,HORTICULTURE,Fruits,1324,0,papaya	asked about inter cropping in papaya,"green gram, black gram etc.",2011-07-24T07:24:00,2011,7
+ANDHRA PRADESH,GUNTUR,KOLLUR,NA,HORTICULTURE,Condiments and Spices,Turmeric,0,rhizome rot,recommanded to apply the tricoderma viride,2011-07-24T07:39:00,2011,7
+ANDHRA PRADESH,VIZIANAGARM,CHEEPURUPALLE,NA,HORTICULTURE,Vegetables,2108,0,VAERITAL INFORMATION,"ANNAPOORNA, VAISHALI RUPALI ETC.",2011-07-24T07:39:00,2011,7
+ANDHRA PRADESH,0   ,0   ,NA,AGRICULTURE,Cereals,1075,0,ASKED ABOUT DATE OF SOWING,RECOMMANDED INFORMATION HAS GIVEN,2011-07-24T08:42:00,2011,7
+ANDHRA PRADESH,GUNTUR,AMARAVATHI,NA,AGRICULTURE,Pulses,Black Gram (urd bean),0,asked about black gram sowing time,INFORMATION GIVEN AS PER DATA,2011-07-31T05:48:00,2011,7
+ANDHRA PRADESH,GUNTUR,BELLAMKONDA,NA,AGRICULTURE,Others,Others,0,Asked about srigandham plants availability,INFORMATION GIVEN AS PER DATA,2011-07-31T05:52:00,2011,7
+ANDHRA PRADESH,Y S R ,CHAKRAYAPET,NA,AGRICULTURE,Oilseeds,Sunflower (suryamukhi),0,asked about sucking pests controlin sunflower,recommended trizophos,2011-07-31T06:14:00,2011,7
+ANDHRA PRADESH,SRIKAKULAM,PONDURU,NA,AGRICULTURE,Others,Others,0,asked about yelowing leaves control in coccinina,Recommended dimethoate 2ml/lt,2011-07-31T06:14:00,2011,7
+ANDHRA PRADESH,GUNTUR,TADIKONDA,NA,HORTICULTURE,Vegetables,1280,0,asked about chilli nursery management,INFORMATION GIVEN AS PER DATA,2011-07-31T07:48:00,2011,7
+ANDHRA PRADESH,ANANTPUR,KANEKAL,NA,AGRICULTURE,Others,Others,0,asked about soil testing,INFORMATION GIVEN AS PER DATA,2011-07-31T07:48:00,2011,7
+ANDHRA PRADESH,KRISHNA,BANTUMILLI,NA,AGRICULTURE,Cereals,1137,0,rice	weed control,sehalopop butaly 200 ml per one acare,2011-07-28T08:08:00,2011,7
+ANDHRA PRADESH,VIZIANAGARM,0   ,NA,AGRICULTURE,Fiber Crops,Cotton (Kapas),0,cotton weed control,recommanded information has given,2011-07-21T01:59:00,2011,7
+ANDHRA PRADESH,ANANTPUR,NALLAMADA,NA,AGRICULTURE,Others,Others,0,asked about aloe vera cultivation,INFORMATION GIVEN AS PER DATA,2011-07-21T06:17:00,2011,7
+ANDHRA PRADESH,ANANTPUR,RAPTADU,NA,AGRICULTURE,Oilseeds,Groundnut (pea nut/mung phalli),0,asked about groundnut helicoverpa damage,recommended chloripyriphos 2.5 ml/lt,2011-07-08T07:22:00,2011,7
+ANDHRA PRADESH,ANANTPUR,GOOTY,NA,AGRICULTURE,Fiber Crops,Cotton (Kapas),0,asked about cotton hybrids,"recommended mahyco var. Kanak, Neeraj, Dr.Brent , Monsanto -Bramha and Mallika from Nuzeveedu seeds pvt lmt.",2011-07-08T07:22:00,2011,7
+ANDHRA PRADESH,ANANTPUR,BATHALAPALLE,NA,AGRICULTURE,Others,Others,29,weather report,given information as per  the data,2011-07-08T11:51:00,2011,7
+ANDHRA PRADESH,KURNOOL,GONEGANDLA,NA,AGRICULTURE,Others,Others,0,ASKED ABOUT MARKETING,TRANSFERRED TO LEVEL-2(SOUNDARYAVATHI),2011-07-08T12:24:00,2011,7
+ANDHRA PRADESH,KRISHNA,NAGAYALANKA,NA,AGRICULTURE,Cereals,1137,0,asked about rice nursery management,INFORMATION GIVEN AS PER DATA,2011-07-10T08:26:00,2011,7
+ANDHRA PRADESH,ANANTPUR,KAMBADUR,NA,HORTICULTURE,Fruits,Citrus,0,asked about chini canker dis.control,recommended streptomycin 1g + blitox 30 g in 10 lit. of water,2011-07-10T09:40:00,2011,7
+ANDHRA PRADESH,KURNOOL,ASPARI,NA,AGRICULTURE,Fiber Crops,Cotton (Kapas),0,asked about Bt cotton var.,"recommended mahyco var. Kanak, Neeraj, Dr.Brent , Monsanto -Bramha and Mallika from Nuzeveedu seeds pvt lmt.",2011-07-10T11:56:00,2011,7
+ANDHRA PRADESH,CHITTOOR,YERRAVARIPALEM,NA,HORTICULTURE,Vegetables,Chillies,0,asked about chilli sowing dates,"recommended july, aug",2011-07-10T11:56:00,2011,7
+ANDHRA PRADESH,CHITTOOR,GUDIPALA,NA,HORTICULTURE,Fruits,1268,0,water management in mango,given information as per  the data,2011-07-11T01:55:00,2011,7
+ANDHRA PRADESH,VIZIANAGARM,SALUR,NA,AGRICULTURE,Others,Others,0,Asked about rain fall,INFORMATION GIVEN AS PER DATA,2011-07-11T03:50:00,2011,7
+ANDHRA PRADESH,Y S R ,KAMALAPURAM,NA,HORTICULTURE,Vegetables,Onion,0,fertilizer dosage in onion,"n-60-80kg,p-24-32kg,k-24kg/1 acer",2011-07-09T08:32:00,2011,7
+ANDHRA PRADESH,ANANTPUR,0   ,NA,AGRICULTURE,Oilseeds,Groundnut (pea nut/mung phalli),0,control of root rot in groundnut,spraying capperoxy chloraide 3gr/1 lit water,2011-07-09T08:32:00,2011,7
+ANDHRA PRADESH,CHITTOOR,CHOWDEPALLE,NA,AGRICULTURE,Cereals,1137,0,control of weed in rice,NA,2011-07-09T09:15:00,2011,7
+ANDHRA PRADESH,GUNTUR,DURGI,NA,HORTICULTURE,Vegetables,1279,0,control of stem borer in brinjal,spraying propanophas 2ml/1 lit water,2011-07-09T09:15:00,2011,7
+ANDHRA PRADESH,WEST GODAVARI,KAMAVARAPUKOTA,NA,AGRICULTURE,Cereals,1137,0,ASKED ABOUT VARITES,SOW MTU-5204,2011-07-07T02:35:00,2011,7
+ANDHRA PRADESH,NELLORE,KAVALI,NA,AGRICULTURE,Cereals,1075,0,ASKED ABOUT SEASON,SOW ON JUNE-JULY,2011-07-07T02:35:00,2011,7
+ANDHRA PRADESH,Y S R ,JAMMALAMADUGU,NA,HORTICULTURE,Vegetables,1279,0,ASKED ABOUT VARITES,SOW BHAGYAMATHI,2011-07-07T02:35:00,2011,7
+ANDHRA PRADESH,Y S R ,CHITVEL,NA,HORTICULTURE,Flowers,Zentedeschia,0,asked about root rot disease control in crossandra,recommended copper oxy chloride 3g/lt of water,2011-07-07T06:39:00,2011,7
+ANDHRA PRADESH,KURNOOL,PEDDAKADABUR,NA,AGRICULTURE,Fiber Crops,Cotton (Kapas),0,asked about fertilizer in cotton,INFORMATION GIVEN AS PER DATA,2011-07-07T06:39:00,2011,7
+ANDHRA PRADESH,KURNOOL,KALLUR,NA,AGRICULTURE,Fiber Crops,Cotton (Kapas),0,asked about flower drop in cotton,recommended NAA 10 PPM,2011-07-07T06:39:00,2011,7
+ANDHRA PRADESH,VIZIANAGARM,GURLA,NA,HORTICULTURE,Flowers,Rose,0,flower information,given information as per  the data,2011-07-07T10:42:00,2011,7
+ANDHRA PRADESH,GUNTUR,VATTICHERUKURU,JAYAD,HORTICULTURE,Vegetables,1280,78,Vareities,"lam-334,jyothi,teja,andhrajyothi etc..",2011-07-07T11:06:00,2011,7
+ANDHRA PRADESH,KURNOOL,BANDI ATMAKUR,NA,AGRICULTURE,Fiber Crops,Cotton (Kapas),0,fertilizer dosage in cotton,"n-48kg,p-24kg,k-24kg/1 acer",2011-07-07T11:51:00,2011,7
+ANDHRA PRADESH,CHITTOOR,CHANDRAGIRI,NA,AGRICULTURE,Oilseeds,Groundnut (pea nut/mung phalli),3,pests,monochrotophos 1.6ml/lt water,2011-07-08T01:30:00,2011,7
+ANDHRA PRADESH,KURNOOL,TUGGALI,NA,HORTICULTURE,Vegetables,Chillies,0,asked about weedicide in chilli,INFORMATION GIVEN AS PER DATA,2011-07-11T05:57:00,2011,7
+ANDHRA PRADESH,EAST GODAVARI,SEETHANAGARAM,NA,HORTICULTURE,Vegetables,2113,0,asked about bitter gourd green leaf hopper control,Recommended dimethoate 2ml/lt,2011-07-11T05:57:00,2011,7
+ANDHRA PRADESH,NELLORE,KOTA,NA,AGRICULTURE,Cereals,1075,0,asked about maize cultivation,NA,2011-07-11T07:47:00,2011,7
+ANDHRA PRADESH,GUNTUR,GUNTUR,NA,AGRICULTURE,Others,Others,0,asked about fisheries information,INFORMATION GIVEN AS PER DATA,2011-07-11T07:50:00,2011,7
+ANDHRA PRADESH,CHITTOOR,KUPPAM,NA,AGRICULTURE,Others,Others,0,asked about yellowing of leaves of merigold,recommended Dimethoate 2ml/lt,2011-07-06T08:30:00,2011,7
+ANDHRA PRADESH,ANANTPUR,CHENNEKOTHAPALLE,NA,AGRICULTURE,Oilseeds,Groundnut (pea nut/mung phalli),0,asked about ground nut helicoverpa damage,recommended quinolphos 2ml/lt,2011-07-06T08:30:00,2011,7
+ANDHRA PRADESH,EAST GODAVARI,KORUKONDA,NA,HORTICULTURE,Vegetables,2108,0,ASKED ABOUT TOMATO SEEDS,iNFORMATION GIVEN AS PER DATA,2011-07-06T08:51:00,2011,7
+ANDHRA PRADESH,ANANTPUR,ANANTAPUR,NA,AGRICULTURE,Cereals,2051,0,asked about sorghum sowing time,INFORMATION GIVEN AS PER DATA,2011-07-06T08:56:00,2011,7
+ANDHRA PRADESH,EAST GODAVARI,JAGGAMPETA,NA,HORTICULTURE,Vegetables,Mushroom,87,ASKED ABOUT MUSHROOM CULTIVATION,INFORMATION GIVEN AS PER DATA,2011-07-06T10:48:00,2011,7
+ANDHRA PRADESH,KURNOOL,BETHAMCHERLA,NA,AGRICULTURE,Pulses,Pigeon pea (red gram/arhar/tur),0,asked about redgram var.,"recommended LRG-4, LRG-30",2011-07-06T11:35:00,2011,7
+ANDHRA PRADESH,GUNTUR,TENALI,NA,HORTICULTURE,Vegetables,Chillies,0,asked about weedicide in chilli,recommended pendimethalin 1.3 lt /acre,2011-07-06T11:35:00,2011,7
+ANDHRA PRADESH,GUNTUR,DUGGIRALA,NA,AGRICULTURE,Cereals,1137,0,FERTILIZER APPLICATION,RECOMMANDED INFORMATION HAS GIVEN,2011-07-09T02:11:00,2011,7
+ANDHRA PRADESH,VIZIANAGARM,KOTHAVALASA,NA,AGRICULTURE,Cereals,FingerMillet  (Ragi/Mandika),0,cotton	fertiliger application,recommanded information has given,2011-07-15T07:04:00,2011,7
+ANDHRA PRADESH,VISAKHAPATNAM,0   ,NA,AGRICULTURE,Oilseeds,Groundnut (pea nut/mung phalli),0,groundnut,root grub damage	soil dtrenching of phorate granules,2011-07-15T07:04:00,2011,7
+ANDHRA PRADESH,VISAKHAPATNAM,0   ,NA,AGRICULTURE,Oilseeds,Linseed (alsi),0,chini nimma	micronutrient defecient,recommanded information has given,2011-07-15T07:04:00,2011,7
+ANDHRA PRADESH,NELLORE,0   ,NA,HORTICULTURE,Vegetables,1996,0,tomato	vaerities,recommanded information has given,2011-07-15T07:04:00,2011,7
+ANDHRA PRADESH,ANANTPUR,VAJRAKARUR,NA,HORTICULTURE,Vegetables,Chillies,0,asked about weedicide in chilli,INFORMATION GIVEN AS PER DATA,2011-07-15T07:32:00,2011,7
+ANDHRA PRADESH,WEST GODAVARI,GANAPAVARAM,NA,HORTICULTURE,Vegetables,1282,0,asked about sucking pests control in bhendi,Recommended dimethoate 2ml/lt,2011-07-15T07:51:00,2011,7
+ANDHRA PRADESH,CHITTOOR,KALAKADA,NA,AGRICULTURE,Oilseeds,Groundnut (pea nut/mung phalli),0,groundnut	date of sowing,NA,2011-07-13T08:14:00,2011,7
+ANDHRA PRADESH,WEST GODAVARI,BHIMADOLE,NA,AGRICULTURE,Others,Others,0,weather information,recommanded information has given,2011-07-13T08:14:00,2011,7
+ANDHRA PRADESH,KURNOOL,ALLAGADDA,NA,HORTICULTURE,Vegetables,1282,0,asked about helicoverpa damage control,recommanded to spray 2.0 ml of chloripyriphos per one lit of water,2011-07-25T05:01:00,2011,7
+ANDHRA PRADESH,KRISHNA,KAIKALUR,NA,AGRICULTURE,Sugar and Starch Crops,Sunnhemp (Patua),22,weed controle management,given information as per the data,2011-07-25T10:00:00,2011,7
+ANDHRA PRADESH,CHITTOOR,KAMBHAMVARIPALLE,NA,AGRICULTURE,Oilseeds,Groundnut (pea nut/mung phalli),Cultural Practices,cultivation process,given information as per the data,2011-07-25T10:00:00,2011,7
+ANDHRA PRADESH,KURNOOL,HALAHARVI,NA,AGRICULTURE,Fiber Crops,Cotton (Kapas),0,cotton	date of sowing,recommanded information has given,2011-07-24T07:31:00,2011,7
+ANDHRA PRADESH,EAST GODAVARI,MANDAPETA,NA,HORTICULTURE,Fruits,1268,87,fertizers management,NA,2011-07-25T02:27:00,2011,7
+ANDHRA PRADESH,ANANTPUR,NALLAMADA,NA,AGRICULTURE,Oilseeds,Groundnut (pea nut/mung phalli),0,asked about ground nut spodoptera damage control,recommended monocrotophos 1.6ml/lt,2011-07-01T06:51:00,2011,7
+ANDHRA PRADESH,WEST GODAVARI,THALLAPUDI,NA,ANIMAL HUSBANDRY,Animal,964,0,ASKED ABOUT A &H,INFORMATION GIVEN AS PER DATA,2011-07-01T06:51:00,2011,7
+ANDHRA PRADESH,PRAKASAM,GUDLURU,NA,AGRICULTURE,Fiber Crops,Cotton (Kapas),26,control of flower droping in cotton,spraying napthalin acetic acid 10 ppm/1 lit water,2011-07-09T09:15:00,2011,7
+ANDHRA PRADESH,KURNOOL,VELUGODU,NA,AGRICULTURE,Fiber Crops,Cotton (Kapas),0,asked about Bt cotton var.,"recommended mahyco var. Kanak, Neeraj, Dr.Brent , Monsanto -Bramha and Mallika from Nuzeveedu seeds pvt lmt.",2011-07-07T06:39:00,2011,7
+ANDHRA PRADESH,PRAKASAM,TALLUR,NA,HORTICULTURE,Vegetables,Onion,0,asked about onion root rot disease control,recommended copper oxy chloride 3g/lt of water,2011-07-07T07:10:00,2011,7
+ANDHRA PRADESH,NELLORE,KAVALI,NA,HORTICULTURE,Condiments and Spices,Saffron,0,ASKED ABOUT MANAGEMENT,NA,2011-07-08T06:45:00,2011,7
+ANDHRA PRADESH,EAST GODAVARI,P.GANNAVARAM,NA,HORTICULTURE,Fruits,Banana,0,asked about fertilizers in banana,NA,2011-07-08T07:22:00,2011,7
+ANDHRA PRADESH,Y S R ,RAMAPURAM,NA,HORTICULTURE,Vegetables,2108,0,asked about flower drop in tomato,recommended planofix 2.5ml /10l,2011-07-10T09:40:00,2011,7
+ANDHRA PRADESH,CHITTOOR,GANGAVARAM,NA,AGRICULTURE,Others,Others,Weather,weather report,given information as per  the data,2011-07-11T01:55:00,2011,7
+ANDHRA PRADESH,WEST GODAVARI,DENDULURU,NA,HORTICULTURE,Vegetables,1280,0,control of root rot in chilli,spraying capperoxy chloraide 3gr/1 lit water,2011-07-11T01:55:00,2011,7
+ANDHRA PRADESH,Y S R ,RAYACHOTY,NA,AGRICULTURE,Oilseeds,Groundnut (pea nut/mung phalli),1,sowing time,July-aug 15,2011-07-08T11:06:00,2011,7
+ANDHRA PRADESH,WEST GODAVARI,VEERAVASARAM,NA,AGRICULTURE,Others,Others,29,Cultivation practices,Given information as per the data,2011-07-23T04:07:00,2011,7
+ANDHRA PRADESH,CHITTOOR,KURABALAKOTA,NA,AGRICULTURE,Others,Others,0,asked about glyphosate herbicide,INFORMATION GIVEN AS PER DATA,2011-07-23T07:17:00,2011,7
+ANDHRA PRADESH,KRISHNA,A.KONDURU,NA,HORTICULTURE,Fruits,1268,0,mango	bacterial spot,NA,2011-07-23T07:23:00,2011,7
+ANDHRA PRADESH,CHITTOOR,VENKATAGIRIKOTA,NA,HORTICULTURE,Fruits,Grape,0,grapes leaf folder damage,spraying of imidachloprid 1.0 ml per one lit of water,2011-07-23T07:23:00,2011,7
+ANDHRA PRADESH,ANANTPUR,KADIRI,NA,AGRICULTURE,Cereals,1137,0,rice	micronutrient defeciency,spraying of zinc and fe,2011-07-23T07:23:00,2011,7
+ANDHRA PRADESH,PRAKASAM,KANDUKUR,NA,AGRICULTURE,Oilseeds,Groundnut (pea nut/mung phalli),0,asked about root rot in groundnut,recommended coc 3g/lt,2011-07-23T07:29:00,2011,7
+ANDHRA PRADESH,NELLORE,KOTA,NA,HORTICULTURE,Condiments and Spices,Turmeric,0,recommended atrazine,NA,2011-07-03T02:12:00,2011,7
+ANDHRA PRADESH,WEST GODAVARI,LINGAPALEM,NA,AGRICULTURE,Others,Others,0,asked about loans on lands,INFORMATION GIVEN AS PER DATA,2011-07-01T10:38:00,2011,7
+ANDHRA PRADESH,WEST GODAVARI,THALLAPUDI,NA,825,Avian,2825,0,asked about emu rearing,INFORMATION GIVEN AS PER DATA,2011-07-01T10:43:00,2011,7
+ANDHRA PRADESH,KURNOOL,DEVANAKONDA,NA,AGRICULTURE,Fiber Crops,Cotton (Kapas),0,asked about sucking pests control in cotton,recommended imidachloprid 0.4 ml / monochrotophos 1.6ml per lit,2011-07-01T10:58:00,2011,7
+ANDHRA PRADESH,PRAKASAM,GIDDALURU,NA,AGRICULTURE,Fiber Crops,Cotton (Kapas),0,asked about sucking pests control in cotton,recommended imidachloprid 0.4 ml / monochrotophos 1.6ml per lit,2011-07-02T01:32:00,2011,7
+ANDHRA PRADESH,WEST GODAVARI,ACHANTA,NA,HORTICULTURE,Fruits,Banana,0,asked about fertilizers in bana,INFORMATION GIVEN AS PER DATA,2011-07-02T01:32:00,2011,7
+ANDHRA PRADESH,ANANTPUR,PEDDAVADUGUR,NA,AGRICULTURE,Oilseeds,"Castor (Rehri, Rendi, Arandi) ",0,asked about leaf fall in castor,recommended mancozeb,2011-07-02T01:32:00,2011,7
+ANDHRA PRADESH,CHITTOOR,BANGARUPALEM,NA,AGRICULTURE,Cereals,1137,0,asked about somashila var of rice,INFORMATION GIVEN AS PER DATA,2011-07-02T02:00:00,2011,7
+ANDHRA PRADESH,KURNOOL,RUDRAVARAM,NA,AGRICULTURE,Others,Others,0,asked about different weedicides,INFORMATION GIVEN AS PER DATA,2011-07-09T03:28:00,2011,7
+ANDHRA PRADESH,GUNTUR,TADEPALLE,NA,HORTICULTURE,Vegetables,2108,0,asked about tomato seeds from USA,INFORMATION GIVEN AS PER DATA,2011-07-09T03:51:00,2011,7
+ANDHRA PRADESH,CHITTOOR,PILER,NA,AGRICULTURE,Cereals,1137,22,Weed controle,Butacholre 1-1.5 lt/acre,2011-07-09T06:15:00,2011,7
+ANDHRA PRADESH,Y S R ,CHAKRAYAPET,NA,AGRICULTURE,Oilseeds,Groundnut (pea nut/mung phalli),0,asked about ground nut helicoverpa damage,NA,2011-07-09T10:21:00,2011,7
+ANDHRA PRADESH,KRISHNA,G.KONDURU,NA,AGRICULTURE,Fiber Crops,Cotton (Kapas),0,asked about cotton seed damage control,recommended thimmet/phorate  10G @4-5 kg/acre,2011-07-09T10:21:00,2011,7
+ANDHRA PRADESH,0   ,0   ,NA,HORTICULTURE,Fruits,Citrus,0,chini nimma	wilt disease,recommaqnded information has given,2011-07-10T05:45:00,2011,7
+ANDHRA PRADESH,Y S R ,JAMMALAMADUGU,NA,HORTICULTURE,Vegetables,1279,0,asked about flower drop in brinjal,recommended planofix 2.5ml/10 lt of water,2011-07-10T06:29:00,2011,7
+ANDHRA PRADESH,KURNOOL,BANAGANAPALLE,NA,HORTICULTURE,Vegetables,Chillies,0,asked about virusese in chilli,INFORMATION GIVEN AS PER DATA,2011-07-11T05:57:00,2011,7
+ANDHRA PRADESH,CHITTOOR,CHINNAGOTTIGALLU,NA,ANIMAL HUSBANDRY,Animal,"Bovine(Cow,Buffalo)",0,ASKED ABOUT A &H,INFORMATION GIVEN AS PER DATA,2011-07-11T05:57:00,2011,7
+ANDHRA PRADESH,CHITTOOR,SODAM,NA,HORTICULTURE,Fruits,1268,0,asked about mango stem gum disease,INFORMATION GIVEN AS PER DATA,2011-07-23T07:51:00,2011,7
+ANDHRA PRADESH,GUNTUR,NEKARIKALLU,NA,AGRICULTURE,Others,Others,0,asked about subsidies of animals,INFORMATION GIVEN AS PER DATA,2011-07-23T07:54:00,2011,7
+ANDHRA PRADESH,KURNOOL,CHAGALAMARRI,NA,HORTICULTURE,Vegetables,1280,0,seed bed preparation,recommanded information has given,2011-07-23T08:56:00,2011,7
+ANDHRA PRADESH,ANANTPUR,PAMIDI,NA,AGRICULTURE,Oilseeds,"Castor (Rehri, Rendi, Arandi) ",0,asked about root rot control in castor,recommended  coc 3g/ lt,2011-07-23T09:14:00,2011,7
+ANDHRA PRADESH,ANANTPUR,GARLADINNE,NA,HORTICULTURE,Vegetables,2108,0,asked about tomato flower drop control,recommended planofix 2.5ml /10l,2011-07-24T01:14:00,2011,7
+ANDHRA PRADESH,PRAKASAM,KANDUKUR,NA,AGRICULTURE,Pulses,Green Gram (Moong Bean/ Moong),0,asked about green gram var,LGG 405,2011-07-24T01:42:00,2011,7
+ANDHRA PRADESH,WEST GODAVARI,PEDAVEGI,NA,HORTICULTURE,Vegetables,Tomato,0,tomato	vaerities,"annapurna, arka meghali, arka rupali etc.",2011-07-24T03:32:00,2011,7
+ANDHRA PRADESH,KURNOOL,KRISHNAGIRI,NA,AGRICULTURE,Fiber Crops,Cotton (Kapas),0,cotton	green leafhopper damage,NA,2011-07-24T03:32:00,2011,7
+ANDHRA PRADESH,KRISHNA,MACHILIPATNAM,NA,AGRICULTURE,Cereals,1137,0,asked about weedicide in for thunga in rice,"recommended pretilachlor, topstar",2011-07-27T02:10:00,2011,7
+ANDHRA PRADESH,ANANTPUR,NALLAMADA,NA,AGRICULTURE,Oilseeds,Groundnut (pea nut/mung phalli),0,asked about fertilizers in groundnut,INFORMATION GIVEN AS PER DATA,2011-07-26T08:48:00,2011,7
+ANDHRA PRADESH,PRAKASAM,PAMUR,NA,AGRICULTURE,Others,Others,0,asked about sheep disease,INFORMATION GIVEN AS PER DATA,2011-07-26T08:48:00,2011,7
+ANDHRA PRADESH,KURNOOL,ADONI,NA,AGRICULTURE,Fiber Crops,Cotton (Kapas),0,asked about flower drop in cotton,NA,2011-07-06T08:30:00,2011,7
+ANDHRA PRADESH,Y S R ,PENDLIMARRI,NA,HORTICULTURE,Vegetables,2108,0,asked about tomato var.,NA,2011-07-06T08:51:00,2011,7
+ANDHRA PRADESH,KRISHNA,IBRAHIMPATNAM,NA,AGRICULTURE,Others,Others,22,Weed  conrole in waste land,paraquat,2011-07-19T06:24:00,2011,7
+ANDHRA PRADESH,ANANTPUR,AMARAPURAM,NA,AGRICULTURE,Pulses,Black Gram (urd bean),0,coriander,date of sowing	recommanded information has given,2011-07-20T01:21:00,2011,7
+ANDHRA PRADESH,KURNOOL,DHONE ALIAS DRONACHALAM,NA,AGRICULTURE,Fiber Crops,Cotton (Kapas),0,date of sowing,recommanded information has given,2011-07-20T01:21:00,2011,7
+ANDHRA PRADESH,EAST GODAVARI,KADIAM,NA,HORTICULTURE,Vegetables,2113,0,bitter gourd,fruit rot	spraying of copper oxy chloride 2.0 g,2011-07-20T01:21:00,2011,7
+ANDHRA PRADESH,ANANTPUR,KANEKAL,NA,AGRICULTURE,Fiber Crops,Cotton (Kapas),Fertilizer Use and Availability,fertizers management,Given information as per the data,2011-07-16T07:34:00,2011,7
+ANDHRA PRADESH,CHITTOOR,PEDDAMANDYAM,NA,HORTICULTURE,Flowers,Rose,0,asked about rose palnts,INFORMATION GIVEN AS PER DATA,2011-07-31T05:52:00,2011,7
+ANDHRA PRADESH,ANANTPUR,KOTHACHERUVU,NA,AGRICULTURE,Oilseeds,Groundnut (pea nut/mung phalli),0,asked about helicoverpa damage in ground nut`,recommended Quinolphos 2ml/lt,2011-07-31T08:35:00,2011,7
+ANDHRA PRADESH,ANANTPUR,KALYANDRUG,NA,AGRICULTURE,Oilseeds,"Castor (Rehri, Rendi, Arandi) ",0,castor	fertilizer application,recommanded information has given,2011-07-12T11:08:00,2011,7
+ANDHRA PRADESH,KRISHNA,0   ,NA,HORTICULTURE,Condiments and Spices,Turmeric,0,turmaric	price information,recommanded information has given,2011-07-12T12:46:00,2011,7
+ANDHRA PRADESH,VISAKHAPATNAM,0   ,NA,HORTICULTURE,Fruits,Banana,0,tissue culture information,recommadned information has given per the data,2011-07-13T01:32:00,2011,7
+ANDHRA PRADESH,VIZIANAGARM,0   ,NA,AGRICULTURE,Pulses,Black Gram (urd bean),0,fertiliger application,recommanded information has given,2011-07-15T07:04:00,2011,7
+ANDHRA PRADESH,ANANTPUR,KALYANDRUG,NA,AGRICULTURE,Oilseeds,Groundnut (pea nut/mung phalli),0,asked about groundnut bud necrosis virus control,recommended  monocrotophos/dimethoate,2011-07-15T07:32:00,2011,7
+ANDHRA PRADESH,PRAKASAM,MARKAPUR,NA,AGRICULTURE,Others,Others,0,asked about mulberry diseases,INFORMATION GIVEN AS PER DATA,2011-07-12T08:37:00,2011,7
+ANDHRA PRADESH,KURNOOL,ADONI,NA,HORTICULTURE,Vegetables,Chillies,0,asked about seed treatment in chilli,recommended 150g trisodium orthophosphate +8g confidor +3g mancozeb/capton,2011-07-12T08:37:00,2011,7
+ANDHRA PRADESH,ANANTPUR,TALUPULA,NA,AGRICULTURE,Oilseeds,Groundnut (pea nut/mung phalli),0,asked about helicoverpa damage in ground nut`,recommended Quinolphos 2ml/lt,2011-07-12T08:37:00,2011,7
+ANDHRA PRADESH,CHITTOOR,PITCHATUR,NA,HORTICULTURE,Vegetables,2119,0,pumpkin date of sowing,june- august 15th,2011-07-30T02:26:00,2011,7
+ANDHRA PRADESH,ANANTPUR,KADIRI,NA,AGRICULTURE,Oilseeds,Groundnut (pea nut/mung phalli),0,asked about groundnut helicoverpa damage,NA,2011-07-30T05:59:00,2011,7
+ANDHRA PRADESH,KURNOOL,YEMMIGANUR,NA,HORTICULTURE,Vegetables,Onion,0,asked about onion  disease control,INFORMATION GIVEN AS PER DATA,2011-07-30T05:59:00,2011,7
+ANDHRA PRADESH,Y S R ,MUDDANUR,NA,HORTICULTURE,Fruits,Banana,0,asked about fertilizers in banana,INFORMATION GIVEN AS PER DATA,2011-07-30T05:59:00,2011,7
+ANDHRA PRADESH,PRAKASAM,PODILI,NA,AGRICULTURE,Others,Others,0,asked about vermicompost application in turmeric,INFORMATION GIVEN AS PER DATA,2011-07-30T06:20:00,2011,7
+ANDHRA PRADESH,ANANTPUR,YELLANUR,NA,AGRICULTURE,Cereals,1075,0,asked about maize seeds,INFORMATION GIVEN AS PER DATA,2011-07-30T06:26:00,2011,7
+ANDHRA PRADESH,GUNTUR,TENALI,NA,HORTICULTURE,Fruits,Banana,0,asked about intrcropping in banana,"recommended carrot ,cauliflower etc,..",2011-07-30T06:32:00,2011,7
+ANDHRA PRADESH,ANANTPUR,NALLACHERUVU,NA,AGRICULTURE,Cereals,1137,0,FERTILIZER APPLICATION,RECOMMANDED INFORMATION HAS GIVEN,2011-07-30T08:12:00,2011,7
+ANDHRA PRADESH,ANANTPUR,BUKKARAYASAMUDRAM,NA,AGRICULTURE,Cereals,1137,0,rice	seed treatment,treatment with carbendazin 1.0 g per one kg of water,2011-07-21T11:17:00,2011,7
+ANDHRA PRADESH,EAST GODAVARI,RAJAHMUNDRY RURAL,NA,HORTICULTURE,Fruits,Grape,75,anthracnose controle,Mancozeb 3 gr/lt water,2011-07-20T03:29:00,2011,7
+ANDHRA PRADESH,KURNOOL,MAHANANDI,NA,HORTICULTURE,Condiments and Spices,Turmeric,0,asked about weedicide in turmeric,recommended atrazine,2011-07-20T06:05:00,2011,7
+ANDHRA PRADESH,WEST GODAVARI,KOYYALAGUDEM,NA,AGRICULTURE,Cereals,1137,0,asked about zinc application in rice,INFORMATION GIVEN AS PER DATA,2011-07-18T07:53:00,2011,7
+ANDHRA PRADESH,WEST GODAVARI,T.NARASAPURAM,NA,AGRICULTURE,Fiber Crops,Cotton (Kapas),0,asked about fertilizers in cotton,INFORMATION GIVEN AS PER DATA,2011-07-22T10:32:00,2011,7
+ANDHRA PRADESH,NELLORE,KALUVOYA,NA,HORTICULTURE,Condiments and Spices,Turmeric,0,asked about turmeric weedicide,recommended atrazine,2011-07-18T02:41:00,2011,7
+ANDHRA PRADESH,EAST GODAVARI,RAMPACHODAVARAM,NA,HORTICULTURE,Fruits,Coconut,0,asked about flower drop in coconut,INFORMATION GIVEN AS PER DATA,2011-07-18T03:04:00,2011,7
+ANDHRA PRADESH,VISAKHAPATNAM,0   ,NA,AGRICULTURE,Oilseeds,Groundnut (pea nut/mung phalli),0,date of sowing,recommanded information has given,2011-07-21T01:59:00,2011,7
+ANDHRA PRADESH,ANANTPUR,BATHALAPALLE,NA,AGRICULTURE,Others,Others,0,Asked about rain fall,INFORMATION GIVEN AS PER DATA,2011-07-21T06:17:00,2011,7
+ANDHRA PRADESH,ANANTPUR,TADIMARRI,NA,AGRICULTURE,Others,Others,0,Asked about rain fall,NA,2011-07-21T06:30:00,2011,7
+ANDHRA PRADESH,ANANTPUR,KALYANDRUG,NA,AGRICULTURE,Oilseeds,"Castor (Rehri, Rendi, Arandi) ",0,asked about castor crop yielding,INFORMATION GIVEN AS PER DATA,2011-07-21T06:54:00,2011,7
+ANDHRA PRADESH,KURNOOL,GADIVEMULA,NA,HORTICULTURE,Vegetables,1280,0,chilli	dampingoff,soil trenchng with coc3%,2011-07-14T10:23:00,2011,7
+ANDHRA PRADESH,Y S R ,0   ,NA,AGRICULTURE,Fiber Crops,Cotton (Kapas),0,cotton 	green leaf hopper dmage,spraying of imidachlorpid 0.5 ml per one lit of water,2011-07-11T12:22:00,2011,7
+ANDHRA PRADESH,CHITTOOR,YERPEDU,NA,AGRICULTURE,Cereals,1137,0,"mite damage	mite damage	sp0raying of wettable sulphor 2.0 g per one lit ogf water		mite damage	sp0raying of wettable sulphor 2.0 g per one lit ogf water			
+mite damage	sp0raying of wettable sulphor 2.0 g per one lit ogf water",sp0raying of wettable sulphor 2.0 g per one lit ogf water,2011-07-11T12:37:00,2011,7
+ANDHRA PRADESH,GUNTUR,KROSURU,NA,HORTICULTURE,Condiments and Spices,Turmeric,0,asked about turmeric germination,INFORMATION GIVEN AS PER DATA,2011-07-12T04:41:00,2011,7
+ANDHRA PRADESH,GUNTUR,GURAZALA,NA,HORTICULTURE,Vegetables,Chillies,0,asked about chilli new var.,RECOMMENDED LCA 353,2011-07-12T04:41:00,2011,7
+ANDHRA PRADESH,GUNTUR,RENTACHINTALA,NA,HORTICULTURE,Vegetables,1280,0,chilli varities for virus resinstant,recommanded information has given,2011-07-11T10:03:00,2011,7
+ANDHRA PRADESH,CHITTOOR,CHINNAGOTTIGALLU,NA,HORTICULTURE,Vegetables,2108,0,tomato	fruit borer,spraying of indaxacarb,2011-07-11T10:03:00,2011,7
+ANDHRA PRADESH,CHITTOOR,THAMBALLAPALLE,NA,AGRICULTURE,Oilseeds,"Castor (Rehri, Rendi, Arandi) ",0,castor	verital information,recommanded information has given,2011-07-11T10:03:00,2011,7
+ANDHRA PRADESH,PRAKASAM,SANTHAMAGULURU,NA,AGRICULTURE,Fiber Crops,Cotton (Kapas),0,cotton	date of sowing,recommanded information has given,2011-07-13T08:14:00,2011,7
+ANDHRA PRADESH,GUNTUR,CHERUKUPALLE,NA,AGRICULTURE,Cereals,1137,0,rice	rice varities,Bpt 5204,2011-07-13T10:56:00,2011,7
+ANDHRA PRADESH,GUNTUR,BHATTIPROLU,NA,AGRICULTURE,Cereals,1137,0,rice	seed treatment,treatment with carbendazin 1.0 g per one kg of water,2011-07-13T10:56:00,2011,7
+ANDHRA PRADESH,CHITTOOR,PUTHALAPATTU,NA,AGRICULTURE,Oilseeds,Groundnut (pea nut/mung phalli),0,date of sowing,june august,2011-07-14T01:14:00,2011,7
+ANDHRA PRADESH,ANANTPUR,KAMBADUR,NA,HORTICULTURE,Vegetables,1280,75,desease controle,Given information as per the data,2011-07-14T02:18:00,2011,7
+ANDHRA PRADESH,VIZIANAGARM,CHEEPURUPALLE,NA,AGRICULTURE,Cereals,1137,0,asked about rice seed rate,INFORMATION GIVEN AS PER DATA,2011-07-17T06:23:00,2011,7
+ANDHRA PRADESH,WEST GODAVARI,0   ,NA,HORTICULTURE,Vegetables,Others,0,beans	beetle damage,recommanded information has given,2011-07-17T07:04:00,2011,7
+ANDHRA PRADESH,VIZIANAGARM,KOMARADA,NA,AGRICULTURE,Pulses,Black Gram (urd bean),0,seed rate,3-4 kg per acare,2011-07-17T07:04:00,2011,7
+ANDHRA PRADESH,ANANTPUR,TADIMARRI,NA,AGRICULTURE,Others,Others,0,asked about rain fall,INFORMATION GIVEN AS PER DATA,2011-07-22T02:02:00,2011,7
+ANDHRA PRADESH,KRISHNA,MUSUNURU,NA,HORTICULTURE,Vegetables,1280,0,asked about chilli seed treatment,recommended mancozeb 3g/lt,2011-07-22T02:05:00,2011,7
