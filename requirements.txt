@@ -1,0 +1,6 @@
+chromadb==0.4.21
+sentence-transformers==2.5.1
+groq==0.2.1
+openai==1.14.2
+tqdm==4.66.2
+python-dotenv==1.0.1
