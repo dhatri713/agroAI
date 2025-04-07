@@ -20,7 +20,7 @@ class QueryProcessor:
         self.embedding_model = SentenceTransformer("sentence-transformers/paraphrase-mpnet-base-v2")
 
     def expand_query(self, query: str) -> str:
-        system_prompt = "You are an AI assistant that expands short user queries from farmers with related words along with existing words so that it is optimised for better retrieval for my QA system respond in a clear single sentence only."
+        system_prompt = "You are an AI assistant that expands short user queries from farmers with related words along with existing words so that it is optimised for better retrieval for my QA system respond in a clear single sentence only. Dont write anything extra. Just the expanded query that will directly be passed for embedding."
 
         user_prompt = f"Expand this query in detail: {query}"
 
