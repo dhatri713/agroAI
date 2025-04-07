@@ -29,8 +29,8 @@ class SentenceEmbedder:
         # Generate embedding for a single query
         return self.embed_text(query)[0]
 
-if __name__ == "__main__":
-    embedder = SentenceEmbedder()
-    sample_text = "Symptoms of bacterial wilt in chilli include wilting of leaves."
+# if __name__ == "__main__":
+#     embedder = SentenceEmbedder()
+#     sample_text = "Symptoms of bacterial wilt in chilli include wilting of leaves."
     
-    print("Query Embedding:", embedder.embed_query(sample_text))
+#     print("Query Embedding:", embedder.embed_query(sample_text))

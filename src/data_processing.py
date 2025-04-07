@@ -1,6 +1,6 @@
 import json
 import os
-import pprint
+# import pprint
 from typing import List, Dict, Any, Optional
 
 class DataProcessor:
@@ -132,18 +132,18 @@ class DataProcessor:
     
         return chunks
 
-pp = pprint.PrettyPrinter(indent=2)
+# pp = pprint.PrettyPrinter(indent=2)
 
-if __name__ == "__main__":
-    processor = DataProcessor(data_dir="../data")
-    files = processor.list_data_files()
+# if __name__ == "__main__":
+#     processor = DataProcessor(data_dir="../data")
+#     files = processor.list_data_files()
 
-    print(f"Found {len(files)} files.")
+#     print(f"Found {len(files)} files.")
 
-    for file_path in files:
-        print(f"\nProcessing: {file_path}")
-        chunks = processor.process_files(file_path)
-        print(f"Generated {len(chunks)} chunks:")
-        for chunk in chunks:
-            pp.pprint(chunk)
+#     for file_path in files:
+#         print(f"\nProcessing: {file_path}")
+#         chunks = processor.process_files(file_path)
+#         print(f"Generated {len(chunks)} chunks:")
+#         for chunk in chunks:
+#             pp.pprint(chunk)
 
