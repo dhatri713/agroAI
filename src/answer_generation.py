@@ -15,7 +15,7 @@ class AnswerGenerator:
         context = "\n\n".join([doc['text'] for doc in retrieved_docs])
         prompt = f"""You are an expert agricultural assistant.
 
-        Use the following information to answer the user's query in a simple and accurate manner. Try to use as much as the information possible based on the user query. This is for the betterment of farming practices.
+        Use the following information to answer the user's query in a simple and accurate manner. Try to use as much as the information possible based on the user query. This is for the betterment of farming practices. Please make sure you go through all of the documents retrieved and answer in the most comprehensive way.
 
         Context:
         {context}

@@ -1,17 +1,19 @@
 import numpy as np
 from typing import List, Dict, Any
+import warnings
+warnings.filterwarnings("ignore")
 
 class RetrieverAndRanker:
     def __init__(self, vector_store):
         # vector_store: instance of your ChromaVectorStore class
         self.collection = vector_store.collection
-        print(f"Connected to collection with {self.collection.count()} documents")
+        # print(f"Connected to collection with {self.collection.count()} documents")
 
     def cosine_similarity(self, a: np.ndarray, b: np.ndarray) -> float:
         return np.dot(a, b) / (np.linalg.norm(a) * np.linalg.norm(b))
     
     def retrieve_and_rerank(self, query_embedding: List[float], top_k: int = 5) -> List[Dict[str, Any]]:
-        print(f"Retrieving top {top_k} documents...")
+        # print(f"Retrieving top {top_k} documents...")
         
         # Query the collection - add include parameter to get embeddings
         results = self.collection.query(
@@ -20,7 +22,7 @@ class RetrieverAndRanker:
             include=["embeddings", "documents", "metadatas", "distances"]
         )
         
-        print(f"Query returned {len(results['ids'][0])} documents")
+        # print(f"Query returned {len(results['ids'][0])} documents")
         
         # If no results returned, return empty list
         if not results['ids'][0]:
@@ -33,7 +35,7 @@ class RetrieverAndRanker:
         metadatas = results['metadatas'][0]
         ids = results['ids'][0]
         
-        print(f"Re-ranking {len(documents)} documents")
+        # print(f"Re-ranking {len(documents)} documents")
         
         # Re-rank using cosine similarity
         ranked = []
@@ -48,7 +50,7 @@ class RetrieverAndRanker:
 
         # Sort by score descending
         ranked = sorted(ranked, key=lambda x: x['score'], reverse=True)
-        print(f"Re-ranking complete. Best score: {ranked[0]['score']:.4f}")
+        # print(f"Re-ranking complete. Best score: {ranked[0]['score']:.4f}")
         
         return ranked
     
