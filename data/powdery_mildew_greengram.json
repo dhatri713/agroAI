@@ -1,0 +1,88 @@
+{
+  "crop": "Green Gram",
+  "disease": {
+    "name": "Powdery Mildew",
+    "pathogen": "Erysiphe polygoni",
+    "category": "Fungal Disease",
+    "severity": "High",
+    "severity_index": "Can cause significant yield loss, up to 30–50% if uncontrolled",
+    "seasonal_patterns": {
+      "peak_occurrence": "November to February (Rabi season)",
+      "favorable_weather_conditions": {
+        "temperature": "15–25°C",
+        "humidity": "Above 70%"
+      }
+    },
+    "environmental_factors": {
+      "temperature_humidity": "Prefers cool, humid environments with poor air circulation",
+      "soil_conditions": "High nitrogen content in soil can worsen infection"
+    },
+    "affected_regions": {
+      "Andhra Pradesh": [
+        "Krishna",
+        "Guntur",
+        "Prakasam",
+        "East Godavari",
+        "West Godavari"
+      ],
+      "Telangana": [
+        "Warangal",
+        "Nalgonda",
+        "Khammam",
+        "Mahabubnagar"
+      ]
+    },
+    "region_specific_information": {
+      "Andhra Pradesh": "Powdery mildew occurs heavily in coastal districts due to high humidity and fog in winter.",
+      "Telangana": "The disease is more severe in low-lying areas with poor drainage."
+    },
+    "symptoms": {
+      "early_stage": [
+        "Small, white powdery patches on leaves, stems, and pods",
+        "Infection starts on lower leaves and spreads upwards"
+      ],
+      "mid_stage": [
+        "Powdery white fungal growth expands, covering larger leaf areas",
+        "Leaves become yellow and distorted",
+        "Reduced pod formation due to weakened plant health"
+      ],
+      "advanced_stage": [
+        "Severe defoliation (leaf drop)",
+        "Reduced chlorophyll leading to poor photosynthesis",
+        "Grain shriveling and low seed quality"
+      ]
+    },
+    "prevention_methods": {
+      "resistant_varieties": [
+        "IPM 02-3",
+        "ML 267",
+        "PDM-84-139"
+      ],
+      "proper_irrigation": [
+        "Avoid excessive nitrogen fertilizers",
+        "Improve field aeration by maintaining proper plant spacing"
+      ],
+      "soil_seed_treatment": [
+        "Treat seeds with Carbendazim 2 g/kg seed to reduce initial infection"
+      ]
+    },
+    "treatment": {
+      "cultural_practices": [
+        "Avoid late sowing to escape peak infection periods",
+        "Intercropping with cereals (e.g., sorghum, pearl millet) reduces disease spread",
+        "Destroy infected plant debris after harvest to prevent spore carryover"
+      ],
+      "biological_control": [
+        "Neem Oil @ 5 ml/L water shows some control but is not highly effective",
+        "Trichoderma viride @ 5 g/kg seed reduces early fungal attack"
+      ],
+      "chemical_control": [
+        "Hexaconazole (Contaf) @ 400 ml/acre",
+        "Myclobutanil (Index) @ 150 g in 200L water",
+        "Dinocap (Kerathane) @ 400 ml/acre",
+        "Wettable Sulphur @ 3 g/L water",
+        "Carbendazim (Bavistin) @ 1 g/L water"
+      ]
+    }
+  }
+}

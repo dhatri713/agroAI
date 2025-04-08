@@ -1,0 +1,90 @@
+{
+  "crop": "Cotton",
+  "disease": {
+    "name": "Pink Bollworm",
+    "pathogen": "Pectinophora gossypiella",
+    "category": "Insect Pest (Bollworm)",
+    "severity": "High",
+    "severity_index": "Can cause up to 30–50% yield loss if untreated",
+    "seasonal_patterns": {
+      "peak_occurrence": "July to October (Kharif season)",
+      "favorable_weather_conditions": {
+        "temperature": "25–30°C",
+        "humidity": "Moderate to high",
+        "rainfall": "Frequent rainfall increases infestation risk"
+      }
+    },
+    "environmental_factors": {
+      "temperature_humidity": "Prefers warm and humid conditions",
+      "soil_conditions": "More prevalent in irrigated cotton fields"
+    },
+    "affected_regions": {
+      "Andhra Pradesh": [
+        "Guntur",
+        "Krishna",
+        "Prakasam",
+        "Anantapur",
+        "Kurnool"
+      ],
+      "Telangana": [
+        "Warangal",
+        "Nalgonda",
+        "Mahabubnagar",
+        "Adilabad"
+      ]
+    },
+    "region_specific_information": {
+      "Andhra Pradesh": "Severe outbreaks in regions with continuous cotton cropping",
+      "Telangana": "Higher infestation in Bt cotton-growing areas"
+    },
+    "symptoms": {
+      "early_stage": [
+        "Small boreholes on young cotton bolls",
+        "Premature boll shedding"
+      ],
+      "mid_stage": [
+        "Larvae inside bolls feeding on seeds",
+        "Discolored lint due to pest damage"
+      ],
+      "advanced_stage": [
+        "Severe boll rotting",
+        "Poor fiber quality leading to economic loss"
+      ]
+    },
+    "prevention_methods": {
+      "resistant_varieties": [
+        "Bt Cotton (Partial resistance)",
+        "Suraj",
+        "JKCH 1947"
+      ],
+      "crop_rotation": [
+        "Avoid continuous cotton cropping",
+        "Rotate with non-host crops like pulses",
+        "Plow fields after harvest to expose and kill larvae"
+      ],
+      "soil_seed_treatment": [
+        "Seed treatment with Imidacloprid 70 WS @ 5 g/kg seed to prevent early attacks"
+      ]
+    },
+    "treatment": {
+      "cultural_practices": [
+        "Destroy infested bolls to prevent larvae carryover",
+        "Use pheromone traps (at 5 traps/acre) to monitor adult moth activity",
+        "Practice deep plowing after harvest to expose larvae",
+        "Early sowing to escape peak pest infestation"
+      ],
+      "biological_control": [
+        "Release of Trichogramma bactrae (egg parasitoid) for natural control",
+        "Spraying Neem Oil @ 5 ml/L water to deter egg-laying"
+      ],
+      "chemical_control": [
+        "Emamectin Benzoate @ 0.4 g/L water",
+        "Spinosad @ 0.3 ml/L water",
+        "Chlorantraniliprole (Coragen) @ 0.3 ml/L water",
+        "Thiodicarb @ 1 g/L water",
+        "Indoxacarb @ 1 ml/L water",
+        "Flubendiamide @ 0.2 ml/L water"
+      ]
+    }
+  }
+}

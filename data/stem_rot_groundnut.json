@@ -1,0 +1,93 @@
+{
+  "crop": "Groundnut",
+  "disease": {
+    "name": "Stem Rot",
+    "pathogen": "Sclerotium rolfsii",
+    "category": "Fungal Disease",
+    "severity": "High",
+    "severity_index": "Can cause up to 50–70% yield loss if untreated",
+    "seasonal_patterns": {
+      "peak_occurrence": "June to October (Kharif season)",
+      "favorable_weather_conditions": {
+        "temperature": "25–30°C",
+        "soil_moisture": "High",
+        "drainage": "Poor drainage increases risk"
+      }
+    },
+    "environmental_factors": {
+      "temperature_humidity": "Prefers warm, humid conditions with poor drainage",
+      "soil_conditions": "More severe in sandy loam soils with high organic matter"
+    },
+    "affected_regions": {
+      "Andhra Pradesh": [
+        "Anantapur",
+        "Kurnool",
+        "Kadapa",
+        "Chittoor",
+        "Nellore"
+      ],
+      "Telangana": [
+        "Nalgonda",
+        "Mahabubnagar",
+        "Adilabad",
+        "Warangal",
+        "Medak"
+      ]
+    },
+    "region_specific_information": {
+      "Andhra Pradesh": "High prevalence in low-lying fields with water stagnation",
+      "Telangana": "More severe in rainfed areas with continuous groundnut cultivation"
+    },
+    "symptoms": {
+      "early_stage": [
+        "Brown, water-soaked lesions at the base of stems",
+        "Wilting of lower leaves, progressing upwards"
+      ],
+      "mid_stage": [
+        "Formation of white fungal mycelium around the stem base",
+        "Rotted roots and weak plant anchorage",
+        "Yellowing and drying of leaves"
+      ],
+      "advanced_stage": [
+        "Complete plant collapse due to root and stem decay",
+        "Formation of mustard seed-like sclerotia in soil",
+        "Poor pod development and shriveled seeds"
+      ]
+    },
+    "prevention_methods": {
+      "resistant_varieties": [
+        "ICGV 91114 (Moderately resistant)",
+        "K 6",
+        "K 9"
+      ],
+      "crop_rotation": [
+        "Avoid continuous groundnut cropping",
+        "Rotate with maize or sorghum",
+        "Deep plowing after harvest to expose fungal structures"
+      ],
+      "soil_seed_treatment": [
+        "Seed treatment with Trichoderma viride @ 4 g/kg seed",
+        "Basal application of Neem Cake @ 100 kg/acre"
+      ]
+    },
+    "treatment": {
+      "cultural_practices": [
+        "Improve field drainage to reduce excess moisture",
+        "Solarization of soil using polythene sheets before sowing",
+        "Uprooting infected plants to prevent disease spread"
+      ],
+      "biological_control": [
+        "Trichoderma viride @ 2.5 kg/acre in FYM as soil application",
+        "Pseudomonas fluorescens @ 10 g/kg seed for early protection"
+      ],
+      "chemical_control": [
+        "Propiconazole @ 1 ml/L water",
+        "Mancozeb @ 2.5 g/L water",
+        "Carbendazim @ 1 g/L water",
+        "Copper Oxychloride @ 600 g/200L water",
+        "Flusilazole 12.5% @ 2 ml/L water",
+        "Hexaconazole (Contaf) @ 2 ml/L water"
+      ]
+    }
+  }
+}

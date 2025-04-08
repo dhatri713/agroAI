@@ -1,0 +1,87 @@
+{
+  "crop": "Groundnut",
+  "disease": {
+    "name": "White Grubs",
+    "pathogen": "Holotrichia spp. (Holotrichia consanguinea, Holotrichia serrata, Holotrichia fissa)",
+    "category": "Insect Pest (Coleoptera: Scarabaeidae)",
+    "severity": "High",
+    "severity_index": "Can cause 40–60% yield loss if uncontrolled",
+    "seasonal_patterns": {
+      "peak_occurrence": "June to September (Kharif season)",
+      "favorable_weather_conditions": {
+        "temperature": "25–35°C",
+        "soil_moisture": "High"
+      }
+    },
+    "environmental_factors": {
+      "temperature_humidity": "Prefers warm, humid environments with loose, sandy soils",
+      "soil_conditions": "More severe in moist sandy loam soils with crop residues"
+    },
+    "affected_regions": {
+      "Andhra Pradesh": [
+        "Anantapur",
+        "Kurnool",
+        "Kadapa",
+        "Chittoor",
+        "Nellore"
+      ],
+      "Telangana": [
+        "Nalgonda",
+        "Mahabubnagar",
+        "Adilabad",
+        "Warangal",
+        "Medak"
+      ]
+    },
+    "region_specific_information": {
+      "Andhra Pradesh": "High infestations reported in red loamy soils of Anantapur and Chittoor.",
+      "Telangana": "White grubs are a serious concern in rainfed groundnut areas."
+    },
+    "symptoms": {
+      "early_stage": [
+        "Wilting of young plants due to root damage",
+        "Stunted growth and yellowing leaves"
+      ],
+      "mid_stage": [
+        "Grubs feeding on root nodules, causing poor nutrient uptake",
+        "Weakened plant stems, making them easy to uproot"
+      ],
+      "advanced_stage": [
+        "Complete plant collapse due to root destruction",
+        "Holes in developing pods, leading to reduced nut formation"
+      ]
+    },
+    "prevention_methods": {
+      "resistant_varieties": [
+        "ICGV 91114",
+        "K 6",
+        "K 9"
+      ],
+      "crop_rotation": [
+        "Rotate groundnut with non-host crops like sorghum or maize",
+        "Avoid back-to-back groundnut planting in the same field"
+      ],
+      "soil_seed_treatment": [
+        "Basal application of Phorate 10G @ 5-6 kg/acre before sowing",
+        "Seed treatment with Imidacloprid @ 5 g/kg seed for early-stage protection"
+      ]
+    },
+    "treatment": {
+      "cultural_practices": [
+        "Deep plowing before sowing to expose and destroy larvae",
+        "Flooding fields for 2-3 days kills early-stage grubs",
+        "Encouraging bird predation (crows, mynas) for grub control"
+      ],
+      "biological_control": [
+        "Metarhizium anisopliae @ 2.5 kg/acre mixed with FYM reduces larval population",
+        "Neem Cake @ 100 kg/acre as a natural repellent"
+      ],
+      "chemical_control": [
+        "Chlorpyrifos @ 500 ml/acre as soil drenching",
+        "Phorate 10G @ 5-6 kg/acre in furrows at sowing",
+        "Carbofuran 3G @ 8-10 kg/acre in standing crops",
+        "Chlorpyrifos 6 ml/L water for localized infestation"
+      ]
+    }
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "crop": "Chilli",
+  "disease": {
+    "name": "Fruit Borer",
+    "pathogen": "Helicoverpa armigera",
+    "category": "Insect Pest",
+    "severity": "High",
+    "severity_index": "Can cause up to 70% yield loss if untreated",
+    "seasonal_patterns": {
+      "peak_occurrence": "July to October (Kharif season)",
+      "favorable_weather_conditions": {
+        "temperature": "25–32°C",
+        "humidity": "Moderate"
+      }
+    },
+    "environmental_factors": {
+      "temperature_humidity": "Prefers warm, humid conditions",
+      "soil_conditions": "More severe in rainfed and irrigated chilli crops"
+    },
+    "affected_regions": {
+      "Andhra Pradesh": [
+        "Guntur",
+        "Krishna",
+        "Prakasam",
+        "Kurnool",
+        "Anantapur"
+      ],
+      "Telangana": [
+        "Warangal",
+        "Karimnagar",
+        "Nizamabad",
+        "Khammam",
+        "Mahabubnagar"
+      ]
+    },
+    "region_specific_information": {
+      "Andhra Pradesh": "More severe in coastal districts due to higher humidity",
+      "Telangana": "Common in rainfed chilli farms"
+    },
+    "symptoms": {
+      "early_stage": [
+        "Holes in developing fruits",
+        "Wilting of flower buds due to larvae feeding"
+      ],
+      "mid_stage": [
+        "Larvae burrow into chilli fruits, leaving black frass deposits",
+        "Distorted fruits with internal damage"
+      ],
+      "advanced_stage": [
+        "Rotting of infected fruits leading to secondary fungal infections",
+        "Severe yield loss due to fruit drop"
+      ]
+    },
+    "prevention_methods": {
+      "resistant_varieties": [
+        "Arka Lohit",
+        "Arka Meghana",
+        "Kashi Anmol"
+      ],
+      "crop_rotation": [
+        "Avoid continuous chilli cropping",
+        "Rotate with maize or pulses",
+        "Deep plowing after harvest to destroy overwintering larvae"
+      ],
+      "soil_seed_treatment": [
+        "Seed treatment with Imidacloprid @ 5 g/kg seed for early-stage protection"
+      ]
+    },
+    "treatment": {
+      "cultural_practices": [
+        "Installation of pheromone traps (5 per acre) to monitor adult moths",
+        "Removal of infected fruits to prevent further infestation",
+        "Encourage natural predators (Trichogramma spp.)"
+      ],
+      "biological_control": [
+        "Neem oil @ 5 ml/L water as a repellent",
+        "Bacillus thuringiensis (Bt) spray @ 1.5 g/L water to target larvae"
+      ],
+      "chemical_control": [
+        "Chlorpyrifos @ 2.5 ml/L water",
+        "Carbaryl @ 3 g/L water",
+        "Spinosad (Tracer) @ 60 ml/acre",
+        "Flubendiamide (Fame) @ 40 ml/acre",
+        "Chlorantraniliprole (Coragen) @ 60 ml/acre",
+        "Syngenta Voliam Flexi (Thiamethoxam + Chlorantraniliprole) @ 80 ml/acre"
+      ]
+    }
+  }
+}

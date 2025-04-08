@@ -1,0 +1,86 @@
+{
+  "crop": "Rice",
+  "disease": {
+    "name": "Earhead Bug",
+    "pathogen": "Leptocorisa oratorius",
+    "category": "Insect Pest",
+    "severity": "High",
+    "severity_index": "Can cause up to 30% yield loss if untreated",
+    "seasonal_patterns": {
+      "peak_occurrence": "September to October",
+      "favorable_weather_conditions": {
+        "temperature": "25–30°C",
+        "humidity": "Above 80%",
+        "standing_water": "Common in waterlogged paddy fields"
+      }
+    },
+    "environmental_factors": {
+      "temperature_humidity": "Prefers humid environments with standing water",
+      "soil_conditions": "More severe in waterlogged paddy fields"
+    },
+    "affected_regions": {
+      "Andhra Pradesh": [
+        "East Godavari",
+        "West Godavari",
+        "Krishna",
+        "Nellore",
+        "Guntur"
+      ],
+      "Telangana": [
+        "Nalgonda",
+        "Karimnagar",
+        "Warangal",
+        "Khammam",
+        "Adilabad"
+      ]
+    },
+    "region_specific_information": {
+      "Andhra Pradesh": "Higher prevalence in coastal districts due to high humidity",
+      "Telangana": "Common in irrigated rice fields with dense vegetation"
+    },
+    "symptoms": {
+      "early_stage": [
+        "Grain discoloration at the milk stage",
+        "Increased presence of adult bugs in panicle area"
+      ],
+      "mid_stage": [
+        "Shriveled grains due to bug feeding",
+        "Stunted panicle growth"
+      ],
+      "advanced_stage": [
+        "Complete grain sterility and empty grains",
+        "Secondary fungal infections due to damaged grains"
+      ]
+    },
+    "prevention_methods": {
+      "resistant_varieties": [
+        "MTU 1010 (Cotton Dora Sannalu)",
+        "Swarna",
+        "RNR-15048 (Telangana Sona)"
+      ],
+      "crop_management": [
+        "Timely sowing and harvesting to avoid peak bug infestation",
+        "Maintain proper spacing between plants to improve air circulation"
+      ],
+      "biological_control": [
+        "Predatory birds & spiders help reduce bug populations",
+        "Neem oil spray @ 5 ml/L water repels adult bugs"
+      ]
+    },
+    "treatment": {
+      "cultural_practices": [
+        "Use of light traps to monitor adult bug population",
+        "Manual removal of egg masses from leaves"
+      ],
+      "biological_control": [
+        "Application of Metarhizium anisopliae (Entomopathogenic fungus) to control nymphs",
+        "Use of Beauveria bassiana-based bio-insecticide"
+      ],
+      "chemical_control": [
+        "Malathion (Cythion, Chemiton) @ 400 ml/200L water per acre",
+        "Dichlorvos (DDVP) @ 250 ml per acre",
+        "Chlorantraniliprole (Coragen) @ 60 ml/acre"
+      ]
+    }
+  }
+}

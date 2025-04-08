@@ -1,0 +1,93 @@
+{
+  "crop": "Cotton",
+  "disease": {
+    "name": "Cotton Leaf Curl Virus (CLCuV)",
+    "pathogen": "Begomovirus (Family: Geminiviridae)",
+    "category": "Viral Disease",
+    "severity": "High",
+    "severity_index": "Can cause 30–90% yield loss if uncontrolled",
+    "seasonal_patterns": {
+      "peak_occurrence": "June to October (Kharif season)",
+      "favorable_weather_conditions": {
+        "temperature": "25–35°C",
+        "humidity": "High",
+        "vector_activity": "Whitefly population increases during warm, humid periods"
+      }
+    },
+    "environmental_factors": {
+      "temperature_humidity": "Prefers warm, humid climates with limited rainfall",
+      "soil_conditions": "More severe in rainfed cotton areas with dense plantings"
+    },
+    "affected_regions": {
+      "Andhra Pradesh": [
+        "Guntur",
+        "Krishna",
+        "Prakasam",
+        "Kurnool",
+        "Anantapur"
+      ],
+      "Telangana": [
+        "Warangal",
+        "Karimnagar",
+        "Adilabad",
+        "Nalgonda",
+        "Mahabubnagar"
+      ]
+    },
+    "region_specific_information": {
+      "Andhra Pradesh": "Coastal districts face higher disease prevalence due to humid conditions",
+      "Telangana": "Rainfed cotton areas like Warangal and Karimnagar are more affected"
+    },
+    "symptoms": {
+      "early_stage": [
+        "Upward and downward leaf curling",
+        "Thickened and dark green veins on leaves",
+        "Slight stunted growth"
+      ],
+      "mid_stage": [
+        "Formation of cup-shaped leaves",
+        "Whitefly infestation on leaf undersides",
+        "Reduction in boll formation"
+      ],
+      "advanced_stage": [
+        "Complete stunting of plants",
+        "No flowering or fruiting, leading to heavy yield loss",
+        "Infected plants become unproductive"
+      ]
+    },
+    "prevention_methods": {
+      "resistant_varieties": [
+        "Bt Cotton (Bollgard II) with tolerance to CLCuV",
+        "LH2108",
+        "CIM-632"
+      ],
+      "crop_rotation": [
+        "Avoid continuous cotton cropping",
+        "Rotate with pulses or cereals",
+        "Destroy infected cotton plants immediately after harvest"
+      ],
+      "soil_seed_treatment": [
+        "Seed treatment with Imidacloprid @ 5 g/kg seed to reduce early-stage vector attack"
+      ]
+    },
+    "treatment": {
+      "cultural_practices": [
+        "Early sowing in June-July reduces whitefly infestation risks",
+        "Use of yellow sticky traps (5 per acre) to monitor vector activity",
+        "Remove weeds and alternate hosts (okra, hibiscus) to limit virus spread"
+      ],
+      "biological_control": [
+        "Releasing Chrysoperla carnea (Green Lacewing) to feed on whiteflies",
+        "Neem oil spray @ 5 ml/L water as a repellent"
+      ],
+      "chemical_control": [
+        "Acephate @ 300 g/acre",
+        "Triazophos (Hostathion) @ 1 ml/L water",
+        "Monocrotophos (Nuvacron) @ 400 ml/acre",
+        "Fipronil (Regent) @ 2 ml/L water",
+        "Difenthiuron (Pegasus) @ 80 g/acre",
+        "Neem oil @ 5 ml/L water (preventive measure)"
+      ]
+    }
+  }
+}

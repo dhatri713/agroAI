@@ -1,0 +1,82 @@
+{
+  "crop": "Green Gram",
+  "disease": {
+    "name": "Jassids",
+    "pathogen": "Amrasca biguttula biguttula",
+    "category": "Insect Pest (Sucking Pest)",
+    "severity": "High",
+    "severity_index": "Can cause up to 30–50% yield loss if not managed",
+    "seasonal_patterns": {
+      "peak_occurrence": "June to October (Kharif season)",
+      "favorable_weather_conditions": {
+        "temperature": "25–30°C",
+        "humidity": "High"
+      }
+    },
+    "environmental_factors": {
+      "temperature_humidity": "Prefers warm and humid conditions",
+      "soil_conditions": "High moisture in the soil encourages pest infestation"
+    },
+    "affected_regions": {
+      "Andhra Pradesh": [
+        "Krishna",
+        "Guntur",
+        "Prakasam",
+        "East Godavari",
+        "West Godavari"
+      ],
+      "Telangana": [
+        "Warangal",
+        "Nalgonda",
+        "Khammam",
+        "Mahabubnagar"
+      ]
+    },
+    "region_specific_information": "Higher infestations occur in regions with frequent rainfall and dense cropping.",
+    "symptoms": {
+      "early_stage": [
+        "Yellowing and curling of leaf margins",
+        "Slight stunted growth of plants"
+      ],
+      "mid_stage": [
+        "Leaves become cupped and crinkled",
+        "Heavy infestation leads to burnt appearance of leaves (Hopper Burn)"
+      ],
+      "advanced_stage": [
+        "Severe defoliation reducing pod formation",
+        "Reduced chlorophyll, leading to poor photosynthesis",
+        "Can lead to up to 30–50% yield loss if not managed"
+      ]
+    },
+    "prevention_methods": {
+      "resistant_varieties": [
+        "IPM 02-3",
+        "PDM-84-139"
+      ],
+      "crop_rotation": [
+        "Intercropping with sorghum/millet reduces pest occurrence"
+      ],
+      "soil_seed_treatment": [
+        "Seed treatment with Imidacloprid 70 WS @ 5 g/kg seed reduces early-stage attacks"
+      ]
+    },
+    "treatment": {
+      "cultural_practices": [
+        "Intercropping with sorghum/millet reduces pest occurrence",
+        "Using yellow sticky traps to monitor adult populations",
+        "Avoid excessive nitrogen fertilizers as they promote pest multiplication",
+        "Ensure well-drained soil to reduce moisture-loving insect population"
+      ],
+      "biological_control": [
+        "Release of Chrysoperla carnea (Green Lacewing) as a natural predator",
+        "Spraying Neem Oil @ 5 ml/liter water to deter infestation"
+      ],
+      "chemical_control": [
+        "Thiamethoxam @ 0.3 g/L water",
+        "Acetamiprid @ 0.2 g/L water",
+        "Quinalphos @ 2 ml/L water",
+        "Acephate + Imidacloprid @ 1 ml/L water"
+      ]
+    }
+  }
+}

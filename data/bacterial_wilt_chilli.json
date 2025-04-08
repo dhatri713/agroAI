@@ -1,0 +1,89 @@
+{
+  "crop": "Chilli",
+  "disease": {
+    "name": "Bacterial Wilt",
+    "category": "Bacterial Disease",
+    "severity": "High",
+    "severity_index": "Can cause up to 80% yield loss if untreated",
+    "seasonal_patterns": {
+      "peak_occurrence": "July to October (Kharif season)",
+      "favorable_weather_conditions": {
+        "temperature": "25–35°C",
+        "soil_moisture": "High",
+        "drainage": "Poor drainage increases risk"
+      }
+    },
+    "environmental_factors": {
+      "temperature_humidity": "Prefers warm, humid conditions with high soil moisture",
+      "soil_conditions": "More severe in clayey and waterlogged soils"
+    },
+    "affected_regions": {
+      "Andhra Pradesh": [
+        "Guntur",
+        "Krishna",
+        "Prakasam",
+        "Kurnool",
+        "Anantapur"
+      ],
+      "Telangana": [
+        "Warangal",
+        "Karimnagar",
+        "Nizamabad",
+        "Khammam",
+        "Mahabubnagar"
+      ]
+    },
+    "region_specific_information": {
+      "Andhra Pradesh": "Higher prevalence in coastal chilli farms with heavy rainfall",
+      "Telangana": "More common in irrigated farms with poor drainage"
+    },
+    "symptoms": {
+      "early_stage": [
+        "Sudden wilting of young plants",
+        "Drooping leaves (remain green initially)"
+      ],
+      "mid_stage": [
+        "Dark brown streaks on lower stems",
+        "Yellowing of older leaves before complete wilting"
+      ],
+      "advanced_stage": [
+        "Complete plant collapse",
+        "Brown discoloration of vascular tissues when stems are cut"
+      ]
+    },
+    "prevention_methods": {
+      "resistant_varieties": [
+        "Arka Lohit",
+        "Arka Meghana",
+        "Kashi Anmol"
+      ],
+      "crop_rotation": [
+        "Avoid continuous chilli cropping",
+        "Rotate with cereals or pulses",
+        "Deep plowing after harvest"
+      ],
+      "soil_seed_treatment": [
+        "Seed treatment with Streptocycline @ 0.5 g/L water before sowing",
+        "Basal application of Neem Cake @ 100 kg/acre to reduce bacterial load"
+      ]
+    },
+    "treatment": {
+      "cultural_practices": [
+        "Improve soil drainage to reduce waterlogging risks",
+        "Avoid overhead irrigation",
+        "Remove infected plants immediately to prevent further spread"
+      ],
+      "biological_control": [
+        "Pseudomonas fluorescens @ 5 g/kg seed reduces bacterial infection",
+        "Bacillus mycoides soil application improves plant immunity"
+      ],
+      "chemical_control": [
+        "Copper Oxychloride @ 600 g/acre as foliar spray",
+        "Streptocycline @ 1 g/10 L water applied at root zone",
+        "Blitox (Copper Oxychloride) @ 3 g/L water",
+        "Hexaconazole (Contaf) @ 4 ml/L water",
+        "Trichoderma viride soil drenching for disease suppression"
+      ]
+    }
+  }
+}
