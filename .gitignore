@@ -19,3 +19,7 @@ venv/
 # OS files
 .DS_Store
 Thumbs.db
+
+# gcs api
+agroai-voice-key.json
+node_modules

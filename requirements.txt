@@ -1,6 +1,26 @@
-chromadb==0.4.21
-sentence-transformers==2.5.1
-groq==0.2.1
-openai==1.14.2
-tqdm==4.66.2
-python-dotenv==1.0.1
+# Core Python Libraries
+numpy
+pandas
+
+# FastAPI Backend Framework
+fastapi
+uvicorn
+
+# Vector DB / Retrieval
+chromadb
+
+# Embeddings & NLP
+sentence-transformers
+openai
+
+# Audio / Speech to Text
+SpeechRecognition
+
+# Translation
+googletrans==4.0.0-rc1
+
+# Environment Variables
+python-dotenv
+
+# Cross-Origin Requests Handling
+fastapi[all]
