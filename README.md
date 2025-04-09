@@ -30,7 +30,7 @@ AgroAI helps farmers get instant answers about crop diseases and pests using adv
 
 ### Clone the Repository
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/dhatri713/agroAI.git
 cd AgroAI
 ```
 
@@ -50,24 +50,12 @@ npm install
 
 ---
 
-## 🗝️ Environment Variables
-
-Create a `.env` file in root directory based on `.env.example`:
-
-```
-OPENAI_API_KEY=your_value_here
-GROQ_API_KEY=your_value_here
-CHROMA_DB_PATH=your_value_here
-```
-
----
-
 ## 🚀 Running the Project
 
 ### Backend (Python)
 ```bash
 cd backend
-python app.py  # or main.py or whatever your entry file is
+uvicorn app:app --reload  
 ```
 
 ### Frontend (Node/JS)
